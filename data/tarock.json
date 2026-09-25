@@ -1,0 +1,1196 @@
+{
+  "id": "tarock",
+  "name": "Austrian Tarock (Industrie und Glück)",
+  "short_name": "Tarock",
+  "family": "Central European tarot",
+  "description": "The 54-card Austrian Tarock pack: 22 tarocks plus 32 French-suited cards. Tarock is a game deck; these meanings are an original system written for this bot.",
+  "card_aspect": 0.53,
+  "color": 6060697,
+  "reversals": false,
+  "spreads": [
+    "single",
+    "industrie",
+    "trull",
+    "three",
+    "situation",
+    "celtic"
+  ],
+  "suits": {
+    "herz": {
+      "name": "Herz (Hearts)",
+      "color": 13183530,
+      "domain": "love, home, friendship"
+    },
+    "karo": {
+      "name": "Karo (Diamonds)",
+      "color": 15227148,
+      "domain": "money, trade, possessions"
+    },
+    "kreuz": {
+      "name": "Kreuz (Clubs)",
+      "color": 2853438,
+      "domain": "work, effort, ambition"
+    },
+    "pik": {
+      "name": "Pik (Spades)",
+      "color": 3422784,
+      "domain": "trouble, fate, hard lessons"
+    }
+  },
+  "cards": [
+    {
+      "id": "tarock_01",
+      "name": "I · Pagat",
+      "name_en": "The Underdog",
+      "arcana": "trump",
+      "number": 1,
+      "suit": null,
+      "rank": "I",
+      "keywords": {
+        "upright": [
+          "small start",
+          "the last trick",
+          "cunning",
+          "humility"
+        ]
+      },
+      "meaning": {
+        "upright": "The lowest tarock, and the one that can still win the final trick. Start small; timing beats rank."
+      },
+      "image": "cards/tarock/tarock_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "tarock_02",
+      "name": "II · Uhu",
+      "name_en": "The Owl",
+      "arcana": "trump",
+      "number": 2,
+      "suit": null,
+      "rank": "II",
+      "keywords": {
+        "upright": [
+          "watchfulness",
+          "night thoughts",
+          "quiet wisdom"
+        ]
+      },
+      "meaning": {
+        "upright": "Keep your eyes open while others sleep. What you notice now pays off later."
+      },
+      "image": "cards/tarock/tarock_02.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "tarock_03",
+      "name": "III · Kakadu",
+      "name_en": "The Cockatoo",
+      "arcana": "trump",
+      "number": 3,
+      "suit": null,
+      "rank": "III",
+      "keywords": {
+        "upright": [
+          "show",
+          "chatter",
+          "being noticed"
+        ]
+      },
+      "meaning": {
+        "upright": "A loud entrance. Being seen helps, but don't mistake noise for substance."
+      },
+      "image": "cards/tarock/tarock_03.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "tarock_04",
+      "name": "IV · Marabu",
+      "name_en": "The Marabou",
+      "arcana": "trump",
+      "number": 4,
+      "suit": null,
+      "rank": "IV",
+      "keywords": {
+        "upright": [
+          "patience",
+          "waiting",
+          "taking what's left"
+        ]
+      },
+      "meaning": {
+        "upright": "Wait at the edge of things. Opportunity comes to whoever is still standing there."
+      },
+      "image": "cards/tarock/tarock_04.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "tarock_05",
+      "name": "V · The Workshop",
+      "name_en": null,
+      "arcana": "trump",
+      "number": 5,
+      "suit": null,
+      "rank": "V",
+      "keywords": {
+        "upright": [
+          "honest labour",
+          "craft",
+          "routine"
+        ]
+      },
+      "meaning": {
+        "upright": "Steady work with your own hands. Industry, the first half of the motto."
+      },
+      "image": "cards/tarock/tarock_05.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "tarock_06",
+      "name": "VI · The Market",
+      "name_en": null,
+      "arcana": "trump",
+      "number": 6,
+      "suit": null,
+      "rank": "VI",
+      "keywords": {
+        "upright": [
+          "trade",
+          "bargaining",
+          "exchange"
+        ]
+      },
+      "meaning": {
+        "upright": "Everything has a price today. Haggle well and know what you'll walk away from."
+      },
+      "image": "cards/tarock/tarock_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "tarock_07",
+      "name": "VII · The Harvest",
+      "name_en": null,
+      "arcana": "trump",
+      "number": 7,
+      "suit": null,
+      "rank": "VII",
+      "keywords": {
+        "upright": [
+          "reward",
+          "results",
+          "gathering in"
+        ]
+      },
+      "meaning": {
+        "upright": "What you planted comes in. Gather it before the weather turns."
+      },
+      "image": "cards/tarock/tarock_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "tarock_08",
+      "name": "VIII · The Hearth",
+      "name_en": null,
+      "arcana": "trump",
+      "number": 8,
+      "suit": null,
+      "rank": "VIII",
+      "keywords": {
+        "upright": [
+          "home",
+          "comfort",
+          "domestic peace"
+        ]
+      },
+      "meaning": {
+        "upright": "A warm room and a closed door. Rest where you're safe."
+      },
+      "image": "cards/tarock/tarock_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "tarock_09",
+      "name": "IX · The Dance",
+      "name_en": null,
+      "arcana": "trump",
+      "number": 9,
+      "suit": null,
+      "rank": "IX",
+      "keywords": {
+        "upright": [
+          "courtship",
+          "celebration",
+          "attraction"
+        ]
+      },
+      "meaning": {
+        "upright": "Music and a partner. Say yes to the invitation."
+      },
+      "image": "cards/tarock/tarock_09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "tarock_10",
+      "name": "X · The Turn",
+      "name_en": null,
+      "arcana": "trump",
+      "number": 10,
+      "suit": null,
+      "rank": "X",
+      "keywords": {
+        "upright": [
+          "halfway",
+          "change of fortune",
+          "reversal"
+        ]
+      },
+      "meaning": {
+        "upright": "The midpoint of the tarocks. What was rising may fall, and the reverse."
+      },
+      "image": "cards/tarock/tarock_10.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "tarock_11",
+      "name": "XI · The Road",
+      "name_en": null,
+      "arcana": "trump",
+      "number": 11,
+      "suit": null,
+      "rank": "XI",
+      "keywords": {
+        "upright": [
+          "travel",
+          "departure",
+          "distance"
+        ]
+      },
+      "meaning": {
+        "upright": "Pack a bag. A journey, literal or not, changes your view."
+      },
+      "image": "cards/tarock/tarock_11.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "tarock_12",
+      "name": "XII · The Letter",
+      "name_en": null,
+      "arcana": "trump",
+      "number": 12,
+      "suit": null,
+      "rank": "XII",
+      "keywords": {
+        "upright": [
+          "news",
+          "a message",
+          "correspondence"
+        ]
+      },
+      "meaning": {
+        "upright": "Something written arrives. Read it twice before you answer."
+      },
+      "image": "cards/tarock/tarock_12.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "tarock_13",
+      "name": "XIII · The Storm",
+      "name_en": null,
+      "arcana": "trump",
+      "number": 13,
+      "suit": null,
+      "rank": "XIII",
+      "keywords": {
+        "upright": [
+          "upheaval",
+          "sudden trouble",
+          "clearing air"
+        ]
+      },
+      "meaning": {
+        "upright": "Weather you can't control. Take shelter; it passes, and the air is cleaner after."
+      },
+      "image": "cards/tarock/tarock_13.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "tarock_14",
+      "name": "XIV · The Café",
+      "name_en": null,
+      "arcana": "trump",
+      "number": 14,
+      "suit": null,
+      "rank": "XIV",
+      "keywords": {
+        "upright": [
+          "society",
+          "conversation",
+          "gossip",
+          "ideas"
+        ]
+      },
+      "meaning": {
+        "upright": "The coffee-house table: news, opinions and alliances made over a newspaper."
+      },
+      "image": "cards/tarock/tarock_14.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "tarock_15",
+      "name": "XV · The Ledger",
+      "name_en": null,
+      "arcana": "trump",
+      "number": 15,
+      "suit": null,
+      "rank": "XV",
+      "keywords": {
+        "upright": [
+          "accounts",
+          "debts",
+          "what's owed"
+        ]
+      },
+      "meaning": {
+        "upright": "Check the numbers. Settle what you owe and collect what's yours."
+      },
+      "image": "cards/tarock/tarock_15.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "tarock_16",
+      "name": "XVI · The Garden",
+      "name_en": null,
+      "arcana": "trump",
+      "number": 16,
+      "suit": null,
+      "rank": "XVI",
+      "keywords": {
+        "upright": [
+          "leisure",
+          "growth",
+          "cultivation"
+        ]
+      },
+      "meaning": {
+        "upright": "Tend something slowly. Pleasure that rewards patience."
+      },
+      "image": "cards/tarock/tarock_16.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "tarock_17",
+      "name": "XVII · The Theatre",
+      "name_en": null,
+      "arcana": "trump",
+      "number": 17,
+      "suit": null,
+      "rank": "XVII",
+      "keywords": {
+        "upright": [
+          "masks",
+          "performance",
+          "appearances"
+        ]
+      },
+      "meaning": {
+        "upright": "Everyone is playing a part. Enjoy the show, but know who's acting."
+      },
+      "image": "cards/tarock/tarock_17.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "tarock_18",
+      "name": "XVIII · The Carriage",
+      "name_en": null,
+      "arcana": "trump",
+      "number": 18,
+      "suit": null,
+      "rank": "XVIII",
+      "keywords": {
+        "upright": [
+          "status",
+          "advancement",
+          "ambition"
+        ]
+      },
+      "meaning": {
+        "upright": "Moving up in the world. Mind who is holding the reins."
+      },
+      "image": "cards/tarock/tarock_18.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "tarock_19",
+      "name": "XIX · The Festival",
+      "name_en": null,
+      "arcana": "trump",
+      "number": 19,
+      "suit": null,
+      "rank": "XIX",
+      "keywords": {
+        "upright": [
+          "public joy",
+          "success",
+          "community"
+        ]
+      },
+      "meaning": {
+        "upright": "Lanterns in the square. A shared success, celebrated openly."
+      },
+      "image": "cards/tarock/tarock_19.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "tarock_20",
+      "name": "XX · The Lottery",
+      "name_en": null,
+      "arcana": "trump",
+      "number": 20,
+      "suit": null,
+      "rank": "XX",
+      "keywords": {
+        "upright": [
+          "pure chance",
+          "luck",
+          "the draw"
+        ]
+      },
+      "meaning": {
+        "upright": "Glück, the other half of the motto. Nothing you did earned it; take it gracefully."
+      },
+      "image": "cards/tarock/tarock_20.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "tarock_21",
+      "name": "XXI · Mond",
+      "name_en": "The Moon",
+      "arcana": "trump",
+      "number": 21,
+      "suit": null,
+      "rank": "XXI",
+      "keywords": {
+        "upright": [
+          "mastery",
+          "supreme power",
+          "completion"
+        ]
+      },
+      "meaning": {
+        "upright": "The highest numbered tarock. Command of the situation, and power over the night."
+      },
+      "image": "cards/tarock/tarock_21.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "tarock_skus",
+      "name": "Sküs",
+      "name_en": "The Excuse",
+      "arcana": "trump",
+      "number": 22,
+      "suit": null,
+      "rank": "Sküs",
+      "keywords": {
+        "upright": [
+          "freedom",
+          "the wild card",
+          "untouchable",
+          "escape"
+        ]
+      },
+      "meaning": {
+        "upright": "The Sküs can't be captured and outranks everything. You're free of the rules this time; play it well."
+      },
+      "image": "cards/tarock/tarock_skus.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "herz_01",
+      "name": "Herz-König",
+      "name_en": "King of Hearts",
+      "arcana": "court",
+      "number": 1,
+      "suit": "herz",
+      "rank": "König",
+      "insert": "K♥",
+      "keywords": {
+        "upright": [
+          "warm authority",
+          "a father",
+          "generosity"
+        ]
+      },
+      "meaning": {
+        "upright": "A generous man who looks after his own. Love expressed as protection."
+      },
+      "image": "cards/tarock/herz_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "herz_02",
+      "name": "Herz-Dame",
+      "name_en": "Queen of Hearts",
+      "arcana": "court",
+      "number": 2,
+      "suit": "herz",
+      "rank": "Dame",
+      "insert": "Q♥",
+      "keywords": {
+        "upright": [
+          "devotion",
+          "care",
+          "emotional wisdom"
+        ]
+      },
+      "meaning": {
+        "upright": "A loving woman who holds a household together. Feelings handled wisely."
+      },
+      "image": "cards/tarock/herz_02.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "herz_03",
+      "name": "Herz-Reiter",
+      "name_en": "Cavalier of Hearts",
+      "arcana": "court",
+      "number": 3,
+      "suit": "herz",
+      "rank": "Reiter",
+      "insert": "C♥",
+      "keywords": {
+        "upright": [
+          "romance arriving",
+          "a suitor",
+          "a visit"
+        ]
+      },
+      "meaning": {
+        "upright": "Someone rides toward you with an open heart. An invitation or a declaration."
+      },
+      "image": "cards/tarock/herz_03.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "herz_04",
+      "name": "Herz-Bube",
+      "name_en": "Jack of Hearts",
+      "arcana": "court",
+      "number": 4,
+      "suit": "herz",
+      "rank": "Bube",
+      "insert": "J♥",
+      "keywords": {
+        "upright": [
+          "a sweetheart",
+          "young affection",
+          "a friend"
+        ]
+      },
+      "meaning": {
+        "upright": "A young admirer or a loyal friend. Simple, uncomplicated fondness."
+      },
+      "image": "cards/tarock/herz_04.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "herz_05",
+      "name": "Herz 1",
+      "name_en": "One of Hearts",
+      "arcana": "pip",
+      "number": 5,
+      "suit": "herz",
+      "rank": "1",
+      "insert": "1♥",
+      "keywords": {
+        "upright": [
+          "the whole heart",
+          "deep love",
+          "home"
+        ]
+      },
+      "meaning": {
+        "upright": "In the red suits the 1 is the highest pip. Small in number, largest in feeling."
+      },
+      "image": "cards/tarock/herz_05.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "herz_06",
+      "name": "Herz 2",
+      "name_en": "Two of Hearts",
+      "arcana": "pip",
+      "number": 6,
+      "suit": "herz",
+      "rank": "2",
+      "insert": "2♥",
+      "keywords": {
+        "upright": [
+          "a pair",
+          "partnership",
+          "reconciliation"
+        ]
+      },
+      "meaning": {
+        "upright": "Two people find each other, or find their way back."
+      },
+      "image": "cards/tarock/herz_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "herz_07",
+      "name": "Herz 3",
+      "name_en": "Three of Hearts",
+      "arcana": "pip",
+      "number": 7,
+      "suit": "herz",
+      "rank": "3",
+      "insert": "3♥",
+      "keywords": {
+        "upright": [
+          "friendship",
+          "a gathering",
+          "warmth shared"
+        ]
+      },
+      "meaning": {
+        "upright": "Company around a table. Affection that includes others."
+      },
+      "image": "cards/tarock/herz_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "herz_08",
+      "name": "Herz 4",
+      "name_en": "Four of Hearts",
+      "arcana": "pip",
+      "number": 8,
+      "suit": "herz",
+      "rank": "4",
+      "insert": "4♥",
+      "keywords": {
+        "upright": [
+          "contentment",
+          "a settled heart"
+        ]
+      },
+      "meaning": {
+        "upright": "The lowest red pip, and the calmest. Love that no longer needs proving."
+      },
+      "image": "cards/tarock/herz_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "karo_01",
+      "name": "Karo-König",
+      "name_en": "King of Diamonds",
+      "arcana": "court",
+      "number": 1,
+      "suit": "karo",
+      "rank": "König",
+      "insert": "K♦",
+      "keywords": {
+        "upright": [
+          "a wealthy man",
+          "a banker",
+          "a patron"
+        ]
+      },
+      "meaning": {
+        "upright": "A man with money and the power it brings. Useful, if he's on your side."
+      },
+      "image": "cards/tarock/karo_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "karo_02",
+      "name": "Karo-Dame",
+      "name_en": "Queen of Diamonds",
+      "arcana": "court",
+      "number": 2,
+      "suit": "karo",
+      "rank": "Dame",
+      "insert": "Q♦",
+      "keywords": {
+        "upright": [
+          "shrewd management",
+          "a businesswoman"
+        ]
+      },
+      "meaning": {
+        "upright": "A woman who knows the value of everything. Good sense with resources."
+      },
+      "image": "cards/tarock/karo_02.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "karo_03",
+      "name": "Karo-Reiter",
+      "name_en": "Cavalier of Diamonds",
+      "arcana": "court",
+      "number": 3,
+      "suit": "karo",
+      "rank": "Reiter",
+      "insert": "C♦",
+      "keywords": {
+        "upright": [
+          "money on the move",
+          "a deal in progress"
+        ]
+      },
+      "meaning": {
+        "upright": "Funds, goods or an offer on the way. Move while it's moving."
+      },
+      "image": "cards/tarock/karo_03.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "karo_04",
+      "name": "Karo-Bube",
+      "name_en": "Jack of Diamonds",
+      "arcana": "court",
+      "number": 4,
+      "suit": "karo",
+      "rank": "Bube",
+      "insert": "J♦",
+      "keywords": {
+        "upright": [
+          "a clerk",
+          "an errand",
+          "small gains"
+        ]
+      },
+      "meaning": {
+        "upright": "A junior in business, or a small transaction handled well."
+      },
+      "image": "cards/tarock/karo_04.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "karo_05",
+      "name": "Karo 1",
+      "name_en": "One of Diamonds",
+      "arcana": "pip",
+      "number": 5,
+      "suit": "karo",
+      "rank": "1",
+      "insert": "1♦",
+      "keywords": {
+        "upright": [
+          "the best bargain",
+          "a windfall"
+        ]
+      },
+      "meaning": {
+        "upright": "The top red pip: the one deal that matters most. A real gain."
+      },
+      "image": "cards/tarock/karo_05.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "karo_06",
+      "name": "Karo 2",
+      "name_en": "Two of Diamonds",
+      "arcana": "pip",
+      "number": 6,
+      "suit": "karo",
+      "rank": "2",
+      "insert": "2♦",
+      "keywords": {
+        "upright": [
+          "an exchange",
+          "a contract",
+          "fair terms"
+        ]
+      },
+      "meaning": {
+        "upright": "Two parties trade. Read the terms before you shake."
+      },
+      "image": "cards/tarock/karo_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "karo_07",
+      "name": "Karo 3",
+      "name_en": "Three of Diamonds",
+      "arcana": "pip",
+      "number": 7,
+      "suit": "karo",
+      "rank": "3",
+      "insert": "3♦",
+      "keywords": {
+        "upright": [
+          "steady income",
+          "growth"
+        ]
+      },
+      "meaning": {
+        "upright": "Money builds modestly and reliably."
+      },
+      "image": "cards/tarock/karo_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "karo_08",
+      "name": "Karo 4",
+      "name_en": "Four of Diamonds",
+      "arcana": "pip",
+      "number": 8,
+      "suit": "karo",
+      "rank": "4",
+      "insert": "4♦",
+      "keywords": {
+        "upright": [
+          "small change",
+          "thrift"
+        ]
+      },
+      "meaning": {
+        "upright": "Pennies saved. Not much, but it's yours."
+      },
+      "image": "cards/tarock/karo_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kreuz_01",
+      "name": "Kreuz-König",
+      "name_en": "King of Clubs",
+      "arcana": "court",
+      "number": 1,
+      "suit": "kreuz",
+      "rank": "König",
+      "insert": "K♣",
+      "keywords": {
+        "upright": [
+          "a boss",
+          "a master craftsman",
+          "leadership"
+        ]
+      },
+      "meaning": {
+        "upright": "A man who has earned his position through work. Respect him and learn."
+      },
+      "image": "cards/tarock/kreuz_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kreuz_02",
+      "name": "Kreuz-Dame",
+      "name_en": "Queen of Clubs",
+      "arcana": "court",
+      "number": 2,
+      "suit": "kreuz",
+      "rank": "Dame",
+      "insert": "Q♣",
+      "keywords": {
+        "upright": [
+          "an organiser",
+          "a capable woman"
+        ]
+      },
+      "meaning": {
+        "upright": "A woman who gets things done and keeps everyone on task."
+      },
+      "image": "cards/tarock/kreuz_02.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kreuz_03",
+      "name": "Kreuz-Reiter",
+      "name_en": "Cavalier of Clubs",
+      "arcana": "court",
+      "number": 3,
+      "suit": "kreuz",
+      "rank": "Reiter",
+      "insert": "C♣",
+      "keywords": {
+        "upright": [
+          "a new job",
+          "an opportunity",
+          "momentum"
+        ]
+      },
+      "meaning": {
+        "upright": "Work arrives at a gallop: a project, an offer, a push forward."
+      },
+      "image": "cards/tarock/kreuz_03.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kreuz_04",
+      "name": "Kreuz-Bube",
+      "name_en": "Jack of Clubs",
+      "arcana": "court",
+      "number": 4,
+      "suit": "kreuz",
+      "rank": "Bube",
+      "insert": "J♣",
+      "keywords": {
+        "upright": [
+          "an apprentice",
+          "a messenger",
+          "eagerness"
+        ]
+      },
+      "meaning": {
+        "upright": "Someone young and willing, still learning the trade."
+      },
+      "image": "cards/tarock/kreuz_04.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kreuz_05",
+      "name": "Kreuz 10",
+      "name_en": "Ten of Clubs",
+      "arcana": "pip",
+      "number": 5,
+      "suit": "kreuz",
+      "rank": "10",
+      "insert": "10♣",
+      "keywords": {
+        "upright": [
+          "accomplishment",
+          "a task completed"
+        ]
+      },
+      "meaning": {
+        "upright": "The work is finished and it's good. Take the credit."
+      },
+      "image": "cards/tarock/kreuz_05.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kreuz_06",
+      "name": "Kreuz 9",
+      "name_en": "Nine of Clubs",
+      "arcana": "pip",
+      "number": 6,
+      "suit": "kreuz",
+      "rank": "9",
+      "insert": "9♣",
+      "keywords": {
+        "upright": [
+          "hard effort",
+          "long hours"
+        ]
+      },
+      "meaning": {
+        "upright": "The grind. It's tiring, but it's leading somewhere."
+      },
+      "image": "cards/tarock/kreuz_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kreuz_07",
+      "name": "Kreuz 8",
+      "name_en": "Eight of Clubs",
+      "arcana": "pip",
+      "number": 7,
+      "suit": "kreuz",
+      "rank": "8",
+      "insert": "8♣",
+      "keywords": {
+        "upright": [
+          "competition",
+          "a rival at work"
+        ]
+      },
+      "meaning": {
+        "upright": "Someone else wants the same position. Stay sharp."
+      },
+      "image": "cards/tarock/kreuz_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kreuz_08",
+      "name": "Kreuz 7",
+      "name_en": "Seven of Clubs",
+      "arcana": "pip",
+      "number": 8,
+      "suit": "kreuz",
+      "rank": "7",
+      "insert": "7♣",
+      "keywords": {
+        "upright": [
+          "a small step",
+          "the first task"
+        ]
+      },
+      "meaning": {
+        "upright": "The lowest club: begin with the simplest thing."
+      },
+      "image": "cards/tarock/kreuz_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "pik_01",
+      "name": "Pik-König",
+      "name_en": "King of Spades",
+      "arcana": "court",
+      "number": 1,
+      "suit": "pik",
+      "rank": "König",
+      "insert": "K♠",
+      "keywords": {
+        "upright": [
+          "stern authority",
+          "a judge",
+          "an official"
+        ]
+      },
+      "meaning": {
+        "upright": "A severe man with power over you. Deal with him formally and honestly."
+      },
+      "image": "cards/tarock/pik_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "pik_02",
+      "name": "Pik-Dame",
+      "name_en": "Queen of Spades",
+      "arcana": "court",
+      "number": 2,
+      "suit": "pik",
+      "rank": "Dame",
+      "insert": "Q♠",
+      "keywords": {
+        "upright": [
+          "a cold woman",
+          "a widow",
+          "sharp judgment"
+        ]
+      },
+      "meaning": {
+        "upright": "A woman who has known loss. She sees clearly and says so."
+      },
+      "image": "cards/tarock/pik_02.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "pik_03",
+      "name": "Pik-Reiter",
+      "name_en": "Cavalier of Spades",
+      "arcana": "court",
+      "number": 3,
+      "suit": "pik",
+      "rank": "Reiter",
+      "insert": "C♠",
+      "keywords": {
+        "upright": [
+          "trouble approaching",
+          "bad news riding in"
+        ]
+      },
+      "meaning": {
+        "upright": "Something unwelcome is coming fast. Better to meet it than wait."
+      },
+      "image": "cards/tarock/pik_03.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "pik_04",
+      "name": "Pik-Bube",
+      "name_en": "Jack of Spades",
+      "arcana": "court",
+      "number": 4,
+      "suit": "pik",
+      "rank": "Bube",
+      "insert": "J♠",
+      "keywords": {
+        "upright": [
+          "a troublemaker",
+          "spite",
+          "petty malice"
+        ]
+      },
+      "meaning": {
+        "upright": "A small person causing big irritation. Don't feed it."
+      },
+      "image": "cards/tarock/pik_04.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "pik_05",
+      "name": "Pik 10",
+      "name_en": "Ten of Spades",
+      "arcana": "pip",
+      "number": 5,
+      "suit": "pik",
+      "rank": "10",
+      "insert": "10♠",
+      "keywords": {
+        "upright": [
+          "a heavy blow",
+          "a hard ending"
+        ]
+      },
+      "meaning": {
+        "upright": "The strongest black pip. Something falls hard; you will get up again."
+      },
+      "image": "cards/tarock/pik_05.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "pik_06",
+      "name": "Pik 9",
+      "name_en": "Nine of Spades",
+      "arcana": "pip",
+      "number": 6,
+      "suit": "pik",
+      "rank": "9",
+      "insert": "9♠",
+      "keywords": {
+        "upright": [
+          "worry",
+          "sleepless nights"
+        ]
+      },
+      "meaning": {
+        "upright": "The mind runs in circles. Name the fear and it shrinks."
+      },
+      "image": "cards/tarock/pik_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "pik_07",
+      "name": "Pik 8",
+      "name_en": "Eight of Spades",
+      "arcana": "pip",
+      "number": 7,
+      "suit": "pik",
+      "rank": "8",
+      "insert": "8♠",
+      "keywords": {
+        "upright": [
+          "obstacles",
+          "delays",
+          "frustration"
+        ]
+      },
+      "meaning": {
+        "upright": "The road is blocked for now. Take another route or wait it out."
+      },
+      "image": "cards/tarock/pik_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "pik_08",
+      "name": "Pik 7",
+      "name_en": "Seven of Spades",
+      "arcana": "pip",
+      "number": 8,
+      "suit": "pik",
+      "rank": "7",
+      "insert": "7♠",
+      "keywords": {
+        "upright": [
+          "a minor setback",
+          "a warning"
+        ]
+      },
+      "meaning": {
+        "upright": "A small thing goes wrong. Notice it now so it stays small."
+      },
+      "image": "cards/tarock/pik_08.jpg",
+      "source_url": ""
+    }
+  ]
+}

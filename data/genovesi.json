@@ -1,0 +1,1120 @@
+{
+  "id": "genovesi",
+  "name": "Carte Genovesi",
+  "short_name": "Genovesi",
+  "family": "Italian regional",
+  "description": "The Genoese pattern from Liguria, French-suited. 40 cards. Meanings follow Italian cartomancy (shared with the Napoletane). Double-headed, so read without reversals.",
+  "card_aspect": 0.6,
+  "reversals": false,
+  "spreads": [
+    "single",
+    "three",
+    "situation",
+    "celtic"
+  ],
+  "color": 13183530,
+  "suits": {
+    "quadri": {
+      "name": "Quadri (Diamonds)",
+      "color": 15227148,
+      "domain": "money, business, gain, practical matters"
+    },
+    "cuori": {
+      "name": "Cuori (Hearts)",
+      "color": 13183530,
+      "domain": "love, home, family, feelings, joy"
+    },
+    "picche": {
+      "name": "Picche (Spades)",
+      "color": 3422784,
+      "domain": "obstacles, conflict, worry, hard truths"
+    },
+    "fiori": {
+      "name": "Fiori (Clubs)",
+      "color": 2853438,
+      "domain": "work, effort, strength, travel"
+    }
+  },
+  "cards": [
+    {
+      "id": "quadri_01",
+      "name": "Asso di Quadri",
+      "name_en": "Ace of Diamonds",
+      "arcana": "pip",
+      "number": 1,
+      "suit": "quadri",
+      "rank": "Asso",
+      "insert": "A♦",
+      "keywords": {
+        "upright": [
+          "gain",
+          "good news",
+          "a payment"
+        ],
+        "reversed": [
+          "delayed payment",
+          "missed chance"
+        ]
+      },
+      "meaning": {
+        "upright": "A gift, a payment or good news about money. Something of value arrives.",
+        "reversed": "Money is slow to arrive, or an opportunity is undervalued."
+      },
+      "image": "cards/genovesi/quadri_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "quadri_02",
+      "name": "Due di Quadri",
+      "name_en": "Two of Diamonds",
+      "arcana": "pip",
+      "number": 2,
+      "suit": "quadri",
+      "rank": "Due",
+      "insert": "2♦",
+      "keywords": {
+        "upright": [
+          "exchange",
+          "deal",
+          "balance"
+        ],
+        "reversed": [
+          "bad bargain",
+          "imbalance"
+        ]
+      },
+      "meaning": {
+        "upright": "A deal or exchange between two parties, on fair terms.",
+        "reversed": "One side gets the better of the bargain."
+      },
+      "image": "cards/genovesi/quadri_02.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "quadri_03",
+      "name": "Tre di Quadri",
+      "name_en": "Three of Diamonds",
+      "arcana": "pip",
+      "number": 3,
+      "suit": "quadri",
+      "rank": "Tre",
+      "insert": "3♦",
+      "keywords": {
+        "upright": [
+          "growth",
+          "first profit",
+          "cooperation"
+        ],
+        "reversed": [
+          "small returns",
+          "poor teamwork"
+        ]
+      },
+      "meaning": {
+        "upright": "Effort begins to pay. Money grows through shared work.",
+        "reversed": "Returns are smaller than hoped."
+      },
+      "image": "cards/genovesi/quadri_03.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "quadri_04",
+      "name": "Quattro di Quadri",
+      "name_en": "Four of Diamonds",
+      "arcana": "pip",
+      "number": 4,
+      "suit": "quadri",
+      "rank": "Quattro",
+      "insert": "4♦",
+      "keywords": {
+        "upright": [
+          "security",
+          "savings",
+          "property"
+        ],
+        "reversed": [
+          "stinginess",
+          "money tied up"
+        ]
+      },
+      "meaning": {
+        "upright": "Solid ground: savings, a home, something that lasts.",
+        "reversed": "Holding money so tightly it can't work for you."
+      },
+      "image": "cards/genovesi/quadri_04.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "quadri_05",
+      "name": "Cinque di Quadri",
+      "name_en": "Five of Diamonds",
+      "arcana": "pip",
+      "number": 5,
+      "suit": "quadri",
+      "rank": "Cinque",
+      "insert": "5♦",
+      "keywords": {
+        "upright": [
+          "expense",
+          "uncertainty",
+          "money worries"
+        ],
+        "reversed": [
+          "recovery",
+          "budget restored"
+        ]
+      },
+      "meaning": {
+        "upright": "An unexpected cost or a shaky month. Tighten up.",
+        "reversed": "The worst of the expense has passed."
+      },
+      "image": "cards/genovesi/quadri_05.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "quadri_06",
+      "name": "Sei di Quadri",
+      "name_en": "Six of Diamonds",
+      "arcana": "pip",
+      "number": 6,
+      "suit": "quadri",
+      "rank": "Sei",
+      "insert": "6♦",
+      "keywords": {
+        "upright": [
+          "generosity",
+          "fair pay",
+          "gifts"
+        ],
+        "reversed": [
+          "debts",
+          "strings attached"
+        ]
+      },
+      "meaning": {
+        "upright": "Giving and receiving freely. A fair wage, or kindness returned.",
+        "reversed": "A favour that comes with a price."
+      },
+      "image": "cards/genovesi/quadri_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "quadri_07",
+      "name": "Sette di Quadri",
+      "name_en": "Seven of Diamonds",
+      "arcana": "pip",
+      "number": 7,
+      "suit": "quadri",
+      "rank": "Sette",
+      "insert": "7♦",
+      "keywords": {
+        "upright": [
+          "fortune",
+          "the prize",
+          "luck"
+        ],
+        "reversed": [
+          "luck slipping away",
+          "greed"
+        ]
+      },
+      "meaning": {
+        "upright": "Il Settebello, the most prized card in the pack. Great luck and a winning hand.",
+        "reversed": "Luck is there but slips through greedy fingers."
+      },
+      "image": "cards/genovesi/quadri_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "quadri_08",
+      "name": "Fante di Quadri",
+      "name_en": "Jack of Diamonds",
+      "arcana": "court",
+      "number": 8,
+      "suit": "quadri",
+      "rank": "Fante",
+      "insert": "J♦",
+      "keywords": {
+        "upright": [
+          "a young person",
+          "practical news",
+          "study"
+        ],
+        "reversed": [
+          "carelessness",
+          "broken promise"
+        ]
+      },
+      "meaning": {
+        "upright": "A young or junior person, or news about work and money. Learn the trade.",
+        "reversed": "Unreliable messages or careless spending."
+      },
+      "image": "cards/genovesi/quadri_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "quadri_09",
+      "name": "Donna di Quadri",
+      "name_en": "Queen of Diamonds",
+      "arcana": "court",
+      "number": 9,
+      "suit": "quadri",
+      "rank": "Donna",
+      "insert": "Q♦",
+      "keywords": {
+        "upright": [
+          "a businesswoman",
+          "good sense",
+          "thrift"
+        ],
+        "reversed": [
+          "a spendthrift",
+          "calculation"
+        ]
+      },
+      "meaning": {
+        "upright": "A shrewd woman who manages money well.",
+        "reversed": "A woman who counts every coin, or spends too freely."
+      },
+      "image": "cards/genovesi/quadri_09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "quadri_10",
+      "name": "Re di Quadri",
+      "name_en": "King of Diamonds",
+      "arcana": "court",
+      "number": 10,
+      "suit": "quadri",
+      "rank": "Re",
+      "insert": "K♦",
+      "keywords": {
+        "upright": [
+          "man of means",
+          "patron",
+          "financial authority"
+        ],
+        "reversed": [
+          "miser",
+          "corrupt power"
+        ]
+      },
+      "meaning": {
+        "upright": "A man of means or influence: a boss, banker or benefactor. Material mastery.",
+        "reversed": "Wealth used to control, or a stingy authority."
+      },
+      "image": "cards/genovesi/quadri_10.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "cuori_01",
+      "name": "Asso di Cuori",
+      "name_en": "Ace of Hearts",
+      "arcana": "pip",
+      "number": 1,
+      "suit": "cuori",
+      "rank": "Asso",
+      "insert": "A♥",
+      "keywords": {
+        "upright": [
+          "home",
+          "love",
+          "family",
+          "joy"
+        ],
+        "reversed": [
+          "cold house",
+          "distance"
+        ]
+      },
+      "meaning": {
+        "upright": "The house and the heart. Love, family and a happy home.",
+        "reversed": "Coldness at home, or feelings held back."
+      },
+      "image": "cards/genovesi/cuori_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "cuori_02",
+      "name": "Due di Cuori",
+      "name_en": "Two of Hearts",
+      "arcana": "pip",
+      "number": 2,
+      "suit": "cuori",
+      "rank": "Due",
+      "insert": "2♥",
+      "keywords": {
+        "upright": [
+          "union",
+          "love",
+          "engagement"
+        ],
+        "reversed": [
+          "separation",
+          "misunderstanding"
+        ]
+      },
+      "meaning": {
+        "upright": "Two hearts meet. Romance, partnership or reconciliation.",
+        "reversed": "A rift between two people."
+      },
+      "image": "cards/genovesi/cuori_02.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "cuori_03",
+      "name": "Tre di Cuori",
+      "name_en": "Three of Hearts",
+      "arcana": "pip",
+      "number": 3,
+      "suit": "cuori",
+      "rank": "Tre",
+      "insert": "3♥",
+      "keywords": {
+        "upright": [
+          "celebration",
+          "friendship",
+          "feasting"
+        ],
+        "reversed": [
+          "overindulgence",
+          "gossip"
+        ]
+      },
+      "meaning": {
+        "upright": "A party, a wedding, a table full of friends.",
+        "reversed": "Too much wine and loose talk."
+      },
+      "image": "cards/genovesi/cuori_03.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "cuori_04",
+      "name": "Quattro di Cuori",
+      "name_en": "Four of Hearts",
+      "arcana": "pip",
+      "number": 4,
+      "suit": "cuori",
+      "rank": "Quattro",
+      "insert": "4♥",
+      "keywords": {
+        "upright": [
+          "contentment",
+          "stability",
+          "comfort"
+        ],
+        "reversed": [
+          "boredom",
+          "apathy"
+        ]
+      },
+      "meaning": {
+        "upright": "Feelings settle into steady comfort.",
+        "reversed": "Comfort has turned into boredom."
+      },
+      "image": "cards/genovesi/cuori_04.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "cuori_05",
+      "name": "Cinque di Cuori",
+      "name_en": "Five of Hearts",
+      "arcana": "pip",
+      "number": 5,
+      "suit": "cuori",
+      "rank": "Cinque",
+      "insert": "5♥",
+      "keywords": {
+        "upright": [
+          "disappointment",
+          "sorrow",
+          "longing"
+        ],
+        "reversed": [
+          "consolation",
+          "healing"
+        ]
+      },
+      "meaning": {
+        "upright": "A letdown in love, or a sadness that lingers.",
+        "reversed": "Consolation comes and the heart starts to mend."
+      },
+      "image": "cards/genovesi/cuori_05.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "cuori_06",
+      "name": "Sei di Cuori",
+      "name_en": "Six of Hearts",
+      "arcana": "pip",
+      "number": 6,
+      "suit": "cuori",
+      "rank": "Sei",
+      "insert": "6♥",
+      "keywords": {
+        "upright": [
+          "memories",
+          "the past",
+          "sweetness"
+        ],
+        "reversed": [
+          "nostalgia",
+          "stuck in the past"
+        ]
+      },
+      "meaning": {
+        "upright": "Old affections return: a memory, a childhood place, an old friend.",
+        "reversed": "Living in yesterday."
+      },
+      "image": "cards/genovesi/cuori_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "cuori_07",
+      "name": "Sette di Cuori",
+      "name_en": "Seven of Hearts",
+      "arcana": "pip",
+      "number": 7,
+      "suit": "cuori",
+      "rank": "Sette",
+      "insert": "7♥",
+      "keywords": {
+        "upright": [
+          "desire",
+          "dreams",
+          "attraction"
+        ],
+        "reversed": [
+          "illusion",
+          "jealousy"
+        ]
+      },
+      "meaning": {
+        "upright": "Longing and attraction. A wish you can almost taste.",
+        "reversed": "Desire clouds judgment. Beware jealousy."
+      },
+      "image": "cards/genovesi/cuori_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "cuori_08",
+      "name": "Fante di Cuori",
+      "name_en": "Jack of Hearts",
+      "arcana": "court",
+      "number": 8,
+      "suit": "cuori",
+      "rank": "Fante",
+      "insert": "J♥",
+      "keywords": {
+        "upright": [
+          "young lover",
+          "sweet message",
+          "invitation"
+        ],
+        "reversed": [
+          "flirt",
+          "fickle feelings"
+        ]
+      },
+      "meaning": {
+        "upright": "A young person with a warm heart, or a loving message or invitation.",
+        "reversed": "Charm that doesn't last."
+      },
+      "image": "cards/genovesi/cuori_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "cuori_09",
+      "name": "Donna di Cuori",
+      "name_en": "Queen of Hearts",
+      "arcana": "court",
+      "number": 9,
+      "suit": "cuori",
+      "rank": "Donna",
+      "insert": "Q♥",
+      "keywords": {
+        "upright": [
+          "a loving woman",
+          "warmth",
+          "devotion"
+        ],
+        "reversed": [
+          "jealousy",
+          "moodiness"
+        ]
+      },
+      "meaning": {
+        "upright": "A loving, generous woman. Affection and care.",
+        "reversed": "Love that turns possessive or moody."
+      },
+      "image": "cards/genovesi/cuori_09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "cuori_10",
+      "name": "Re di Cuori",
+      "name_en": "King of Hearts",
+      "arcana": "court",
+      "number": 10,
+      "suit": "cuori",
+      "rank": "Re",
+      "insert": "K♥",
+      "keywords": {
+        "upright": [
+          "kind man",
+          "protector",
+          "emotional maturity"
+        ],
+        "reversed": [
+          "moody",
+          "possessive"
+        ]
+      },
+      "meaning": {
+        "upright": "A warm, generous man: a father, partner or protector.",
+        "reversed": "Affection turned possessive or moody."
+      },
+      "image": "cards/genovesi/cuori_10.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "picche_01",
+      "name": "Asso di Picche",
+      "name_en": "Ace of Spades",
+      "arcana": "pip",
+      "number": 1,
+      "suit": "picche",
+      "rank": "Asso",
+      "insert": "A♠",
+      "keywords": {
+        "upright": [
+          "force",
+          "decision",
+          "a serious matter"
+        ],
+        "reversed": [
+          "a blow",
+          "bad news",
+          "harsh words"
+        ]
+      },
+      "meaning": {
+        "upright": "A serious matter demands a clear decision. Strength and will.",
+        "reversed": "A blow or hard news. Words that wound."
+      },
+      "image": "cards/genovesi/picche_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "picche_02",
+      "name": "Due di Picche",
+      "name_en": "Two of Spades",
+      "arcana": "pip",
+      "number": 2,
+      "suit": "picche",
+      "rank": "Due",
+      "insert": "2♠",
+      "keywords": {
+        "upright": [
+          "tension",
+          "standoff",
+          "rivalry"
+        ],
+        "reversed": [
+          "truce",
+          "release"
+        ]
+      },
+      "meaning": {
+        "upright": "Two forces locked against each other.",
+        "reversed": "The standoff eases into a truce."
+      },
+      "image": "cards/genovesi/picche_02.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "picche_03",
+      "name": "Tre di Picche",
+      "name_en": "Three of Spades",
+      "arcana": "pip",
+      "number": 3,
+      "suit": "picche",
+      "rank": "Tre",
+      "insert": "3♠",
+      "keywords": {
+        "upright": [
+          "heartache",
+          "jealousy",
+          "a rival"
+        ],
+        "reversed": [
+          "recovery",
+          "forgiveness"
+        ]
+      },
+      "meaning": {
+        "upright": "Heartache, jealousy, or a third person in the way.",
+        "reversed": "The sting fades and forgiveness becomes possible."
+      },
+      "image": "cards/genovesi/picche_03.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "picche_04",
+      "name": "Quattro di Picche",
+      "name_en": "Four of Spades",
+      "arcana": "pip",
+      "number": 4,
+      "suit": "picche",
+      "rank": "Quattro",
+      "insert": "4♠",
+      "keywords": {
+        "upright": [
+          "rest",
+          "recovery",
+          "retreat"
+        ],
+        "reversed": [
+          "restlessness",
+          "lingering strain"
+        ]
+      },
+      "meaning": {
+        "upright": "Step back and recover. A pause after the struggle.",
+        "reversed": "Unable to rest; the strain lingers."
+      },
+      "image": "cards/genovesi/picche_04.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "picche_05",
+      "name": "Cinque di Picche",
+      "name_en": "Five of Spades",
+      "arcana": "pip",
+      "number": 5,
+      "suit": "picche",
+      "rank": "Cinque",
+      "insert": "5♠",
+      "keywords": {
+        "upright": [
+          "quarrel",
+          "loss",
+          "wounded pride"
+        ],
+        "reversed": [
+          "reconciliation",
+          "lessons learned"
+        ]
+      },
+      "meaning": {
+        "upright": "An argument, or a defeat that stings.",
+        "reversed": "Making peace after the quarrel."
+      },
+      "image": "cards/genovesi/picche_05.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "picche_06",
+      "name": "Sei di Picche",
+      "name_en": "Six of Spades",
+      "arcana": "pip",
+      "number": 6,
+      "suit": "picche",
+      "rank": "Sei",
+      "insert": "6♠",
+      "keywords": {
+        "upright": [
+          "departure",
+          "leaving trouble behind"
+        ],
+        "reversed": [
+          "stuck",
+          "unable to leave"
+        ]
+      },
+      "meaning": {
+        "upright": "Leaving trouble behind: a journey or a change of scene.",
+        "reversed": "Trying to leave but held back."
+      },
+      "image": "cards/genovesi/picche_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "picche_07",
+      "name": "Sette di Picche",
+      "name_en": "Seven of Spades",
+      "arcana": "pip",
+      "number": 7,
+      "suit": "picche",
+      "rank": "Sette",
+      "insert": "7♠",
+      "keywords": {
+        "upright": [
+          "deceit",
+          "gossip",
+          "betrayal"
+        ],
+        "reversed": [
+          "the truth comes out"
+        ]
+      },
+      "meaning": {
+        "upright": "Watch for lies, gossip, or someone acting behind your back.",
+        "reversed": "The deception is exposed."
+      },
+      "image": "cards/genovesi/picche_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "picche_08",
+      "name": "Fante di Picche",
+      "name_en": "Jack of Spades",
+      "arcana": "court",
+      "number": 8,
+      "suit": "picche",
+      "rank": "Fante",
+      "insert": "J♠",
+      "keywords": {
+        "upright": [
+          "worrying news",
+          "a troublemaker",
+          "spying"
+        ],
+        "reversed": [
+          "slander",
+          "malice"
+        ]
+      },
+      "meaning": {
+        "upright": "Worrying news, or a young person who stirs up trouble. Stay alert.",
+        "reversed": "Malicious talk. Don't take the bait."
+      },
+      "image": "cards/genovesi/picche_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "picche_09",
+      "name": "Donna di Picche",
+      "name_en": "Queen of Spades",
+      "arcana": "court",
+      "number": 9,
+      "suit": "picche",
+      "rank": "Donna",
+      "insert": "Q♠",
+      "keywords": {
+        "upright": [
+          "a sharp woman",
+          "independence",
+          "sorrow"
+        ],
+        "reversed": [
+          "coldness",
+          "spite"
+        ]
+      },
+      "meaning": {
+        "upright": "A clear-sighted woman who has known hardship.",
+        "reversed": "Cold words or quiet spite."
+      },
+      "image": "cards/genovesi/picche_09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "picche_10",
+      "name": "Re di Picche",
+      "name_en": "King of Spades",
+      "arcana": "court",
+      "number": 10,
+      "suit": "picche",
+      "rank": "Re",
+      "insert": "K♠",
+      "keywords": {
+        "upright": [
+          "judge",
+          "lawyer",
+          "stern authority"
+        ],
+        "reversed": [
+          "tyranny",
+          "cruelty"
+        ]
+      },
+      "meaning": {
+        "upright": "A stern man of law or authority. Judgment, justice, official matters.",
+        "reversed": "Authority that is harsh or unjust."
+      },
+      "image": "cards/genovesi/picche_10.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "fiori_01",
+      "name": "Asso di Fiori",
+      "name_en": "Ace of Clubs",
+      "arcana": "pip",
+      "number": 1,
+      "suit": "fiori",
+      "rank": "Asso",
+      "insert": "A♣",
+      "keywords": {
+        "upright": [
+          "strength",
+          "will",
+          "new work"
+        ],
+        "reversed": [
+          "false start",
+          "frustration"
+        ]
+      },
+      "meaning": {
+        "upright": "Raw energy and a new undertaking. The will to begin.",
+        "reversed": "Plans that won't take root."
+      },
+      "image": "cards/genovesi/fiori_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "fiori_02",
+      "name": "Due di Fiori",
+      "name_en": "Two of Clubs",
+      "arcana": "pip",
+      "number": 2,
+      "suit": "fiori",
+      "rank": "Due",
+      "insert": "2♣",
+      "keywords": {
+        "upright": [
+          "plans",
+          "choices",
+          "working partnership"
+        ],
+        "reversed": [
+          "indecision",
+          "fear"
+        ]
+      },
+      "meaning": {
+        "upright": "A decision about work or direction, or a partnership in work.",
+        "reversed": "Hesitation wastes the moment."
+      },
+      "image": "cards/genovesi/fiori_02.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "fiori_03",
+      "name": "Tre di Fiori",
+      "name_en": "Three of Clubs",
+      "arcana": "pip",
+      "number": 3,
+      "suit": "fiori",
+      "rank": "Tre",
+      "insert": "3♣",
+      "keywords": {
+        "upright": [
+          "progress",
+          "trade",
+          "news from afar"
+        ],
+        "reversed": [
+          "delays",
+          "setbacks"
+        ]
+      },
+      "meaning": {
+        "upright": "Efforts expand: trade, travel or news from far away.",
+        "reversed": "Delays in plans or deliveries."
+      },
+      "image": "cards/genovesi/fiori_03.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "fiori_04",
+      "name": "Quattro di Fiori",
+      "name_en": "Four of Clubs",
+      "arcana": "pip",
+      "number": 4,
+      "suit": "fiori",
+      "rank": "Quattro",
+      "insert": "4♣",
+      "keywords": {
+        "upright": [
+          "stability",
+          "reward for work",
+          "peace at home"
+        ],
+        "reversed": [
+          "unsettled",
+          "instability"
+        ]
+      },
+      "meaning": {
+        "upright": "A stable foundation earned by work. Peace at home.",
+        "reversed": "Things feel unsettled."
+      },
+      "image": "cards/genovesi/fiori_04.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "fiori_05",
+      "name": "Cinque di Fiori",
+      "name_en": "Five of Clubs",
+      "arcana": "pip",
+      "number": 5,
+      "suit": "fiori",
+      "rank": "Cinque",
+      "insert": "5♣",
+      "keywords": {
+        "upright": [
+          "struggle",
+          "competition",
+          "rivalry"
+        ],
+        "reversed": [
+          "agreement",
+          "conflict avoided"
+        ]
+      },
+      "meaning": {
+        "upright": "A struggle or competition. Stand your ground.",
+        "reversed": "The dispute resolves or is avoided."
+      },
+      "image": "cards/genovesi/fiori_05.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "fiori_06",
+      "name": "Sei di Fiori",
+      "name_en": "Six of Clubs",
+      "arcana": "pip",
+      "number": 6,
+      "suit": "fiori",
+      "rank": "Sei",
+      "insert": "6♣",
+      "keywords": {
+        "upright": [
+          "victory",
+          "recognition",
+          "good news"
+        ],
+        "reversed": [
+          "delayed success",
+          "pride"
+        ]
+      },
+      "meaning": {
+        "upright": "Recognition for hard work. Success is on the way.",
+        "reversed": "Success delayed, or spoiled by pride."
+      },
+      "image": "cards/genovesi/fiori_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "fiori_07",
+      "name": "Sette di Fiori",
+      "name_en": "Seven of Clubs",
+      "arcana": "pip",
+      "number": 7,
+      "suit": "fiori",
+      "rank": "Sette",
+      "insert": "7♣",
+      "keywords": {
+        "upright": [
+          "effort",
+          "persistence",
+          "defence"
+        ],
+        "reversed": [
+          "exhaustion",
+          "giving up"
+        ]
+      },
+      "meaning": {
+        "upright": "Hard work and defending what's yours.",
+        "reversed": "Worn out. Know when to yield."
+      },
+      "image": "cards/genovesi/fiori_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "fiori_08",
+      "name": "Fante di Fiori",
+      "name_en": "Jack of Clubs",
+      "arcana": "court",
+      "number": 8,
+      "suit": "fiori",
+      "rank": "Fante",
+      "insert": "J♣",
+      "keywords": {
+        "upright": [
+          "worker",
+          "messenger",
+          "errand"
+        ],
+        "reversed": [
+          "delays",
+          "laziness"
+        ]
+      },
+      "meaning": {
+        "upright": "A hardworking young person, or a message about work.",
+        "reversed": "Messages delayed, tasks left undone."
+      },
+      "image": "cards/genovesi/fiori_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "fiori_09",
+      "name": "Donna di Fiori",
+      "name_en": "Queen of Clubs",
+      "arcana": "court",
+      "number": 9,
+      "suit": "fiori",
+      "rank": "Donna",
+      "insert": "Q♣",
+      "keywords": {
+        "upright": [
+          "a capable woman",
+          "energy",
+          "home and work"
+        ],
+        "reversed": [
+          "overwork",
+          "impatience"
+        ]
+      },
+      "meaning": {
+        "upright": "A capable, energetic woman who keeps everything running.",
+        "reversed": "Stretched thin; impatience at home."
+      },
+      "image": "cards/genovesi/fiori_09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "fiori_10",
+      "name": "Re di Fiori",
+      "name_en": "King of Clubs",
+      "arcana": "court",
+      "number": 10,
+      "suit": "fiori",
+      "rank": "Re",
+      "insert": "K♣",
+      "keywords": {
+        "upright": [
+          "hardworking man",
+          "leader",
+          "steady hand"
+        ],
+        "reversed": [
+          "stubborn",
+          "harsh"
+        ]
+      },
+      "meaning": {
+        "upright": "A strong, honest, hardworking man. Leadership through effort.",
+        "reversed": "Stubbornness, or a heavy hand."
+      },
+      "image": "cards/genovesi/fiori_10.jpg",
+      "source_url": ""
+    }
+  ]
+}

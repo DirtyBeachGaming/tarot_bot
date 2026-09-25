@@ -1,0 +1,1080 @@
+{
+  "id": "triestine",
+  "name": "Carte Triestine",
+  "short_name": "Triestine",
+  "family": "Italian regional",
+  "description": "From Trieste and Friuli. 40 cards. Meanings follow Italian cartomancy (shared with the Napoletane). Double-headed, so read without reversals.",
+  "card_aspect": 0.56,
+  "reversals": false,
+  "spreads": [
+    "single",
+    "three",
+    "situation",
+    "celtic"
+  ],
+  "color": 13214247,
+  "suits": {
+    "denari": {
+      "name": "Denari (Coins)",
+      "color": 13214247,
+      "domain": "money, business, gain, practical matters"
+    },
+    "coppe": {
+      "name": "Coppe (Cups)",
+      "color": 12723548,
+      "domain": "love, home, family, feelings, joy"
+    },
+    "spade": {
+      "name": "Spade (Swords)",
+      "color": 1598635,
+      "domain": "obstacles, conflict, worry, hard truths"
+    },
+    "bastoni": {
+      "name": "Bastoni (Clubs)",
+      "color": 2853438,
+      "domain": "work, effort, strength, travel"
+    }
+  },
+  "cards": [
+    {
+      "id": "denari_01",
+      "name": "Asso di Denari",
+      "name_en": "Ace of Coins",
+      "arcana": "pip",
+      "number": 1,
+      "suit": "denari",
+      "rank": "Asso",
+      "keywords": {
+        "upright": [
+          "gain",
+          "good news",
+          "a payment"
+        ],
+        "reversed": [
+          "delayed payment",
+          "missed chance"
+        ]
+      },
+      "meaning": {
+        "upright": "A gift, a payment or good news about money. Something of value arrives.",
+        "reversed": "Money is slow to arrive, or an opportunity is undervalued."
+      },
+      "image": "cards/triestine/denari_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "denari_02",
+      "name": "Due di Denari",
+      "name_en": "Two of Coins",
+      "arcana": "pip",
+      "number": 2,
+      "suit": "denari",
+      "rank": "Due",
+      "keywords": {
+        "upright": [
+          "exchange",
+          "deal",
+          "balance"
+        ],
+        "reversed": [
+          "bad bargain",
+          "imbalance"
+        ]
+      },
+      "meaning": {
+        "upright": "A deal or exchange between two parties, on fair terms.",
+        "reversed": "One side gets the better of the bargain."
+      },
+      "image": "cards/triestine/denari_02.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "denari_03",
+      "name": "Tre di Denari",
+      "name_en": "Three of Coins",
+      "arcana": "pip",
+      "number": 3,
+      "suit": "denari",
+      "rank": "Tre",
+      "keywords": {
+        "upright": [
+          "growth",
+          "first profit",
+          "cooperation"
+        ],
+        "reversed": [
+          "small returns",
+          "poor teamwork"
+        ]
+      },
+      "meaning": {
+        "upright": "Effort begins to pay. Money grows through shared work.",
+        "reversed": "Returns are smaller than hoped."
+      },
+      "image": "cards/triestine/denari_03.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "denari_04",
+      "name": "Quattro di Denari",
+      "name_en": "Four of Coins",
+      "arcana": "pip",
+      "number": 4,
+      "suit": "denari",
+      "rank": "Quattro",
+      "keywords": {
+        "upright": [
+          "security",
+          "savings",
+          "property"
+        ],
+        "reversed": [
+          "stinginess",
+          "money tied up"
+        ]
+      },
+      "meaning": {
+        "upright": "Solid ground: savings, a home, something that lasts.",
+        "reversed": "Holding money so tightly it can't work for you."
+      },
+      "image": "cards/triestine/denari_04.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "denari_05",
+      "name": "Cinque di Denari",
+      "name_en": "Five of Coins",
+      "arcana": "pip",
+      "number": 5,
+      "suit": "denari",
+      "rank": "Cinque",
+      "keywords": {
+        "upright": [
+          "expense",
+          "uncertainty",
+          "money worries"
+        ],
+        "reversed": [
+          "recovery",
+          "budget restored"
+        ]
+      },
+      "meaning": {
+        "upright": "An unexpected cost or a shaky month. Tighten up.",
+        "reversed": "The worst of the expense has passed."
+      },
+      "image": "cards/triestine/denari_05.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "denari_06",
+      "name": "Sei di Denari",
+      "name_en": "Six of Coins",
+      "arcana": "pip",
+      "number": 6,
+      "suit": "denari",
+      "rank": "Sei",
+      "keywords": {
+        "upright": [
+          "generosity",
+          "fair pay",
+          "gifts"
+        ],
+        "reversed": [
+          "debts",
+          "strings attached"
+        ]
+      },
+      "meaning": {
+        "upright": "Giving and receiving freely. A fair wage, or kindness returned.",
+        "reversed": "A favour that comes with a price."
+      },
+      "image": "cards/triestine/denari_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "denari_07",
+      "name": "Sette di Denari",
+      "name_en": "Seven of Coins",
+      "arcana": "pip",
+      "number": 7,
+      "suit": "denari",
+      "rank": "Sette",
+      "keywords": {
+        "upright": [
+          "fortune",
+          "the prize",
+          "luck"
+        ],
+        "reversed": [
+          "luck slipping away",
+          "greed"
+        ]
+      },
+      "meaning": {
+        "upright": "Il Settebello, the most prized card in the pack. Great luck and a winning hand.",
+        "reversed": "Luck is there but slips through greedy fingers."
+      },
+      "image": "cards/triestine/denari_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "denari_08",
+      "name": "Fante di Denari",
+      "name_en": "Knave of Coins",
+      "arcana": "court",
+      "number": 8,
+      "suit": "denari",
+      "rank": "Fante",
+      "keywords": {
+        "upright": [
+          "a young person",
+          "practical news",
+          "study"
+        ],
+        "reversed": [
+          "carelessness",
+          "broken promise"
+        ]
+      },
+      "meaning": {
+        "upright": "A young or junior person, or news about work and money. Learn the trade.",
+        "reversed": "Unreliable messages or careless spending."
+      },
+      "image": "cards/triestine/denari_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "denari_09",
+      "name": "Cavallo di Denari",
+      "name_en": "Knight of Coins",
+      "arcana": "court",
+      "number": 9,
+      "suit": "denari",
+      "rank": "Cavallo",
+      "keywords": {
+        "upright": [
+          "money in motion",
+          "business travel",
+          "funds arriving"
+        ],
+        "reversed": [
+          "delays",
+          "a stalled deal"
+        ]
+      },
+      "meaning": {
+        "upright": "Money on the move: a payment arrives, a business trip, a deal advancing.",
+        "reversed": "The deal stalls on the road."
+      },
+      "image": "cards/triestine/denari_09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "denari_10",
+      "name": "Re di Denari",
+      "name_en": "King of Coins",
+      "arcana": "court",
+      "number": 10,
+      "suit": "denari",
+      "rank": "Re",
+      "keywords": {
+        "upright": [
+          "man of means",
+          "patron",
+          "financial authority"
+        ],
+        "reversed": [
+          "miser",
+          "corrupt power"
+        ]
+      },
+      "meaning": {
+        "upright": "A man of means or influence: a boss, banker or benefactor. Material mastery.",
+        "reversed": "Wealth used to control, or a stingy authority."
+      },
+      "image": "cards/triestine/denari_10.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "coppe_01",
+      "name": "Asso di Coppe",
+      "name_en": "Ace of Cups",
+      "arcana": "pip",
+      "number": 1,
+      "suit": "coppe",
+      "rank": "Asso",
+      "keywords": {
+        "upright": [
+          "home",
+          "love",
+          "family",
+          "joy"
+        ],
+        "reversed": [
+          "cold house",
+          "distance"
+        ]
+      },
+      "meaning": {
+        "upright": "The house and the heart. Love, family and a happy home.",
+        "reversed": "Coldness at home, or feelings held back."
+      },
+      "image": "cards/triestine/coppe_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "coppe_02",
+      "name": "Due di Coppe",
+      "name_en": "Two of Cups",
+      "arcana": "pip",
+      "number": 2,
+      "suit": "coppe",
+      "rank": "Due",
+      "keywords": {
+        "upright": [
+          "union",
+          "love",
+          "engagement"
+        ],
+        "reversed": [
+          "separation",
+          "misunderstanding"
+        ]
+      },
+      "meaning": {
+        "upright": "Two hearts meet. Romance, partnership or reconciliation.",
+        "reversed": "A rift between two people."
+      },
+      "image": "cards/triestine/coppe_02.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "coppe_03",
+      "name": "Tre di Coppe",
+      "name_en": "Three of Cups",
+      "arcana": "pip",
+      "number": 3,
+      "suit": "coppe",
+      "rank": "Tre",
+      "keywords": {
+        "upright": [
+          "celebration",
+          "friendship",
+          "feasting"
+        ],
+        "reversed": [
+          "overindulgence",
+          "gossip"
+        ]
+      },
+      "meaning": {
+        "upright": "A party, a wedding, a table full of friends.",
+        "reversed": "Too much wine and loose talk."
+      },
+      "image": "cards/triestine/coppe_03.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "coppe_04",
+      "name": "Quattro di Coppe",
+      "name_en": "Four of Cups",
+      "arcana": "pip",
+      "number": 4,
+      "suit": "coppe",
+      "rank": "Quattro",
+      "keywords": {
+        "upright": [
+          "contentment",
+          "stability",
+          "comfort"
+        ],
+        "reversed": [
+          "boredom",
+          "apathy"
+        ]
+      },
+      "meaning": {
+        "upright": "Feelings settle into steady comfort.",
+        "reversed": "Comfort has turned into boredom."
+      },
+      "image": "cards/triestine/coppe_04.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "coppe_05",
+      "name": "Cinque di Coppe",
+      "name_en": "Five of Cups",
+      "arcana": "pip",
+      "number": 5,
+      "suit": "coppe",
+      "rank": "Cinque",
+      "keywords": {
+        "upright": [
+          "disappointment",
+          "sorrow",
+          "longing"
+        ],
+        "reversed": [
+          "consolation",
+          "healing"
+        ]
+      },
+      "meaning": {
+        "upright": "A letdown in love, or a sadness that lingers.",
+        "reversed": "Consolation comes and the heart starts to mend."
+      },
+      "image": "cards/triestine/coppe_05.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "coppe_06",
+      "name": "Sei di Coppe",
+      "name_en": "Six of Cups",
+      "arcana": "pip",
+      "number": 6,
+      "suit": "coppe",
+      "rank": "Sei",
+      "keywords": {
+        "upright": [
+          "memories",
+          "the past",
+          "sweetness"
+        ],
+        "reversed": [
+          "nostalgia",
+          "stuck in the past"
+        ]
+      },
+      "meaning": {
+        "upright": "Old affections return: a memory, a childhood place, an old friend.",
+        "reversed": "Living in yesterday."
+      },
+      "image": "cards/triestine/coppe_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "coppe_07",
+      "name": "Sette di Coppe",
+      "name_en": "Seven of Cups",
+      "arcana": "pip",
+      "number": 7,
+      "suit": "coppe",
+      "rank": "Sette",
+      "keywords": {
+        "upright": [
+          "desire",
+          "dreams",
+          "attraction"
+        ],
+        "reversed": [
+          "illusion",
+          "jealousy"
+        ]
+      },
+      "meaning": {
+        "upright": "Longing and attraction. A wish you can almost taste.",
+        "reversed": "Desire clouds judgment. Beware jealousy."
+      },
+      "image": "cards/triestine/coppe_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "coppe_08",
+      "name": "Fante di Coppe",
+      "name_en": "Knave of Cups",
+      "arcana": "court",
+      "number": 8,
+      "suit": "coppe",
+      "rank": "Fante",
+      "keywords": {
+        "upright": [
+          "young lover",
+          "sweet message",
+          "invitation"
+        ],
+        "reversed": [
+          "flirt",
+          "fickle feelings"
+        ]
+      },
+      "meaning": {
+        "upright": "A young person with a warm heart, or a loving message or invitation.",
+        "reversed": "Charm that doesn't last."
+      },
+      "image": "cards/triestine/coppe_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "coppe_09",
+      "name": "Cavallo di Coppe",
+      "name_en": "Knight of Cups",
+      "arcana": "court",
+      "number": 9,
+      "suit": "coppe",
+      "rank": "Cavallo",
+      "keywords": {
+        "upright": [
+          "love arriving",
+          "proposal",
+          "a visit"
+        ],
+        "reversed": [
+          "someone leaving",
+          "empty promises"
+        ]
+      },
+      "meaning": {
+        "upright": "Love on horseback: an arrival, a proposal, someone coming to you.",
+        "reversed": "Someone rides away, or a promise isn't kept."
+      },
+      "image": "cards/triestine/coppe_09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "coppe_10",
+      "name": "Re di Coppe",
+      "name_en": "King of Cups",
+      "arcana": "court",
+      "number": 10,
+      "suit": "coppe",
+      "rank": "Re",
+      "keywords": {
+        "upright": [
+          "kind man",
+          "protector",
+          "emotional maturity"
+        ],
+        "reversed": [
+          "moody",
+          "possessive"
+        ]
+      },
+      "meaning": {
+        "upright": "A warm, generous man: a father, partner or protector.",
+        "reversed": "Affection turned possessive or moody."
+      },
+      "image": "cards/triestine/coppe_10.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spade_01",
+      "name": "Asso di Spade",
+      "name_en": "Ace of Swords",
+      "arcana": "pip",
+      "number": 1,
+      "suit": "spade",
+      "rank": "Asso",
+      "keywords": {
+        "upright": [
+          "force",
+          "decision",
+          "a serious matter"
+        ],
+        "reversed": [
+          "a blow",
+          "bad news",
+          "harsh words"
+        ]
+      },
+      "meaning": {
+        "upright": "A serious matter demands a clear decision. Strength and will.",
+        "reversed": "A blow or hard news. Words that wound."
+      },
+      "image": "cards/triestine/spade_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spade_02",
+      "name": "Due di Spade",
+      "name_en": "Two of Swords",
+      "arcana": "pip",
+      "number": 2,
+      "suit": "spade",
+      "rank": "Due",
+      "keywords": {
+        "upright": [
+          "tension",
+          "standoff",
+          "rivalry"
+        ],
+        "reversed": [
+          "truce",
+          "release"
+        ]
+      },
+      "meaning": {
+        "upright": "Two forces locked against each other.",
+        "reversed": "The standoff eases into a truce."
+      },
+      "image": "cards/triestine/spade_02.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spade_03",
+      "name": "Tre di Spade",
+      "name_en": "Three of Swords",
+      "arcana": "pip",
+      "number": 3,
+      "suit": "spade",
+      "rank": "Tre",
+      "keywords": {
+        "upright": [
+          "heartache",
+          "jealousy",
+          "a rival"
+        ],
+        "reversed": [
+          "recovery",
+          "forgiveness"
+        ]
+      },
+      "meaning": {
+        "upright": "Heartache, jealousy, or a third person in the way.",
+        "reversed": "The sting fades and forgiveness becomes possible."
+      },
+      "image": "cards/triestine/spade_03.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spade_04",
+      "name": "Quattro di Spade",
+      "name_en": "Four of Swords",
+      "arcana": "pip",
+      "number": 4,
+      "suit": "spade",
+      "rank": "Quattro",
+      "keywords": {
+        "upright": [
+          "rest",
+          "recovery",
+          "retreat"
+        ],
+        "reversed": [
+          "restlessness",
+          "lingering strain"
+        ]
+      },
+      "meaning": {
+        "upright": "Step back and recover. A pause after the struggle.",
+        "reversed": "Unable to rest; the strain lingers."
+      },
+      "image": "cards/triestine/spade_04.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spade_05",
+      "name": "Cinque di Spade",
+      "name_en": "Five of Swords",
+      "arcana": "pip",
+      "number": 5,
+      "suit": "spade",
+      "rank": "Cinque",
+      "keywords": {
+        "upright": [
+          "quarrel",
+          "loss",
+          "wounded pride"
+        ],
+        "reversed": [
+          "reconciliation",
+          "lessons learned"
+        ]
+      },
+      "meaning": {
+        "upright": "An argument, or a defeat that stings.",
+        "reversed": "Making peace after the quarrel."
+      },
+      "image": "cards/triestine/spade_05.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spade_06",
+      "name": "Sei di Spade",
+      "name_en": "Six of Swords",
+      "arcana": "pip",
+      "number": 6,
+      "suit": "spade",
+      "rank": "Sei",
+      "keywords": {
+        "upright": [
+          "departure",
+          "leaving trouble behind"
+        ],
+        "reversed": [
+          "stuck",
+          "unable to leave"
+        ]
+      },
+      "meaning": {
+        "upright": "Leaving trouble behind: a journey or a change of scene.",
+        "reversed": "Trying to leave but held back."
+      },
+      "image": "cards/triestine/spade_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spade_07",
+      "name": "Sette di Spade",
+      "name_en": "Seven of Swords",
+      "arcana": "pip",
+      "number": 7,
+      "suit": "spade",
+      "rank": "Sette",
+      "keywords": {
+        "upright": [
+          "deceit",
+          "gossip",
+          "betrayal"
+        ],
+        "reversed": [
+          "the truth comes out"
+        ]
+      },
+      "meaning": {
+        "upright": "Watch for lies, gossip, or someone acting behind your back.",
+        "reversed": "The deception is exposed."
+      },
+      "image": "cards/triestine/spade_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spade_08",
+      "name": "Fante di Spade",
+      "name_en": "Knave of Swords",
+      "arcana": "court",
+      "number": 8,
+      "suit": "spade",
+      "rank": "Fante",
+      "keywords": {
+        "upright": [
+          "worrying news",
+          "a troublemaker",
+          "spying"
+        ],
+        "reversed": [
+          "slander",
+          "malice"
+        ]
+      },
+      "meaning": {
+        "upright": "Worrying news, or a young person who stirs up trouble. Stay alert.",
+        "reversed": "Malicious talk. Don't take the bait."
+      },
+      "image": "cards/triestine/spade_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spade_09",
+      "name": "Cavallo di Spade",
+      "name_en": "Knight of Swords",
+      "arcana": "court",
+      "number": 9,
+      "suit": "spade",
+      "rank": "Cavallo",
+      "keywords": {
+        "upright": [
+          "sudden change",
+          "confrontation",
+          "haste"
+        ],
+        "reversed": [
+          "recklessness",
+          "an accident"
+        ]
+      },
+      "meaning": {
+        "upright": "Trouble rides in fast: a sudden change or a confrontation.",
+        "reversed": "Haste causes harm. Slow down."
+      },
+      "image": "cards/triestine/spade_09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spade_10",
+      "name": "Re di Spade",
+      "name_en": "King of Swords",
+      "arcana": "court",
+      "number": 10,
+      "suit": "spade",
+      "rank": "Re",
+      "keywords": {
+        "upright": [
+          "judge",
+          "lawyer",
+          "stern authority"
+        ],
+        "reversed": [
+          "tyranny",
+          "cruelty"
+        ]
+      },
+      "meaning": {
+        "upright": "A stern man of law or authority. Judgment, justice, official matters.",
+        "reversed": "Authority that is harsh or unjust."
+      },
+      "image": "cards/triestine/spade_10.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "bastoni_01",
+      "name": "Asso di Bastoni",
+      "name_en": "Ace of Clubs",
+      "arcana": "pip",
+      "number": 1,
+      "suit": "bastoni",
+      "rank": "Asso",
+      "keywords": {
+        "upright": [
+          "strength",
+          "will",
+          "new work"
+        ],
+        "reversed": [
+          "false start",
+          "frustration"
+        ]
+      },
+      "meaning": {
+        "upright": "Raw energy and a new undertaking. The will to begin.",
+        "reversed": "Plans that won't take root."
+      },
+      "image": "cards/triestine/bastoni_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "bastoni_02",
+      "name": "Due di Bastoni",
+      "name_en": "Two of Clubs",
+      "arcana": "pip",
+      "number": 2,
+      "suit": "bastoni",
+      "rank": "Due",
+      "keywords": {
+        "upright": [
+          "plans",
+          "choices",
+          "working partnership"
+        ],
+        "reversed": [
+          "indecision",
+          "fear"
+        ]
+      },
+      "meaning": {
+        "upright": "A decision about work or direction, or a partnership in work.",
+        "reversed": "Hesitation wastes the moment."
+      },
+      "image": "cards/triestine/bastoni_02.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "bastoni_03",
+      "name": "Tre di Bastoni",
+      "name_en": "Three of Clubs",
+      "arcana": "pip",
+      "number": 3,
+      "suit": "bastoni",
+      "rank": "Tre",
+      "keywords": {
+        "upright": [
+          "progress",
+          "trade",
+          "news from afar"
+        ],
+        "reversed": [
+          "delays",
+          "setbacks"
+        ]
+      },
+      "meaning": {
+        "upright": "Efforts expand: trade, travel or news from far away.",
+        "reversed": "Delays in plans or deliveries."
+      },
+      "image": "cards/triestine/bastoni_03.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "bastoni_04",
+      "name": "Quattro di Bastoni",
+      "name_en": "Four of Clubs",
+      "arcana": "pip",
+      "number": 4,
+      "suit": "bastoni",
+      "rank": "Quattro",
+      "keywords": {
+        "upright": [
+          "stability",
+          "reward for work",
+          "peace at home"
+        ],
+        "reversed": [
+          "unsettled",
+          "instability"
+        ]
+      },
+      "meaning": {
+        "upright": "A stable foundation earned by work. Peace at home.",
+        "reversed": "Things feel unsettled."
+      },
+      "image": "cards/triestine/bastoni_04.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "bastoni_05",
+      "name": "Cinque di Bastoni",
+      "name_en": "Five of Clubs",
+      "arcana": "pip",
+      "number": 5,
+      "suit": "bastoni",
+      "rank": "Cinque",
+      "keywords": {
+        "upright": [
+          "struggle",
+          "competition",
+          "rivalry"
+        ],
+        "reversed": [
+          "agreement",
+          "conflict avoided"
+        ]
+      },
+      "meaning": {
+        "upright": "A struggle or competition. Stand your ground.",
+        "reversed": "The dispute resolves or is avoided."
+      },
+      "image": "cards/triestine/bastoni_05.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "bastoni_06",
+      "name": "Sei di Bastoni",
+      "name_en": "Six of Clubs",
+      "arcana": "pip",
+      "number": 6,
+      "suit": "bastoni",
+      "rank": "Sei",
+      "keywords": {
+        "upright": [
+          "victory",
+          "recognition",
+          "good news"
+        ],
+        "reversed": [
+          "delayed success",
+          "pride"
+        ]
+      },
+      "meaning": {
+        "upright": "Recognition for hard work. Success is on the way.",
+        "reversed": "Success delayed, or spoiled by pride."
+      },
+      "image": "cards/triestine/bastoni_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "bastoni_07",
+      "name": "Sette di Bastoni",
+      "name_en": "Seven of Clubs",
+      "arcana": "pip",
+      "number": 7,
+      "suit": "bastoni",
+      "rank": "Sette",
+      "keywords": {
+        "upright": [
+          "effort",
+          "persistence",
+          "defence"
+        ],
+        "reversed": [
+          "exhaustion",
+          "giving up"
+        ]
+      },
+      "meaning": {
+        "upright": "Hard work and defending what's yours.",
+        "reversed": "Worn out. Know when to yield."
+      },
+      "image": "cards/triestine/bastoni_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "bastoni_08",
+      "name": "Fante di Bastoni",
+      "name_en": "Knave of Clubs",
+      "arcana": "court",
+      "number": 8,
+      "suit": "bastoni",
+      "rank": "Fante",
+      "keywords": {
+        "upright": [
+          "worker",
+          "messenger",
+          "errand"
+        ],
+        "reversed": [
+          "delays",
+          "laziness"
+        ]
+      },
+      "meaning": {
+        "upright": "A hardworking young person, or a message about work.",
+        "reversed": "Messages delayed, tasks left undone."
+      },
+      "image": "cards/triestine/bastoni_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "bastoni_09",
+      "name": "Cavallo di Bastoni",
+      "name_en": "Knight of Clubs",
+      "arcana": "court",
+      "number": 9,
+      "suit": "bastoni",
+      "rank": "Cavallo",
+      "keywords": {
+        "upright": [
+          "journey",
+          "a move",
+          "rapid progress"
+        ],
+        "reversed": [
+          "travel problems",
+          "postponement"
+        ]
+      },
+      "meaning": {
+        "upright": "A journey or relocation. Things move quickly.",
+        "reversed": "A trip postponed, or a move that goes wrong."
+      },
+      "image": "cards/triestine/bastoni_09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "bastoni_10",
+      "name": "Re di Bastoni",
+      "name_en": "King of Clubs",
+      "arcana": "court",
+      "number": 10,
+      "suit": "bastoni",
+      "rank": "Re",
+      "keywords": {
+        "upright": [
+          "hardworking man",
+          "leader",
+          "steady hand"
+        ],
+        "reversed": [
+          "stubborn",
+          "harsh"
+        ]
+      },
+      "meaning": {
+        "upright": "A strong, honest, hardworking man. Leadership through effort.",
+        "reversed": "Stubbornness, or a heavy hand."
+      },
+      "image": "cards/triestine/bastoni_10.jpg",
+      "source_url": ""
+    }
+  ]
+}

@@ -1,17 +1,29 @@
 # Tarot Bot
 
-A Discord bot for tarot readings. It uses the 1909 Waite-Smith deck, which is in the public domain. The bot only answers in one channel.
+A Discord bot for card readings. It has 29 decks plus the I Ching, astrology dice and a pendulum. Use `/decks` in Discord to see them all. The `deck` option is searchable, so type part of a name ("piac", "minchiate") or a family ("italian"). Every command has an optional `deck` option, and Waite-Smith is the default. The bot only answers in one channel.
 
 ## Commands
 
 | Command | What it does |
 |---|---|
 | `/draw [question]` | Draws a single card |
-| `/reading spread:<…> [question]` | Lays out a spread: Single, Past·Present·Future, Situation·Action·Outcome or Celtic Cross |
+| `/reading spread:<…> [question] [deck]` | Lays out a spread. Pick the deck first, because the spread list depends on it. Tarot and Napoletane: Single, Past·Present·Future, Situation·Action·Outcome, Celtic Cross. Lenormand: Single, Line of Three, Line of Five, Nine-Card Box. Tarock: Single, Industrie und Glück, The Trull, plus the tarot spreads. |
 | `/card name:<…> [reversed]` | Looks up a card's upright and reversed meaning. Card names autocomplete. Always free. |
+| `/decks` | Lists every deck and method (only you see the reply) |
+| `/mydeck [deck] [reset]` | Sets the deck you read with by default |
+| `/history` | Your last five readings (only you see it) |
+| `/iching [question]` | Casts a hexagram with three coins, including changing lines and the hexagram it's becoming |
+| `/astrodice [question]` | Rolls a planet, a sign and a house |
+| `/pendulum question` | A yes-or-no answer (doesn't use your daily reading) |
 | `/resetlimit member:<…>` | Admins only: gives a member their daily reading back |
 
 Each card has a 30% chance of coming up reversed. You can change this with `REVERSAL_CHANCE` in `.env`.
+
+**Clarify button:** every reading has a ✨ Clarify button. Only the person who asked can press it, once, to draw one more card.
+
+**More spreads:** decks with 5 or more cards get Relationship, decks with 12 or more get Year Ahead, decks that use reversals get Yes or No (three cards: upright leans yes), and Lenormand gets the full 36-card Grand Tableau.
+
+**Card of the day:** the bot posts a card in the channel every day at `DAILY_CARD_TIME` (default `09:00`) in `TIMEZONE` (default `America/Los_Angeles`). Set `DAILY_CARD_TIME=off` to turn it off, and `DAILY_CARD_DECK` to use a particular deck.
 
 **Daily limit:** each member gets `DAILY_LIMIT` readings (`/draw` or `/reading`) per rolling 24 hours. The default is 1, and 0 means unlimited. If they try again too early, the bot privately tells them when their next reading is available. People with Manage Server permission are exempt (`LIMIT_EXEMPT_ADMINS`).
 
@@ -65,10 +77,39 @@ cards/rws1909/          # card scans (downloaded by the script)
 scripts/download_cards.py
 ```
 
+## Decks
+
+| Deck | Cards | Reversals | Card images |
+|---|---|---|---|
+| Waite-Smith Tarot (1909) | 78 | yes | public-domain scans |
+| Tarot de Marseille | 78 | yes | placeholders (French names, Waite-Smith meanings) |
+| Carte Napoletane | 40 | yes | public-domain scans |
+| Baraja Española | 40 | yes | placeholders (meanings shared with Napoletane) |
+| Petit Lenormand | 36 | no | placeholders |
+| Kipper Cards | 36 | no | placeholders |
+| Vera Sibilla Italiana | 52 | no | placeholders |
+| Austrian Tarock | 54 | no | placeholders (original meaning system) |
+| Playing Cards | 52 | no | placeholders |
+| Elder Futhark Runes | 24 | yes (except the 9 symmetrical runes) | drawn rune stones |
+| Tarocco Piemontese | 78 | no (double-headed) | placeholders (Waite-Smith meanings) |
+| Tarocco Bolognese | 62 | no (double-headed) | placeholders (four Mori, no 2–5) |
+| Minchiate | 97 | yes | placeholders (virtue, element and zodiac trumps have their own meanings) |
+| Italian regional, Latin suits: Piacentine, Siciliane, Trevisane, Bergamasche, Bresciane, Romagnole, Sarde, Triestine, Trentine | 40 each | single-headed patterns only | placeholders (Napoletane meanings) |
+| Italian regional, French suits: Piemontesi, Genovesi, Toscane, Milanesi | 40 each | no (double-headed) | placeholders (Napoletane meanings; the Donna gets its own) |
+
 ## Adding decks
 
-Every deck is a JSON file in `data/`, and they all use the same card format. Planned decks: Vera Sibilla, Lenormand, Austrian Tarock, Napoletane.
+Every deck is a JSON file in `data/`, and they all use the same card format. The bot loads every deck file automatically. A deck file can list its own `spreads` and set `"reversals": false`, as Lenormand does. `scripts/build_napoletane.py` is a template for writing a new one. Ideas for later: Hanafuda, Grand Jeu Lenormand, Oracle Belline, Etteilla, Minchiate, I Ching.
+
+**Austrian Tarock** is a game deck with no fortune-telling tradition, so its meanings are an original system written for this bot. The tarocks run as a journey through 19th-century town life, from I · Pagat (the underdog) to XXI · Mond and the Sküs.
+
+Decks without scans yet (Lenormand, Tarock) show drawn placeholder cards. Add image URLs to `SOURCES` in the deck's build script, re-run it, then run `scripts/download_cards.py`.
 
 ## Credits
 
+Placeholder card faces use the DejaVu Serif font (free license, in `fonts/`).
+
+
 Card images come from the Waite-Smith Tarot (A. E. Waite & Pamela Colman Smith, 1909, the "Roses & Lilies" first edition). The scans are from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Rider-Waite_tarot_deck_(Roses_%26_Lilies)). The deck is in the public domain.
+
+Carte Napoletane scans are from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Naples_deck) (public domain). Their meanings follow general Italian cartomancy conventions.

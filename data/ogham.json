@@ -1,0 +1,437 @@
+{
+  "id": "ogham",
+  "name": "Ogham",
+  "short_name": "Ogham",
+  "family": "Staves & signs",
+  "description": "The 20 Ogham letters and their trees. Read upright.",
+  "card_aspect": 0.5,
+  "color": 3120708,
+  "reversals": false,
+  "spreads": [
+    "single",
+    "three",
+    "line5"
+  ],
+  "suits": {},
+  "cards": [
+    {
+      "id": "ogham_01",
+      "name": "Beith",
+      "name_en": "Birch",
+      "arcana": "ogham",
+      "number": 1,
+      "suit": "B",
+      "rank": "1",
+      "keywords": {
+        "upright": [
+          "beginnings",
+          "renewal",
+          "clearing the way"
+        ]
+      },
+      "meaning": {
+        "upright": "The birch is first to grow on cleared ground. A fresh start; sweep out the old."
+      },
+      "image": "cards/ogham/01.png",
+      "source_url": ""
+    },
+    {
+      "id": "ogham_02",
+      "name": "Luis",
+      "name_en": "Rowan",
+      "arcana": "ogham",
+      "number": 2,
+      "suit": "B",
+      "rank": "2",
+      "keywords": {
+        "upright": [
+          "protection",
+          "insight",
+          "quickening"
+        ]
+      },
+      "meaning": {
+        "upright": "Rowan guards against harm. Trust your perception and stay protected."
+      },
+      "image": "cards/ogham/02.png",
+      "source_url": ""
+    },
+    {
+      "id": "ogham_03",
+      "name": "Fearn",
+      "name_en": "Alder",
+      "arcana": "ogham",
+      "number": 3,
+      "suit": "B",
+      "rank": "3",
+      "keywords": {
+        "upright": [
+          "support",
+          "courage",
+          "bridging"
+        ]
+      },
+      "meaning": {
+        "upright": "Alder stands in water and doesn't rot. Be the support; hold firm under pressure."
+      },
+      "image": "cards/ogham/03.png",
+      "source_url": ""
+    },
+    {
+      "id": "ogham_04",
+      "name": "Sail",
+      "name_en": "Willow",
+      "arcana": "ogham",
+      "number": 4,
+      "suit": "B",
+      "rank": "4",
+      "keywords": {
+        "upright": [
+          "intuition",
+          "flexibility",
+          "feeling"
+        ]
+      },
+      "meaning": {
+        "upright": "The willow bends by the water. Follow feelings and cycles; flexibility wins."
+      },
+      "image": "cards/ogham/04.png",
+      "source_url": ""
+    },
+    {
+      "id": "ogham_05",
+      "name": "Nion",
+      "name_en": "Ash",
+      "arcana": "ogham",
+      "number": 5,
+      "suit": "B",
+      "rank": "5",
+      "keywords": {
+        "upright": [
+          "connection",
+          "the wider world",
+          "action"
+        ]
+      },
+      "meaning": {
+        "upright": "Ash links worlds. See how your situation connects to everything around it."
+      },
+      "image": "cards/ogham/05.png",
+      "source_url": ""
+    },
+    {
+      "id": "ogham_06",
+      "name": "Uath",
+      "name_en": "Hawthorn",
+      "arcana": "ogham",
+      "number": 6,
+      "suit": "H",
+      "rank": "1",
+      "keywords": {
+        "upright": [
+          "obstacles",
+          "patience",
+          "a threshold"
+        ]
+      },
+      "meaning": {
+        "upright": "Hawthorn blocks the gap in the hedge. A pause at a threshold; don't force it."
+      },
+      "image": "cards/ogham/06.png",
+      "source_url": ""
+    },
+    {
+      "id": "ogham_07",
+      "name": "Dair",
+      "name_en": "Oak",
+      "arcana": "ogham",
+      "number": 7,
+      "suit": "H",
+      "rank": "2",
+      "keywords": {
+        "upright": [
+          "strength",
+          "endurance",
+          "a doorway"
+        ]
+      },
+      "meaning": {
+        "upright": "The oak is the door. Strength and stability open the way forward."
+      },
+      "image": "cards/ogham/07.png",
+      "source_url": ""
+    },
+    {
+      "id": "ogham_08",
+      "name": "Tinne",
+      "name_en": "Holly",
+      "arcana": "ogham",
+      "number": 8,
+      "suit": "H",
+      "rank": "3",
+      "keywords": {
+        "upright": [
+          "challenge",
+          "balance",
+          "defence"
+        ]
+      },
+      "meaning": {
+        "upright": "Holly is the warrior's tree. Meet the challenge with fairness and resolve."
+      },
+      "image": "cards/ogham/08.png",
+      "source_url": ""
+    },
+    {
+      "id": "ogham_09",
+      "name": "Coll",
+      "name_en": "Hazel",
+      "arcana": "ogham",
+      "number": 9,
+      "suit": "H",
+      "rank": "4",
+      "keywords": {
+        "upright": [
+          "wisdom",
+          "creativity",
+          "inspiration"
+        ]
+      },
+      "meaning": {
+        "upright": "The hazel of wisdom. An idea or insight worth acting on."
+      },
+      "image": "cards/ogham/09.png",
+      "source_url": ""
+    },
+    {
+      "id": "ogham_10",
+      "name": "Quert",
+      "name_en": "Apple",
+      "arcana": "ogham",
+      "number": 10,
+      "suit": "H",
+      "rank": "5",
+      "keywords": {
+        "upright": [
+          "choice",
+          "beauty",
+          "wholeness"
+        ]
+      },
+      "meaning": {
+        "upright": "The apple: a choice between good things, and a taste of contentment."
+      },
+      "image": "cards/ogham/10.png",
+      "source_url": ""
+    },
+    {
+      "id": "ogham_11",
+      "name": "Muin",
+      "name_en": "Vine",
+      "arcana": "ogham",
+      "number": 11,
+      "suit": "M",
+      "rank": "1",
+      "keywords": {
+        "upright": [
+          "harvest",
+          "truth",
+          "celebration"
+        ]
+      },
+      "meaning": {
+        "upright": "The vine brings its harvest. Speak truthfully and enjoy what's ripened."
+      },
+      "image": "cards/ogham/11.png",
+      "source_url": ""
+    },
+    {
+      "id": "ogham_12",
+      "name": "Gort",
+      "name_en": "Ivy",
+      "arcana": "ogham",
+      "number": 12,
+      "suit": "M",
+      "rank": "2",
+      "keywords": {
+        "upright": [
+          "persistence",
+          "growth",
+          "ties"
+        ]
+      },
+      "meaning": {
+        "upright": "Ivy spirals and holds on. Slow, determined growth; watch what binds you."
+      },
+      "image": "cards/ogham/12.png",
+      "source_url": ""
+    },
+    {
+      "id": "ogham_13",
+      "name": "nGéadal",
+      "name_en": "Reed",
+      "arcana": "ogham",
+      "number": 13,
+      "suit": "M",
+      "rank": "3",
+      "keywords": {
+        "upright": [
+          "direction",
+          "purpose",
+          "communication"
+        ]
+      },
+      "meaning": {
+        "upright": "The reed points straight. Act with purpose and say what you mean."
+      },
+      "image": "cards/ogham/13.png",
+      "source_url": ""
+    },
+    {
+      "id": "ogham_14",
+      "name": "Straif",
+      "name_en": "Blackthorn",
+      "arcana": "ogham",
+      "number": 14,
+      "suit": "M",
+      "rank": "4",
+      "keywords": {
+        "upright": [
+          "hard necessity",
+          "strife",
+          "fate"
+        ]
+      },
+      "meaning": {
+        "upright": "Blackthorn: something unavoidable. Hard, but it clears the path."
+      },
+      "image": "cards/ogham/14.png",
+      "source_url": ""
+    },
+    {
+      "id": "ogham_15",
+      "name": "Ruis",
+      "name_en": "Elder",
+      "arcana": "ogham",
+      "number": 15,
+      "suit": "M",
+      "rank": "5",
+      "keywords": {
+        "upright": [
+          "endings",
+          "transition",
+          "renewal"
+        ]
+      },
+      "meaning": {
+        "upright": "The elder closes a cycle. Let something end so it can regrow."
+      },
+      "image": "cards/ogham/15.png",
+      "source_url": ""
+    },
+    {
+      "id": "ogham_16",
+      "name": "Ailm",
+      "name_en": "Pine",
+      "arcana": "ogham",
+      "number": 16,
+      "suit": "A",
+      "rank": "1",
+      "keywords": {
+        "upright": [
+          "clarity",
+          "perspective",
+          "vision"
+        ]
+      },
+      "meaning": {
+        "upright": "From the pine's height, see far. Get the long view before deciding."
+      },
+      "image": "cards/ogham/16.png",
+      "source_url": ""
+    },
+    {
+      "id": "ogham_17",
+      "name": "Onn",
+      "name_en": "Gorse",
+      "arcana": "ogham",
+      "number": 17,
+      "suit": "A",
+      "rank": "2",
+      "keywords": {
+        "upright": [
+          "hope",
+          "persistence",
+          "gathering"
+        ]
+      },
+      "meaning": {
+        "upright": "Gorse flowers all year. Keep hope; gather what you need."
+      },
+      "image": "cards/ogham/17.png",
+      "source_url": ""
+    },
+    {
+      "id": "ogham_18",
+      "name": "Úr",
+      "name_en": "Heather",
+      "arcana": "ogham",
+      "number": 18,
+      "suit": "A",
+      "rank": "3",
+      "keywords": {
+        "upright": [
+          "healing",
+          "passion",
+          "the heart"
+        ]
+      },
+      "meaning": {
+        "upright": "Heather by the doorstep. Healing, warmth and matters of the heart."
+      },
+      "image": "cards/ogham/18.png",
+      "source_url": ""
+    },
+    {
+      "id": "ogham_19",
+      "name": "Eadhadh",
+      "name_en": "Aspen",
+      "arcana": "ogham",
+      "number": 19,
+      "suit": "A",
+      "rank": "4",
+      "keywords": {
+        "upright": [
+          "courage",
+          "facing fear",
+          "endurance"
+        ]
+      },
+      "meaning": {
+        "upright": "The trembling aspen. Fear is present; courage goes on anyway."
+      },
+      "image": "cards/ogham/19.png",
+      "source_url": ""
+    },
+    {
+      "id": "ogham_20",
+      "name": "Iodhadh",
+      "name_en": "Yew",
+      "arcana": "ogham",
+      "number": 20,
+      "suit": "A",
+      "rank": "5",
+      "keywords": {
+        "upright": [
+          "death and rebirth",
+          "long memory"
+        ]
+      },
+      "meaning": {
+        "upright": "The ancient yew. Endings that are also beginnings; what lasts across time."
+      },
+      "image": "cards/ogham/20.png",
+      "source_url": ""
+    }
+  ]
+}

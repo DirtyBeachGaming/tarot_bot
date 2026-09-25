@@ -1,0 +1,767 @@
+{
+  "id": "kipper",
+  "name": "Kipper Cards",
+  "short_name": "Kipper",
+  "family": "Oracle",
+  "description": "The 36-card German Kipper fortune-telling deck (1890s). Read upright, in combinations.",
+  "card_aspect": 0.62,
+  "color": 1867478,
+  "reversals": false,
+  "spreads": [
+    "single",
+    "line3",
+    "line5",
+    "box9"
+  ],
+  "suits": {},
+  "cards": [
+    {
+      "id": "kipper_01",
+      "name": "Hauptperson (männlich)",
+      "name_en": "Main Person (Male)",
+      "arcana": "oracle",
+      "number": 1,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "the querent",
+          "a man",
+          "will"
+        ]
+      },
+      "meaning": {
+        "upright": "The person asking, if a man, or the key man in the matter."
+      },
+      "image": "cards/kipper/01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_02",
+      "name": "Hauptperson (weiblich)",
+      "name_en": "Main Person (Female)",
+      "arcana": "oracle",
+      "number": 2,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "the querent",
+          "a woman",
+          "intuition"
+        ]
+      },
+      "meaning": {
+        "upright": "The person asking, if a woman, or the key woman in the matter."
+      },
+      "image": "cards/kipper/02.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_03",
+      "name": "Ehe",
+      "name_en": "Marriage",
+      "arcana": "oracle",
+      "number": 3,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "partnership",
+          "commitment",
+          "contract"
+        ]
+      },
+      "meaning": {
+        "upright": "A committed partnership, in love or in business."
+      },
+      "image": "cards/kipper/03.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_04",
+      "name": "Begegnung",
+      "name_en": "Meeting",
+      "arcana": "oracle",
+      "number": 4,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "gathering",
+          "encounter",
+          "cooperation"
+        ]
+      },
+      "meaning": {
+        "upright": "People come together: a meeting, a gathering, working side by side."
+      },
+      "image": "cards/kipper/04.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_05",
+      "name": "Guter Herr",
+      "name_en": "Good Gentleman",
+      "arcana": "oracle",
+      "number": 5,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "a kind man",
+          "a helper",
+          "protection"
+        ]
+      },
+      "meaning": {
+        "upright": "A well-meaning man who helps and protects."
+      },
+      "image": "cards/kipper/05.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_06",
+      "name": "Gute Dame",
+      "name_en": "Good Lady",
+      "arcana": "oracle",
+      "number": 6,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "a kind woman",
+          "support",
+          "patience"
+        ]
+      },
+      "meaning": {
+        "upright": "A warm, generous woman who offers support."
+      },
+      "image": "cards/kipper/06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_07",
+      "name": "Angenehmer Brief",
+      "name_en": "Pleasant Letter",
+      "arcana": "oracle",
+      "number": 7,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "good news",
+          "an invitation"
+        ]
+      },
+      "meaning": {
+        "upright": "Welcome news or an invitation arrives."
+      },
+      "image": "cards/kipper/07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_08",
+      "name": "Falsche Person",
+      "name_en": "False Person",
+      "arcana": "oracle",
+      "number": 8,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "deceit",
+          "a two-faced person"
+        ]
+      },
+      "meaning": {
+        "upright": "Someone isn't honest. Watch for betrayal."
+      },
+      "image": "cards/kipper/08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_09",
+      "name": "Veränderung",
+      "name_en": "A Change",
+      "arcana": "oracle",
+      "number": 9,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "change",
+          "transition",
+          "fresh start"
+        ]
+      },
+      "meaning": {
+        "upright": "Things shift. A transition into something new."
+      },
+      "image": "cards/kipper/09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_10",
+      "name": "Reise",
+      "name_en": "A Journey",
+      "arcana": "oracle",
+      "number": 10,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "travel",
+          "departure",
+          "movement"
+        ]
+      },
+      "meaning": {
+        "upright": "A trip or a departure. Movement and new experiences."
+      },
+      "image": "cards/kipper/10.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_11",
+      "name": "Viel Geld gewinnen",
+      "name_en": "Win Lots of Money",
+      "arcana": "oracle",
+      "number": 11,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "wealth",
+          "gain",
+          "abundance"
+        ]
+      },
+      "meaning": {
+        "upright": "Financial success and plenty."
+      },
+      "image": "cards/kipper/11.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_12",
+      "name": "Reiches Mädchen",
+      "name_en": "Rich Girl",
+      "arcana": "oracle",
+      "number": 12,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "a young woman",
+          "ease",
+          "prosperity"
+        ]
+      },
+      "meaning": {
+        "upright": "A young woman with means, or an easy, prosperous time."
+      },
+      "image": "cards/kipper/12.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_13",
+      "name": "Reicher guter Herr",
+      "name_en": "Rich Good Gentleman",
+      "arcana": "oracle",
+      "number": 13,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "a wealthy man",
+          "stability"
+        ]
+      },
+      "meaning": {
+        "upright": "A wealthy, generous man with influence."
+      },
+      "image": "cards/kipper/13.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_14",
+      "name": "Traurige Nachricht",
+      "name_en": "Sad News",
+      "arcana": "oracle",
+      "number": 14,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "bad news",
+          "disappointment"
+        ]
+      },
+      "meaning": {
+        "upright": "Unwelcome or saddening news."
+      },
+      "image": "cards/kipper/14.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_15",
+      "name": "Liebesglück",
+      "name_en": "Happiness in Love",
+      "arcana": "oracle",
+      "number": 15,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "romance goes well",
+          "harmony"
+        ]
+      },
+      "meaning": {
+        "upright": "Love turns out well. Harmony between two people."
+      },
+      "image": "cards/kipper/15.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_16",
+      "name": "Seine Gedanken",
+      "name_en": "His Thoughts",
+      "arcana": "oracle",
+      "number": 16,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "thoughts",
+          "intentions",
+          "plans"
+        ]
+      },
+      "meaning": {
+        "upright": "What someone is thinking and planning."
+      },
+      "image": "cards/kipper/16.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_17",
+      "name": "Geschenk",
+      "name_en": "A Gift",
+      "arcana": "oracle",
+      "number": 17,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "a present",
+          "a pleasant surprise"
+        ]
+      },
+      "meaning": {
+        "upright": "A gift or kindness, a pleasant surprise."
+      },
+      "image": "cards/kipper/17.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_18",
+      "name": "Kleines Kind",
+      "name_en": "Small Child",
+      "arcana": "oracle",
+      "number": 18,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "a child",
+          "a new beginning"
+        ]
+      },
+      "meaning": {
+        "upright": "A child, or something small and new starting."
+      },
+      "image": "cards/kipper/18.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_19",
+      "name": "Todesfall",
+      "name_en": "Death",
+      "arcana": "oracle",
+      "number": 19,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "ending",
+          "loss",
+          "transformation"
+        ]
+      },
+      "meaning": {
+        "upright": "A final ending. Something is over and must be let go."
+      },
+      "image": "cards/kipper/19.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_20",
+      "name": "Haus",
+      "name_en": "House",
+      "arcana": "oracle",
+      "number": 20,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "home",
+          "family",
+          "property"
+        ]
+      },
+      "meaning": {
+        "upright": "Home and family, or property. A solid foundation."
+      },
+      "image": "cards/kipper/20.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_21",
+      "name": "Wohnzimmer",
+      "name_en": "Living Room",
+      "arcana": "oracle",
+      "number": 21,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "privacy",
+          "intimacy",
+          "domestic life"
+        ]
+      },
+      "meaning": {
+        "upright": "Private life behind closed doors."
+      },
+      "image": "cards/kipper/21.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_22",
+      "name": "Militärperson",
+      "name_en": "Military Person",
+      "arcana": "oracle",
+      "number": 22,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "discipline",
+          "duty",
+          "authority"
+        ]
+      },
+      "meaning": {
+        "upright": "Order and duty, or someone in uniform."
+      },
+      "image": "cards/kipper/22.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_23",
+      "name": "Gericht",
+      "name_en": "Court",
+      "arcana": "oracle",
+      "number": 23,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "judgment",
+          "justice",
+          "decisions"
+        ]
+      },
+      "meaning": {
+        "upright": "A court or judgment. A matter is decided."
+      },
+      "image": "cards/kipper/23.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_24",
+      "name": "Diebstahl",
+      "name_en": "Theft",
+      "arcana": "oracle",
+      "number": 24,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "loss",
+          "fraud",
+          "danger"
+        ]
+      },
+      "meaning": {
+        "upright": "Something is taken or lost. Guard what's yours."
+      },
+      "image": "cards/kipper/24.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_25",
+      "name": "Hohe Ehren",
+      "name_en": "High Honours",
+      "arcana": "oracle",
+      "number": 25,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "success",
+          "recognition",
+          "promotion"
+        ]
+      },
+      "meaning": {
+        "upright": "Recognition and advancement."
+      },
+      "image": "cards/kipper/25.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_26",
+      "name": "Großes Glück",
+      "name_en": "Great Fortune",
+      "arcana": "oracle",
+      "number": 26,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "joy",
+          "luck",
+          "achievement"
+        ]
+      },
+      "meaning": {
+        "upright": "Great good fortune and happiness."
+      },
+      "image": "cards/kipper/26.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_27",
+      "name": "Unverhofftes Geld",
+      "name_en": "Unexpected Money",
+      "arcana": "oracle",
+      "number": 27,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "a windfall",
+          "surprise gain"
+        ]
+      },
+      "meaning": {
+        "upright": "Money arrives from an unexpected direction."
+      },
+      "image": "cards/kipper/27.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_28",
+      "name": "Erwartung",
+      "name_en": "Expectation",
+      "arcana": "oracle",
+      "number": 28,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "hope",
+          "anticipation",
+          "waiting"
+        ]
+      },
+      "meaning": {
+        "upright": "Waiting with hope. Patience is needed."
+      },
+      "image": "cards/kipper/28.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_29",
+      "name": "Gefängnis",
+      "name_en": "Prison",
+      "arcana": "oracle",
+      "number": 29,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "restriction",
+          "isolation",
+          "stuck"
+        ]
+      },
+      "meaning": {
+        "upright": "Feeling confined. Something holds you in place."
+      },
+      "image": "cards/kipper/29.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_30",
+      "name": "Gerichtsperson",
+      "name_en": "Legal Person",
+      "arcana": "oracle",
+      "number": 30,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "an official",
+          "a lawyer",
+          "authority"
+        ]
+      },
+      "meaning": {
+        "upright": "A lawyer, official or judge. Formal authority."
+      },
+      "image": "cards/kipper/30.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_31",
+      "name": "Kurze Krankheit",
+      "name_en": "Short Illness",
+      "arcana": "oracle",
+      "number": 31,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "a pause",
+          "a brief setback",
+          "recovery"
+        ]
+      },
+      "meaning": {
+        "upright": "A short illness or temporary setback. It passes."
+      },
+      "image": "cards/kipper/31.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_32",
+      "name": "Kummer und Widerwärtigkeiten",
+      "name_en": "Grief and Adversity",
+      "arcana": "oracle",
+      "number": 32,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "hardship",
+          "worry",
+          "trouble"
+        ]
+      },
+      "meaning": {
+        "upright": "A hard patch. Worries and difficulties pile up."
+      },
+      "image": "cards/kipper/32.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_33",
+      "name": "Trübe Gedanken",
+      "name_en": "Gloomy Thoughts",
+      "arcana": "oracle",
+      "number": 33,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "doubt",
+          "fear",
+          "sadness"
+        ]
+      },
+      "meaning": {
+        "upright": "Dark thoughts and self-doubt."
+      },
+      "image": "cards/kipper/33.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_34",
+      "name": "Arbeit",
+      "name_en": "Work",
+      "arcana": "oracle",
+      "number": 34,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "job",
+          "duties",
+          "effort"
+        ]
+      },
+      "meaning": {
+        "upright": "Work and responsibilities. Effort that's needed."
+      },
+      "image": "cards/kipper/34.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_35",
+      "name": "Weiter Weg",
+      "name_en": "Long Road",
+      "arcana": "oracle",
+      "number": 35,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "distance",
+          "patience",
+          "long-term"
+        ]
+      },
+      "meaning": {
+        "upright": "A long way to go. Persistence pays off over time."
+      },
+      "image": "cards/kipper/35.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "kipper_36",
+      "name": "Hoffnung, großes Wasser",
+      "name_en": "Hope, Great Water",
+      "arcana": "oracle",
+      "number": 36,
+      "suit": null,
+      "rank": null,
+      "keywords": {
+        "upright": [
+          "hope",
+          "faith",
+          "distance over water"
+        ]
+      },
+      "meaning": {
+        "upright": "Hope and confidence, and sometimes a journey across water."
+      },
+      "image": "cards/kipper/36.jpg",
+      "source_url": ""
+    }
+  ]
+}

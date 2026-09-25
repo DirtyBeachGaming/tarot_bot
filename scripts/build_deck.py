@@ -77,10 +77,10 @@ MAJORS = [
 ]
 
 SUITS = {
- "wands":     {"element": "fire",  "domain": "will, passion, creativity, action"},
- "cups":      {"element": "water", "domain": "emotion, love, relationships, intuition"},
- "swords":    {"element": "air",   "domain": "thought, conflict, truth, communication"},
- "pentacles": {"element": "earth", "domain": "money, work, body, material world"},
+ "wands":     {"name": "Wands",     "element": "fire",  "color": 0xD9480F, "domain": "will, passion, creativity, action"},
+ "cups":      {"name": "Cups",      "element": "water", "color": 0x1971C2, "domain": "emotion, love, relationships, intuition"},
+ "swords":    {"name": "Swords",    "element": "air",   "color": 0xADB5BD, "domain": "thought, conflict, truth, communication"},
+ "pentacles": {"name": "Pentacles", "element": "earth", "color": 0x2B8A3E, "domain": "money, work, body, material world"},
 }
 RANKS = ["Ace", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten",
          "Page", "Knight", "Queen", "King"]
@@ -179,6 +179,10 @@ for suit, rows in MINORS.items():
 deck = {
     "id": "rws1909",
     "name": "Waite-Smith Tarot (1909)",
+    "short_name": "Waite-Smith",
+    "family": "Tarot",
+    "card_aspect": 830 / 1430,
+    "color": 0x6A4C93,
     "description": "Arthur Edward Waite and Pamela Colman Smith, first edition ('Roses & Lilies'). Public domain.",
     "source": "https://commons.wikimedia.org/wiki/Category:Rider-Waite_tarot_deck_(Roses_%26_Lilies)",
     "back_image": None,

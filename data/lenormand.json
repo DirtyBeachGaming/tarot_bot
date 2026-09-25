@@ -1,0 +1,805 @@
+{
+  "id": "lenormand",
+  "name": "Petit Lenormand",
+  "short_name": "Lenormand",
+  "family": "Oracle",
+  "description": "The 36-card Petit Lenormand, descended from Hechtel's 'Spiel der Hoffnung' (c. 1799). Read in combinations, without reversals.",
+  "card_aspect": 0.66,
+  "color": 9203014,
+  "reversals": false,
+  "spreads": [
+    "single",
+    "line3",
+    "line5",
+    "box9"
+  ],
+  "suits": {},
+  "cards": [
+    {
+      "id": "len_01",
+      "name": "Rider",
+      "arcana": "lenormand",
+      "number": 1,
+      "suit": null,
+      "rank": null,
+      "insert": "9♥",
+      "keywords": {
+        "upright": [
+          "news",
+          "a visitor",
+          "speed",
+          "arrival"
+        ]
+      },
+      "meaning": {
+        "upright": "News or a visitor is on the way. Things move quickly; something comes to you."
+      },
+      "image": "cards/lenormand/01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_02",
+      "name": "Clover",
+      "arcana": "lenormand",
+      "number": 2,
+      "suit": null,
+      "rank": null,
+      "insert": "6♦",
+      "keywords": {
+        "upright": [
+          "luck",
+          "a chance",
+          "lightness",
+          "brief joy"
+        ]
+      },
+      "meaning": {
+        "upright": "A small stroke of luck or a short-lived opportunity. Take it while it's there."
+      },
+      "image": "cards/lenormand/02.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_03",
+      "name": "Ship",
+      "arcana": "lenormand",
+      "number": 3,
+      "suit": null,
+      "rank": null,
+      "insert": "10♠",
+      "keywords": {
+        "upright": [
+          "travel",
+          "distance",
+          "trade",
+          "longing"
+        ]
+      },
+      "meaning": {
+        "upright": "A journey, a move or dealings from afar. Also longing for something distant."
+      },
+      "image": "cards/lenormand/03.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_04",
+      "name": "House",
+      "arcana": "lenormand",
+      "number": 4,
+      "suit": null,
+      "rank": null,
+      "insert": "K♥",
+      "keywords": {
+        "upright": [
+          "home",
+          "family",
+          "stability",
+          "property"
+        ]
+      },
+      "meaning": {
+        "upright": "Home, family and the private sphere. Security and what you've built."
+      },
+      "image": "cards/lenormand/04.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_05",
+      "name": "Tree",
+      "arcana": "lenormand",
+      "number": 5,
+      "suit": null,
+      "rank": null,
+      "insert": "7♥",
+      "keywords": {
+        "upright": [
+          "health",
+          "growth",
+          "roots",
+          "time"
+        ]
+      },
+      "meaning": {
+        "upright": "Health and slow, steady growth. Deep roots; things that take time."
+      },
+      "image": "cards/lenormand/05.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_06",
+      "name": "Clouds",
+      "arcana": "lenormand",
+      "number": 6,
+      "suit": null,
+      "rank": null,
+      "insert": "K♣",
+      "keywords": {
+        "upright": [
+          "confusion",
+          "doubt",
+          "unclear situation"
+        ]
+      },
+      "meaning": {
+        "upright": "Uncertainty and mixed signals. Wait for the air to clear before deciding."
+      },
+      "image": "cards/lenormand/06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_07",
+      "name": "Snake",
+      "arcana": "lenormand",
+      "number": 7,
+      "suit": null,
+      "rank": null,
+      "insert": "Q♣",
+      "keywords": {
+        "upright": [
+          "complication",
+          "desire",
+          "a rival",
+          "detour"
+        ]
+      },
+      "meaning": {
+        "upright": "Complications, a winding path, or a clever and possibly jealous woman."
+      },
+      "image": "cards/lenormand/07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_08",
+      "name": "Coffin",
+      "arcana": "lenormand",
+      "number": 8,
+      "suit": null,
+      "rank": null,
+      "insert": "9♦",
+      "keywords": {
+        "upright": [
+          "ending",
+          "closure",
+          "rest",
+          "transformation"
+        ]
+      },
+      "meaning": {
+        "upright": "Something ends or needs to be laid to rest. Clearing space for what's next."
+      },
+      "image": "cards/lenormand/08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_09",
+      "name": "Bouquet",
+      "arcana": "lenormand",
+      "number": 9,
+      "suit": null,
+      "rank": null,
+      "insert": "Q♠",
+      "keywords": {
+        "upright": [
+          "gift",
+          "charm",
+          "invitation",
+          "appreciation"
+        ]
+      },
+      "meaning": {
+        "upright": "A gift, a compliment or a pleasant invitation. Beauty and goodwill."
+      },
+      "image": "cards/lenormand/09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_10",
+      "name": "Scythe",
+      "arcana": "lenormand",
+      "number": 10,
+      "suit": null,
+      "rank": null,
+      "insert": "J♦",
+      "keywords": {
+        "upright": [
+          "sudden cut",
+          "decision",
+          "danger",
+          "harvest"
+        ]
+      },
+      "meaning": {
+        "upright": "A sudden decision or clean cut. Quick, sharp and final; handle with care."
+      },
+      "image": "cards/lenormand/10.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_11",
+      "name": "Whip",
+      "arcana": "lenormand",
+      "number": 11,
+      "suit": null,
+      "rank": null,
+      "insert": "J♣",
+      "keywords": {
+        "upright": [
+          "conflict",
+          "repetition",
+          "argument",
+          "discipline"
+        ]
+      },
+      "meaning": {
+        "upright": "Arguments, tension or something repeating. Also discipline and exercise."
+      },
+      "image": "cards/lenormand/11.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_12",
+      "name": "Birds",
+      "arcana": "lenormand",
+      "number": 12,
+      "suit": null,
+      "rank": null,
+      "insert": "7♦",
+      "keywords": {
+        "upright": [
+          "conversation",
+          "nerves",
+          "chatter",
+          "a couple"
+        ]
+      },
+      "meaning": {
+        "upright": "Talk, phone calls and gossip, or nervous excitement. Often a pair of people."
+      },
+      "image": "cards/lenormand/12.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_13",
+      "name": "Child",
+      "arcana": "lenormand",
+      "number": 13,
+      "suit": null,
+      "rank": null,
+      "insert": "J♠",
+      "keywords": {
+        "upright": [
+          "new beginning",
+          "innocence",
+          "small",
+          "a child"
+        ]
+      },
+      "meaning": {
+        "upright": "A fresh start, something small or new, or a child. Keep it simple."
+      },
+      "image": "cards/lenormand/13.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_14",
+      "name": "Fox",
+      "arcana": "lenormand",
+      "number": 14,
+      "suit": null,
+      "rank": null,
+      "insert": "9♣",
+      "keywords": {
+        "upright": [
+          "cunning",
+          "self-interest",
+          "work",
+          "caution"
+        ]
+      },
+      "meaning": {
+        "upright": "Something isn't what it seems. Be smart and look after your own interests."
+      },
+      "image": "cards/lenormand/14.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_15",
+      "name": "Bear",
+      "arcana": "lenormand",
+      "number": 15,
+      "suit": null,
+      "rank": null,
+      "insert": "10♣",
+      "keywords": {
+        "upright": [
+          "strength",
+          "power",
+          "finances",
+          "protection"
+        ]
+      },
+      "meaning": {
+        "upright": "Strength and authority, often over money. A powerful or protective figure."
+      },
+      "image": "cards/lenormand/15.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_16",
+      "name": "Stars",
+      "arcana": "lenormand",
+      "number": 16,
+      "suit": null,
+      "rank": null,
+      "insert": "6♥",
+      "keywords": {
+        "upright": [
+          "hope",
+          "guidance",
+          "clarity",
+          "dreams"
+        ]
+      },
+      "meaning": {
+        "upright": "Clear skies and good guidance. Hope, inspiration and wishes on track."
+      },
+      "image": "cards/lenormand/16.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_17",
+      "name": "Stork",
+      "arcana": "lenormand",
+      "number": 17,
+      "suit": null,
+      "rank": null,
+      "insert": "Q♥",
+      "keywords": {
+        "upright": [
+          "change",
+          "improvement",
+          "moving",
+          "renewal"
+        ]
+      },
+      "meaning": {
+        "upright": "Change for the better: a move, an improvement or a new phase arriving."
+      },
+      "image": "cards/lenormand/17.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_18",
+      "name": "Dog",
+      "arcana": "lenormand",
+      "number": 18,
+      "suit": null,
+      "rank": null,
+      "insert": "10♥",
+      "keywords": {
+        "upright": [
+          "loyalty",
+          "friendship",
+          "trust",
+          "support"
+        ]
+      },
+      "meaning": {
+        "upright": "A loyal friend or ally. Trust and dependable support."
+      },
+      "image": "cards/lenormand/18.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_19",
+      "name": "Tower",
+      "arcana": "lenormand",
+      "number": 19,
+      "suit": null,
+      "rank": null,
+      "insert": "6♠",
+      "keywords": {
+        "upright": [
+          "institutions",
+          "authority",
+          "solitude",
+          "the long term"
+        ]
+      },
+      "meaning": {
+        "upright": "Official bodies, big organisations or standing apart. Distance and ambition."
+      },
+      "image": "cards/lenormand/19.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_20",
+      "name": "Garden",
+      "arcana": "lenormand",
+      "number": 20,
+      "suit": null,
+      "rank": null,
+      "insert": "8♠",
+      "keywords": {
+        "upright": [
+          "public life",
+          "events",
+          "community",
+          "networking"
+        ]
+      },
+      "meaning": {
+        "upright": "Gatherings, social life and being seen. What happens in public."
+      },
+      "image": "cards/lenormand/20.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_21",
+      "name": "Mountain",
+      "arcana": "lenormand",
+      "number": 21,
+      "suit": null,
+      "rank": null,
+      "insert": "8♣",
+      "keywords": {
+        "upright": [
+          "obstacle",
+          "delay",
+          "challenge",
+          "endurance"
+        ]
+      },
+      "meaning": {
+        "upright": "A block or delay stands in the way. Patience and persistence get you over."
+      },
+      "image": "cards/lenormand/21.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_22",
+      "name": "Crossroads",
+      "arcana": "lenormand",
+      "number": 22,
+      "suit": null,
+      "rank": null,
+      "insert": "Q♦",
+      "keywords": {
+        "upright": [
+          "choice",
+          "options",
+          "alternatives",
+          "a fork"
+        ]
+      },
+      "meaning": {
+        "upright": "A decision between paths. More than one way forward."
+      },
+      "image": "cards/lenormand/22.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_23",
+      "name": "Mice",
+      "arcana": "lenormand",
+      "number": 23,
+      "suit": null,
+      "rank": null,
+      "insert": "7♣",
+      "keywords": {
+        "upright": [
+          "loss",
+          "worry",
+          "erosion",
+          "stress"
+        ]
+      },
+      "meaning": {
+        "upright": "Something is being gnawed away: money, health or peace of mind. Plug the leak."
+      },
+      "image": "cards/lenormand/23.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_24",
+      "name": "Heart",
+      "arcana": "lenormand",
+      "number": 24,
+      "suit": null,
+      "rank": null,
+      "insert": "J♥",
+      "keywords": {
+        "upright": [
+          "love",
+          "affection",
+          "romance",
+          "kindness"
+        ]
+      },
+      "meaning": {
+        "upright": "Love and warmth. Matters of the heart and genuine feeling."
+      },
+      "image": "cards/lenormand/24.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_25",
+      "name": "Ring",
+      "arcana": "lenormand",
+      "number": 25,
+      "suit": null,
+      "rank": null,
+      "insert": "A♣",
+      "keywords": {
+        "upright": [
+          "commitment",
+          "contract",
+          "union",
+          "cycle"
+        ]
+      },
+      "meaning": {
+        "upright": "A promise, a contract or a committed bond. Something binding or recurring."
+      },
+      "image": "cards/lenormand/25.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_26",
+      "name": "Book",
+      "arcana": "lenormand",
+      "number": 26,
+      "suit": null,
+      "rank": null,
+      "insert": "10♦",
+      "keywords": {
+        "upright": [
+          "secrets",
+          "knowledge",
+          "study",
+          "the unknown"
+        ]
+      },
+      "meaning": {
+        "upright": "Something hidden or not yet known. Learning, research or a secret."
+      },
+      "image": "cards/lenormand/26.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_27",
+      "name": "Letter",
+      "arcana": "lenormand",
+      "number": 27,
+      "suit": null,
+      "rank": null,
+      "insert": "7♠",
+      "keywords": {
+        "upright": [
+          "message",
+          "document",
+          "communication"
+        ]
+      },
+      "meaning": {
+        "upright": "A written message, email or document. News arrives in writing."
+      },
+      "image": "cards/lenormand/27.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_28",
+      "name": "Man",
+      "arcana": "lenormand",
+      "number": 28,
+      "suit": null,
+      "rank": null,
+      "insert": "A♥",
+      "keywords": {
+        "upright": [
+          "the querent (male)",
+          "a significant man"
+        ]
+      },
+      "meaning": {
+        "upright": "The person asking, if a man, or the key man in the situation."
+      },
+      "image": "cards/lenormand/28.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_29",
+      "name": "Woman",
+      "arcana": "lenormand",
+      "number": 29,
+      "suit": null,
+      "rank": null,
+      "insert": "A♠",
+      "keywords": {
+        "upright": [
+          "the querent (female)",
+          "a significant woman"
+        ]
+      },
+      "meaning": {
+        "upright": "The person asking, if a woman, or the key woman in the situation."
+      },
+      "image": "cards/lenormand/29.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_30",
+      "name": "Lily",
+      "arcana": "lenormand",
+      "number": 30,
+      "suit": null,
+      "rank": null,
+      "insert": "K♠",
+      "keywords": {
+        "upright": [
+          "peace",
+          "maturity",
+          "virtue",
+          "sensuality"
+        ]
+      },
+      "meaning": {
+        "upright": "Calm, experience and harmony. Also family peace or mature desire."
+      },
+      "image": "cards/lenormand/30.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_31",
+      "name": "Sun",
+      "arcana": "lenormand",
+      "number": 31,
+      "suit": null,
+      "rank": null,
+      "insert": "A♦",
+      "keywords": {
+        "upright": [
+          "success",
+          "energy",
+          "warmth",
+          "victory"
+        ]
+      },
+      "meaning": {
+        "upright": "Success, confidence and good energy. Everything goes well."
+      },
+      "image": "cards/lenormand/31.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_32",
+      "name": "Moon",
+      "arcana": "lenormand",
+      "number": 32,
+      "suit": null,
+      "rank": null,
+      "insert": "8♥",
+      "keywords": {
+        "upright": [
+          "recognition",
+          "emotions",
+          "intuition",
+          "reputation"
+        ]
+      },
+      "meaning": {
+        "upright": "Recognition and honour, or the emotional and intuitive side of things."
+      },
+      "image": "cards/lenormand/32.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_33",
+      "name": "Key",
+      "arcana": "lenormand",
+      "number": 33,
+      "suit": null,
+      "rank": null,
+      "insert": "8♦",
+      "keywords": {
+        "upright": [
+          "solution",
+          "certainty",
+          "answer",
+          "importance"
+        ]
+      },
+      "meaning": {
+        "upright": "The answer is found. Certainty, success and doors opening."
+      },
+      "image": "cards/lenormand/33.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_34",
+      "name": "Fish",
+      "arcana": "lenormand",
+      "number": 34,
+      "suit": null,
+      "rank": null,
+      "insert": "K♦",
+      "keywords": {
+        "upright": [
+          "money",
+          "abundance",
+          "business",
+          "flow"
+        ]
+      },
+      "meaning": {
+        "upright": "Money, business and plenty. Resources flowing in and out."
+      },
+      "image": "cards/lenormand/34.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_35",
+      "name": "Anchor",
+      "arcana": "lenormand",
+      "number": 35,
+      "suit": null,
+      "rank": null,
+      "insert": "9♠",
+      "keywords": {
+        "upright": [
+          "stability",
+          "persistence",
+          "security",
+          "work"
+        ]
+      },
+      "meaning": {
+        "upright": "Staying power and a secure foothold. Long-term stability, often at work."
+      },
+      "image": "cards/lenormand/35.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "len_36",
+      "name": "Cross",
+      "arcana": "lenormand",
+      "number": 36,
+      "suit": null,
+      "rank": null,
+      "insert": "6♣",
+      "keywords": {
+        "upright": [
+          "burden",
+          "fate",
+          "duty",
+          "faith"
+        ]
+      },
+      "meaning": {
+        "upright": "A burden to carry or a matter of fate. Also faith and meaning in hardship."
+      },
+      "image": "cards/lenormand/36.jpg",
+      "source_url": ""
+    }
+  ]
+}

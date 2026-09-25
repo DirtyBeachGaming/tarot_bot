@@ -1,0 +1,1085 @@
+{
+  "id": "playing_cards",
+  "name": "Playing Cards (52)",
+  "short_name": "Playing Cards",
+  "family": "Playing cards",
+  "description": "A standard 52-card deck with traditional English-language cartomancy meanings.",
+  "card_aspect": 0.71,
+  "color": 13183530,
+  "reversals": false,
+  "spreads": [
+    "single",
+    "three",
+    "situation",
+    "box9"
+  ],
+  "suits": {
+    "hearts": {
+      "name": "Hearts",
+      "color": 13183530,
+      "domain": "love, home, family, happiness"
+    },
+    "diamonds": {
+      "name": "Diamonds",
+      "color": 15227148,
+      "domain": "money, business, news"
+    },
+    "clubs": {
+      "name": "Clubs",
+      "color": 2853438,
+      "domain": "work, friendship, success"
+    },
+    "spades": {
+      "name": "Spades",
+      "color": 3422784,
+      "domain": "obstacles, trouble, change"
+    }
+  },
+  "cards": [
+    {
+      "id": "hearts_01",
+      "name": "Ace of Hearts",
+      "arcana": "minor",
+      "number": 1,
+      "suit": "hearts",
+      "rank": "Ace",
+      "insert": "A♥",
+      "keywords": {
+        "upright": [
+          "home",
+          "love",
+          "happiness"
+        ]
+      },
+      "meaning": {
+        "upright": "The home and the heart. Love, friendship and a happy household."
+      },
+      "image": "cards/playing_cards/hearts_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hearts_02",
+      "name": "Two of Hearts",
+      "arcana": "minor",
+      "number": 2,
+      "suit": "hearts",
+      "rank": "Two",
+      "insert": "2♥",
+      "keywords": {
+        "upright": [
+          "partnership",
+          "affection",
+          "union"
+        ]
+      },
+      "meaning": {
+        "upright": "Two people drawn together. A loving partnership or a close friendship."
+      },
+      "image": "cards/playing_cards/hearts_02.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hearts_03",
+      "name": "Three of Hearts",
+      "arcana": "minor",
+      "number": 3,
+      "suit": "hearts",
+      "rank": "Three",
+      "insert": "3♥",
+      "keywords": {
+        "upright": [
+          "indecision in love",
+          "caution"
+        ]
+      },
+      "meaning": {
+        "upright": "Be careful with your feelings; not every declaration is reliable."
+      },
+      "image": "cards/playing_cards/hearts_03.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hearts_04",
+      "name": "Four of Hearts",
+      "arcana": "minor",
+      "number": 4,
+      "suit": "hearts",
+      "rank": "Four",
+      "insert": "4♥",
+      "keywords": {
+        "upright": [
+          "change",
+          "travel",
+          "delayed commitment"
+        ]
+      },
+      "meaning": {
+        "upright": "A change of scene or a short trip. Commitments may wait."
+      },
+      "image": "cards/playing_cards/hearts_04.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hearts_05",
+      "name": "Five of Hearts",
+      "arcana": "minor",
+      "number": 5,
+      "suit": "hearts",
+      "rank": "Five",
+      "insert": "5♥",
+      "keywords": {
+        "upright": [
+          "jealousy",
+          "unease"
+        ]
+      },
+      "meaning": {
+        "upright": "Jealousy or ill will from someone close. Don't feed it."
+      },
+      "image": "cards/playing_cards/hearts_05.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hearts_06",
+      "name": "Six of Hearts",
+      "arcana": "minor",
+      "number": 6,
+      "suit": "hearts",
+      "rank": "Six",
+      "insert": "6♥",
+      "keywords": {
+        "upright": [
+          "good luck",
+          "kindness",
+          "nostalgia"
+        ]
+      },
+      "meaning": {
+        "upright": "Unexpected good fortune, or a sweet memory returning."
+      },
+      "image": "cards/playing_cards/hearts_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hearts_07",
+      "name": "Seven of Hearts",
+      "arcana": "minor",
+      "number": 7,
+      "suit": "hearts",
+      "rank": "Seven",
+      "insert": "7♥",
+      "keywords": {
+        "upright": [
+          "an unreliable person",
+          "broken promise"
+        ]
+      },
+      "meaning": {
+        "upright": "Someone may not keep their word. Keep expectations modest."
+      },
+      "image": "cards/playing_cards/hearts_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hearts_08",
+      "name": "Eight of Hearts",
+      "arcana": "minor",
+      "number": 8,
+      "suit": "hearts",
+      "rank": "Eight",
+      "insert": "8♥",
+      "keywords": {
+        "upright": [
+          "invitation",
+          "celebration",
+          "visit"
+        ]
+      },
+      "meaning": {
+        "upright": "An invitation, a party or a welcome visit."
+      },
+      "image": "cards/playing_cards/hearts_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hearts_09",
+      "name": "Nine of Hearts",
+      "arcana": "minor",
+      "number": 9,
+      "suit": "hearts",
+      "rank": "Nine",
+      "insert": "9♥",
+      "keywords": {
+        "upright": [
+          "the wish card",
+          "dreams come true"
+        ]
+      },
+      "meaning": {
+        "upright": "The wish card. What you hope for is within reach."
+      },
+      "image": "cards/playing_cards/hearts_09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hearts_10",
+      "name": "Ten of Hearts",
+      "arcana": "minor",
+      "number": 10,
+      "suit": "hearts",
+      "rank": "Ten",
+      "insert": "10♥",
+      "keywords": {
+        "upright": [
+          "good fortune",
+          "happiness",
+          "success"
+        ]
+      },
+      "meaning": {
+        "upright": "Happiness and success, especially at home and in love."
+      },
+      "image": "cards/playing_cards/hearts_10.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hearts_11",
+      "name": "Jack of Hearts",
+      "arcana": "minor",
+      "number": 11,
+      "suit": "hearts",
+      "rank": "Jack",
+      "insert": "J♥",
+      "keywords": {
+        "upright": [
+          "a young friend",
+          "a lover"
+        ]
+      },
+      "meaning": {
+        "upright": "A warm-hearted young person, a close friend or admirer."
+      },
+      "image": "cards/playing_cards/hearts_11.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hearts_12",
+      "name": "Queen of Hearts",
+      "arcana": "minor",
+      "number": 12,
+      "suit": "hearts",
+      "rank": "Queen",
+      "insert": "Q♥",
+      "keywords": {
+        "upright": [
+          "a kind",
+          "fair woman"
+        ]
+      },
+      "meaning": {
+        "upright": "A loving, good-natured woman who wishes you well."
+      },
+      "image": "cards/playing_cards/hearts_12.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hearts_13",
+      "name": "King of Hearts",
+      "arcana": "minor",
+      "number": 13,
+      "suit": "hearts",
+      "rank": "King",
+      "insert": "K♥",
+      "keywords": {
+        "upright": [
+          "a kind",
+          "fair man"
+        ]
+      },
+      "meaning": {
+        "upright": "A generous, affectionate man, quick to help."
+      },
+      "image": "cards/playing_cards/hearts_13.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "diamonds_01",
+      "name": "Ace of Diamonds",
+      "arcana": "minor",
+      "number": 1,
+      "suit": "diamonds",
+      "rank": "Ace",
+      "insert": "A♦",
+      "keywords": {
+        "upright": [
+          "a letter",
+          "a ring",
+          "money news"
+        ]
+      },
+      "meaning": {
+        "upright": "News about money, a message, or a ring."
+      },
+      "image": "cards/playing_cards/diamonds_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "diamonds_02",
+      "name": "Two of Diamonds",
+      "arcana": "minor",
+      "number": 2,
+      "suit": "diamonds",
+      "rank": "Two",
+      "insert": "2♦",
+      "keywords": {
+        "upright": [
+          "a serious romance",
+          "a business deal"
+        ]
+      },
+      "meaning": {
+        "upright": "An important partnership, in business or love."
+      },
+      "image": "cards/playing_cards/diamonds_02.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "diamonds_03",
+      "name": "Three of Diamonds",
+      "arcana": "minor",
+      "number": 3,
+      "suit": "diamonds",
+      "rank": "Three",
+      "insert": "3♦",
+      "keywords": {
+        "upright": [
+          "legal matters",
+          "disputes"
+        ]
+      },
+      "meaning": {
+        "upright": "Paperwork or a dispute. Handle legal matters carefully."
+      },
+      "image": "cards/playing_cards/diamonds_03.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "diamonds_04",
+      "name": "Four of Diamonds",
+      "arcana": "minor",
+      "number": 4,
+      "suit": "diamonds",
+      "rank": "Four",
+      "insert": "4♦",
+      "keywords": {
+        "upright": [
+          "an inheritance",
+          "improvement"
+        ]
+      },
+      "meaning": {
+        "upright": "Money improves: an inheritance, a raise or a gift."
+      },
+      "image": "cards/playing_cards/diamonds_04.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "diamonds_05",
+      "name": "Five of Diamonds",
+      "arcana": "minor",
+      "number": 5,
+      "suit": "diamonds",
+      "rank": "Five",
+      "insert": "5♦",
+      "keywords": {
+        "upright": [
+          "prosperity",
+          "success in business"
+        ]
+      },
+      "meaning": {
+        "upright": "Business goes well. Prosperity through effort."
+      },
+      "image": "cards/playing_cards/diamonds_05.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "diamonds_06",
+      "name": "Six of Diamonds",
+      "arcana": "minor",
+      "number": 6,
+      "suit": "diamonds",
+      "rank": "Six",
+      "insert": "6♦",
+      "keywords": {
+        "upright": [
+          "warnings",
+          "money trouble at home"
+        ]
+      },
+      "meaning": {
+        "upright": "Be careful with money in close relationships."
+      },
+      "image": "cards/playing_cards/diamonds_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "diamonds_07",
+      "name": "Seven of Diamonds",
+      "arcana": "minor",
+      "number": 7,
+      "suit": "diamonds",
+      "rank": "Seven",
+      "insert": "7♦",
+      "keywords": {
+        "upright": [
+          "gambling",
+          "criticism"
+        ]
+      },
+      "meaning": {
+        "upright": "A gamble or harsh words. Think before you risk it."
+      },
+      "image": "cards/playing_cards/diamonds_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "diamonds_08",
+      "name": "Eight of Diamonds",
+      "arcana": "minor",
+      "number": 8,
+      "suit": "diamonds",
+      "rank": "Eight",
+      "insert": "8♦",
+      "keywords": {
+        "upright": [
+          "travel",
+          "a late commitment"
+        ]
+      },
+      "meaning": {
+        "upright": "A journey, or something that comes later than planned."
+      },
+      "image": "cards/playing_cards/diamonds_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "diamonds_09",
+      "name": "Nine of Diamonds",
+      "arcana": "minor",
+      "number": 9,
+      "suit": "diamonds",
+      "rank": "Nine",
+      "insert": "9♦",
+      "keywords": {
+        "upright": [
+          "a surprise about money",
+          "restlessness"
+        ]
+      },
+      "meaning": {
+        "upright": "Money surprises, good or bad. A restless mood."
+      },
+      "image": "cards/playing_cards/diamonds_09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "diamonds_10",
+      "name": "Ten of Diamonds",
+      "arcana": "minor",
+      "number": 10,
+      "suit": "diamonds",
+      "rank": "Ten",
+      "insert": "10♦",
+      "keywords": {
+        "upright": [
+          "money",
+          "a big change"
+        ]
+      },
+      "meaning": {
+        "upright": "A significant change involving money, often a good one."
+      },
+      "image": "cards/playing_cards/diamonds_10.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "diamonds_11",
+      "name": "Jack of Diamonds",
+      "arcana": "minor",
+      "number": 11,
+      "suit": "diamonds",
+      "rank": "Jack",
+      "insert": "J♦",
+      "keywords": {
+        "upright": [
+          "a messenger",
+          "an unreliable relative"
+        ]
+      },
+      "meaning": {
+        "upright": "News carried by someone young, not always trustworthy."
+      },
+      "image": "cards/playing_cards/diamonds_11.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "diamonds_12",
+      "name": "Queen of Diamonds",
+      "arcana": "minor",
+      "number": 12,
+      "suit": "diamonds",
+      "rank": "Queen",
+      "insert": "Q♦",
+      "keywords": {
+        "upright": [
+          "a gossip",
+          "a flirt"
+        ]
+      },
+      "meaning": {
+        "upright": "A lively woman who likes to talk; be careful what you share."
+      },
+      "image": "cards/playing_cards/diamonds_12.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "diamonds_13",
+      "name": "King of Diamonds",
+      "arcana": "minor",
+      "number": 13,
+      "suit": "diamonds",
+      "rank": "King",
+      "insert": "K♦",
+      "keywords": {
+        "upright": [
+          "a powerful",
+          "stubborn man"
+        ]
+      },
+      "meaning": {
+        "upright": "A man with money and influence who likes his own way."
+      },
+      "image": "cards/playing_cards/diamonds_13.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "clubs_01",
+      "name": "Ace of Clubs",
+      "arcana": "minor",
+      "number": 1,
+      "suit": "clubs",
+      "rank": "Ace",
+      "insert": "A♣",
+      "keywords": {
+        "upright": [
+          "wealth",
+          "success",
+          "good news"
+        ]
+      },
+      "meaning": {
+        "upright": "Success and prosperity. Good news about work."
+      },
+      "image": "cards/playing_cards/clubs_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "clubs_02",
+      "name": "Two of Clubs",
+      "arcana": "minor",
+      "number": 2,
+      "suit": "clubs",
+      "rank": "Two",
+      "insert": "2♣",
+      "keywords": {
+        "upright": [
+          "opposition",
+          "disappointment"
+        ]
+      },
+      "meaning": {
+        "upright": "Resistance or a small letdown. Don't be discouraged."
+      },
+      "image": "cards/playing_cards/clubs_02.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "clubs_03",
+      "name": "Three of Clubs",
+      "arcana": "minor",
+      "number": 3,
+      "suit": "clubs",
+      "rank": "Three",
+      "insert": "3♣",
+      "keywords": {
+        "upright": [
+          "success",
+          "a second chance"
+        ]
+      },
+      "meaning": {
+        "upright": "Progress through partnership, or another chance at something."
+      },
+      "image": "cards/playing_cards/clubs_03.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "clubs_04",
+      "name": "Four of Clubs",
+      "arcana": "minor",
+      "number": 4,
+      "suit": "clubs",
+      "rank": "Four",
+      "insert": "4♣",
+      "keywords": {
+        "upright": [
+          "bad luck",
+          "deceit"
+        ]
+      },
+      "meaning": {
+        "upright": "A run of bad luck or someone being dishonest."
+      },
+      "image": "cards/playing_cards/clubs_04.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "clubs_05",
+      "name": "Five of Clubs",
+      "arcana": "minor",
+      "number": 5,
+      "suit": "clubs",
+      "rank": "Five",
+      "insert": "5♣",
+      "keywords": {
+        "upright": [
+          "a new friend",
+          "a good match"
+        ]
+      },
+      "meaning": {
+        "upright": "A new friend or a happy partnership."
+      },
+      "image": "cards/playing_cards/clubs_05.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "clubs_06",
+      "name": "Six of Clubs",
+      "arcana": "minor",
+      "number": 6,
+      "suit": "clubs",
+      "rank": "Six",
+      "insert": "6♣",
+      "keywords": {
+        "upright": [
+          "help",
+          "business success"
+        ]
+      },
+      "meaning": {
+        "upright": "Financial help or support brings success."
+      },
+      "image": "cards/playing_cards/clubs_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "clubs_07",
+      "name": "Seven of Clubs",
+      "arcana": "minor",
+      "number": 7,
+      "suit": "clubs",
+      "rank": "Seven",
+      "insert": "7♣",
+      "keywords": {
+        "upright": [
+          "prosperity",
+          "with caution"
+        ]
+      },
+      "meaning": {
+        "upright": "Things go well; just watch for jealousy around you."
+      },
+      "image": "cards/playing_cards/clubs_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "clubs_08",
+      "name": "Eight of Clubs",
+      "arcana": "minor",
+      "number": 8,
+      "suit": "clubs",
+      "rank": "Eight",
+      "insert": "8♣",
+      "keywords": {
+        "upright": [
+          "jealousy",
+          "greed"
+        ]
+      },
+      "meaning": {
+        "upright": "Envy or greed gets in the way."
+      },
+      "image": "cards/playing_cards/clubs_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "clubs_09",
+      "name": "Nine of Clubs",
+      "arcana": "minor",
+      "number": 9,
+      "suit": "clubs",
+      "rank": "Nine",
+      "insert": "9♣",
+      "keywords": {
+        "upright": [
+          "stubbornness",
+          "argument"
+        ]
+      },
+      "meaning": {
+        "upright": "A dispute caused by someone who won't budge."
+      },
+      "image": "cards/playing_cards/clubs_09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "clubs_10",
+      "name": "Ten of Clubs",
+      "arcana": "minor",
+      "number": 10,
+      "suit": "clubs",
+      "rank": "Ten",
+      "insert": "10♣",
+      "keywords": {
+        "upright": [
+          "unexpected money",
+          "travel"
+        ]
+      },
+      "meaning": {
+        "upright": "Money you didn't expect, or a journey."
+      },
+      "image": "cards/playing_cards/clubs_10.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "clubs_11",
+      "name": "Jack of Clubs",
+      "arcana": "minor",
+      "number": 11,
+      "suit": "clubs",
+      "rank": "Jack",
+      "insert": "J♣",
+      "keywords": {
+        "upright": [
+          "a reliable friend"
+        ]
+      },
+      "meaning": {
+        "upright": "A loyal, dependable young friend."
+      },
+      "image": "cards/playing_cards/clubs_11.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "clubs_12",
+      "name": "Queen of Clubs",
+      "arcana": "minor",
+      "number": 12,
+      "suit": "clubs",
+      "rank": "Queen",
+      "insert": "Q♣",
+      "keywords": {
+        "upright": [
+          "a confident",
+          "capable woman"
+        ]
+      },
+      "meaning": {
+        "upright": "A self-assured woman who can help you."
+      },
+      "image": "cards/playing_cards/clubs_12.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "clubs_13",
+      "name": "King of Clubs",
+      "arcana": "minor",
+      "number": 13,
+      "suit": "clubs",
+      "rank": "King",
+      "insert": "K♣",
+      "keywords": {
+        "upright": [
+          "an honest",
+          "generous man"
+        ]
+      },
+      "meaning": {
+        "upright": "A trustworthy, generous man and a good ally."
+      },
+      "image": "cards/playing_cards/clubs_13.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spades_01",
+      "name": "Ace of Spades",
+      "arcana": "minor",
+      "number": 1,
+      "suit": "spades",
+      "rank": "Ace",
+      "insert": "A♠",
+      "keywords": {
+        "upright": [
+          "a major ending",
+          "big change"
+        ]
+      },
+      "meaning": {
+        "upright": "A major change or ending. Something important closes."
+      },
+      "image": "cards/playing_cards/spades_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spades_02",
+      "name": "Two of Spades",
+      "arcana": "minor",
+      "number": 2,
+      "suit": "spades",
+      "rank": "Two",
+      "insert": "2♠",
+      "keywords": {
+        "upright": [
+          "separation",
+          "gossip"
+        ]
+      },
+      "meaning": {
+        "upright": "A parting of ways, or talk behind your back."
+      },
+      "image": "cards/playing_cards/spades_02.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spades_03",
+      "name": "Three of Spades",
+      "arcana": "minor",
+      "number": 3,
+      "suit": "spades",
+      "rank": "Three",
+      "insert": "3♠",
+      "keywords": {
+        "upright": [
+          "heartbreak",
+          "betrayal"
+        ]
+      },
+      "meaning": {
+        "upright": "Heartache or infidelity. Protect yourself."
+      },
+      "image": "cards/playing_cards/spades_03.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spades_04",
+      "name": "Four of Spades",
+      "arcana": "minor",
+      "number": 4,
+      "suit": "spades",
+      "rank": "Four",
+      "insert": "4♠",
+      "keywords": {
+        "upright": [
+          "illness",
+          "rest needed"
+        ]
+      },
+      "meaning": {
+        "upright": "Rest and recovery. Look after your health."
+      },
+      "image": "cards/playing_cards/spades_04.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spades_05",
+      "name": "Five of Spades",
+      "arcana": "minor",
+      "number": 5,
+      "suit": "spades",
+      "rank": "Five",
+      "insert": "5♠",
+      "keywords": {
+        "upright": [
+          "setbacks",
+          "obstacles"
+        ]
+      },
+      "meaning": {
+        "upright": "Things are harder than expected. Keep going."
+      },
+      "image": "cards/playing_cards/spades_05.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spades_06",
+      "name": "Six of Spades",
+      "arcana": "minor",
+      "number": 6,
+      "suit": "spades",
+      "rank": "Six",
+      "insert": "6♠",
+      "keywords": {
+        "upright": [
+          "gradual improvement"
+        ]
+      },
+      "meaning": {
+        "upright": "Slow but real improvement. The worst is over."
+      },
+      "image": "cards/playing_cards/spades_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spades_07",
+      "name": "Seven of Spades",
+      "arcana": "minor",
+      "number": 7,
+      "suit": "spades",
+      "rank": "Seven",
+      "insert": "7♠",
+      "keywords": {
+        "upright": [
+          "sudden sorrow",
+          "loss of a friend"
+        ]
+      },
+      "meaning": {
+        "upright": "An unexpected sadness or a friendship lost."
+      },
+      "image": "cards/playing_cards/spades_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spades_08",
+      "name": "Eight of Spades",
+      "arcana": "minor",
+      "number": 8,
+      "suit": "spades",
+      "rank": "Eight",
+      "insert": "8♠",
+      "keywords": {
+        "upright": [
+          "trouble ahead",
+          "disappointment"
+        ]
+      },
+      "meaning": {
+        "upright": "Caution: plans may disappoint. Adjust early."
+      },
+      "image": "cards/playing_cards/spades_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spades_09",
+      "name": "Nine of Spades",
+      "arcana": "minor",
+      "number": 9,
+      "suit": "spades",
+      "rank": "Nine",
+      "insert": "9♠",
+      "keywords": {
+        "upright": [
+          "misfortune",
+          "worry"
+        ]
+      },
+      "meaning": {
+        "upright": "The hardest card in the pack. Brace for a difficult time; it will pass."
+      },
+      "image": "cards/playing_cards/spades_09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spades_10",
+      "name": "Ten of Spades",
+      "arcana": "minor",
+      "number": 10,
+      "suit": "spades",
+      "rank": "Ten",
+      "insert": "10♠",
+      "keywords": {
+        "upright": [
+          "worry",
+          "bad news"
+        ]
+      },
+      "meaning": {
+        "upright": "Anxiety or unwelcome news. Share the load."
+      },
+      "image": "cards/playing_cards/spades_10.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spades_11",
+      "name": "Jack of Spades",
+      "arcana": "minor",
+      "number": 11,
+      "suit": "spades",
+      "rank": "Jack",
+      "insert": "J♠",
+      "keywords": {
+        "upright": [
+          "a well-meaning but lazy youth"
+        ]
+      },
+      "meaning": {
+        "upright": "A young person who means well but doesn't follow through."
+      },
+      "image": "cards/playing_cards/spades_11.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spades_12",
+      "name": "Queen of Spades",
+      "arcana": "minor",
+      "number": 12,
+      "suit": "spades",
+      "rank": "Queen",
+      "insert": "Q♠",
+      "keywords": {
+        "upright": [
+          "a sharp",
+          "independent woman"
+        ]
+      },
+      "meaning": {
+        "upright": "A clever, independent woman, possibly a widow. She sees clearly."
+      },
+      "image": "cards/playing_cards/spades_12.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spades_13",
+      "name": "King of Spades",
+      "arcana": "minor",
+      "number": 13,
+      "suit": "spades",
+      "rank": "King",
+      "insert": "K♠",
+      "keywords": {
+        "upright": [
+          "an ambitious man",
+          "authority"
+        ]
+      },
+      "meaning": {
+        "upright": "An ambitious man or an authority figure, like a lawyer."
+      },
+      "image": "cards/playing_cards/spades_13.jpg",
+      "source_url": ""
+    }
+  ]
+}

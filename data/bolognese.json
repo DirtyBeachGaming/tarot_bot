@@ -1,0 +1,1714 @@
+{
+  "id": "bolognese",
+  "name": "Tarocco Bolognese",
+  "short_name": "Bolognese",
+  "family": "Italian tarot",
+  "description": "The Bolognese tarot, 62 cards: no 2 to 5 in the suits, and four equal 'Mori' (Moors) in place of the Pope, Popess, Emperor and Empress. Double-headed, read without reversals.",
+  "card_aspect": 0.5,
+  "color": 10886733,
+  "reversals": false,
+  "spreads": [
+    "single",
+    "three",
+    "situation",
+    "celtic"
+  ],
+  "suits": {
+    "bastoni": {
+      "name": "Bastoni (Batons)",
+      "color": 14239759,
+      "element": "fire",
+      "domain": "will, passion, creativity, action"
+    },
+    "coppe": {
+      "name": "Coppe (Cups)",
+      "color": 1667522,
+      "element": "water",
+      "domain": "emotion, love, relationships, intuition"
+    },
+    "spade": {
+      "name": "Spade (Swords)",
+      "color": 8818326,
+      "element": "air",
+      "domain": "thought, conflict, truth, communication"
+    },
+    "denari": {
+      "name": "Denari (Coins)",
+      "color": 13214247,
+      "element": "earth",
+      "domain": "money, work, body, material world"
+    }
+  },
+  "cards": [
+    {
+      "id": "t_matto",
+      "name": "Il Matto",
+      "name_en": "The Fool",
+      "arcana": "trump",
+      "number": 0,
+      "suit": null,
+      "rank": "★",
+      "keywords": {
+        "upright": [
+          "beginnings",
+          "spontaneity",
+          "faith",
+          "freedom"
+        ],
+        "reversed": [
+          "recklessness",
+          "naivety",
+          "hesitation",
+          "risk"
+        ]
+      },
+      "meaning": {
+        "upright": "A leap into the unknown. Trust the journey and begin without needing every answer.",
+        "reversed": "Carelessness or fear of the leap. Look before you jump, or notice what is holding you back."
+      },
+      "image": "cards/bolognese/t_matto.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "t_bagatto",
+      "name": "Il Bagatto",
+      "name_en": "The Magician",
+      "arcana": "trump",
+      "number": 1,
+      "suit": null,
+      "rank": "I",
+      "keywords": {
+        "upright": [
+          "will",
+          "skill",
+          "manifestation",
+          "resourcefulness"
+        ],
+        "reversed": [
+          "manipulation",
+          "untapped talent",
+          "trickery"
+        ]
+      },
+      "meaning": {
+        "upright": "Everything you need is on the table. Focus your will and make it real.",
+        "reversed": "Power misdirected or unused. Beware of deception, including self-deception."
+      },
+      "image": "cards/bolognese/t_bagatto.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "t_moro_1",
+      "name": "Il Moro (I)",
+      "name_en": "Moor (High Priestess role)",
+      "arcana": "trump",
+      "number": 2,
+      "suit": null,
+      "rank": "",
+      "keywords": {
+        "upright": [
+          "intuition",
+          "mystery",
+          "the unconscious",
+          "inner knowing"
+        ],
+        "reversed": [
+          "secrets",
+          "disconnection",
+          "surface thinking"
+        ]
+      },
+      "meaning": {
+        "upright": "Be still and listen. The answer is known inwardly before it can be spoken.",
+        "reversed": "Ignoring your intuition, or hidden agendas coming to the surface."
+      },
+      "image": "cards/bolognese/t_moro_1.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "t_moro_2",
+      "name": "Il Moro (II)",
+      "name_en": "Moor (Empress role)",
+      "arcana": "trump",
+      "number": 3,
+      "suit": null,
+      "rank": "",
+      "keywords": {
+        "upright": [
+          "abundance",
+          "nurture",
+          "fertility",
+          "sensuality"
+        ],
+        "reversed": [
+          "dependence",
+          "smothering",
+          "creative block"
+        ]
+      },
+      "meaning": {
+        "upright": "Growth, comfort and creative fullness. Tend what you love and it flourishes.",
+        "reversed": "Neglect of self or over-giving to others. Creative energy feels stuck."
+      },
+      "image": "cards/bolognese/t_moro_2.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "t_moro_3",
+      "name": "Il Moro (III)",
+      "name_en": "Moor (Emperor role)",
+      "arcana": "trump",
+      "number": 4,
+      "suit": null,
+      "rank": "",
+      "keywords": {
+        "upright": [
+          "structure",
+          "authority",
+          "stability",
+          "leadership"
+        ],
+        "reversed": [
+          "rigidity",
+          "control",
+          "domination"
+        ]
+      },
+      "meaning": {
+        "upright": "Order and firm foundations. Take charge and build something lasting.",
+        "reversed": "Control turned tyrannical, or a lack of discipline where it's needed."
+      },
+      "image": "cards/bolognese/t_moro_3.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "t_moro_4",
+      "name": "Il Moro (IV)",
+      "name_en": "Moor (Hierophant role)",
+      "arcana": "trump",
+      "number": 5,
+      "suit": null,
+      "rank": "",
+      "keywords": {
+        "upright": [
+          "tradition",
+          "teaching",
+          "institutions",
+          "belief"
+        ],
+        "reversed": [
+          "rebellion",
+          "unorthodoxy",
+          "personal path"
+        ]
+      },
+      "meaning": {
+        "upright": "Wisdom through tradition, mentors and shared belief. Learn the rules well.",
+        "reversed": "Breaking from convention. Question the doctrine and find your own way."
+      },
+      "image": "cards/bolognese/t_moro_4.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "t_amore",
+      "name": "L'Amore",
+      "name_en": "The Lovers",
+      "arcana": "trump",
+      "number": 6,
+      "suit": null,
+      "rank": "",
+      "keywords": {
+        "upright": [
+          "love",
+          "union",
+          "choice",
+          "alignment of values"
+        ],
+        "reversed": [
+          "imbalance",
+          "disharmony",
+          "misaligned choices"
+        ]
+      },
+      "meaning": {
+        "upright": "A meaningful union or a choice that defines who you are. Choose with the heart and values aligned.",
+        "reversed": "Conflict in a relationship or within yourself. Values and actions are out of step."
+      },
+      "image": "cards/bolognese/t_amore.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "t_carro",
+      "name": "Il Carro",
+      "name_en": "The Chariot",
+      "arcana": "trump",
+      "number": 7,
+      "suit": null,
+      "rank": "",
+      "keywords": {
+        "upright": [
+          "willpower",
+          "victory",
+          "direction",
+          "control"
+        ],
+        "reversed": [
+          "scattered force",
+          "lack of direction",
+          "aggression"
+        ]
+      },
+      "meaning": {
+        "upright": "Opposing forces held in check. Drive forward with determination and you win.",
+        "reversed": "Losing control of the reins. Momentum without direction."
+      },
+      "image": "cards/bolognese/t_carro.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "t_temperanza",
+      "name": "La Temperanza",
+      "name_en": "Temperance",
+      "arcana": "trump",
+      "number": 8,
+      "suit": null,
+      "rank": "",
+      "keywords": {
+        "upright": [
+          "balance",
+          "moderation",
+          "patience",
+          "synthesis"
+        ],
+        "reversed": [
+          "excess",
+          "imbalance",
+          "impatience"
+        ]
+      },
+      "meaning": {
+        "upright": "Blend opposites slowly. Patience and measure produce something new.",
+        "reversed": "Too much of something. Restore balance before continuing."
+      },
+      "image": "cards/bolognese/t_temperanza.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "t_giustizia",
+      "name": "La Giustizia",
+      "name_en": "Justice",
+      "arcana": "trump",
+      "number": 9,
+      "suit": null,
+      "rank": "",
+      "keywords": {
+        "upright": [
+          "fairness",
+          "truth",
+          "cause and effect",
+          "law"
+        ],
+        "reversed": [
+          "unfairness",
+          "dishonesty",
+          "avoidance of accountability"
+        ]
+      },
+      "meaning": {
+        "upright": "Clear judgment and consequences earned. Act with integrity; the scales balance.",
+        "reversed": "Injustice, bias, or dodging responsibility. Something needs to be made right."
+      },
+      "image": "cards/bolognese/t_giustizia.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "t_forza",
+      "name": "La Forza",
+      "name_en": "Strength",
+      "arcana": "trump",
+      "number": 10,
+      "suit": null,
+      "rank": "",
+      "keywords": {
+        "upright": [
+          "courage",
+          "compassion",
+          "patience",
+          "inner strength"
+        ],
+        "reversed": [
+          "self-doubt",
+          "weakness",
+          "raw emotion"
+        ]
+      },
+      "meaning": {
+        "upright": "Gentle mastery. Quiet courage tames what force cannot.",
+        "reversed": "Doubt or being overwhelmed by impulses. Reconnect with your inner steadiness."
+      },
+      "image": "cards/bolognese/t_forza.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "t_ruota",
+      "name": "La Ruota",
+      "name_en": "Wheel of Fortune",
+      "arcana": "trump",
+      "number": 11,
+      "suit": null,
+      "rank": "",
+      "keywords": {
+        "upright": [
+          "cycles",
+          "fate",
+          "turning points",
+          "luck"
+        ],
+        "reversed": [
+          "bad luck",
+          "resistance to change",
+          "stagnation"
+        ]
+      },
+      "meaning": {
+        "upright": "The wheel turns. A shift in fortune arrives; ride the cycle rather than fight it.",
+        "reversed": "A downturn or clinging to what's passing. What goes down comes back up."
+      },
+      "image": "cards/bolognese/t_ruota.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "t_tempo",
+      "name": "Il Tempo",
+      "name_en": "The Hermit",
+      "arcana": "trump",
+      "number": 12,
+      "suit": null,
+      "rank": "",
+      "keywords": {
+        "upright": [
+          "solitude",
+          "introspection",
+          "guidance",
+          "search for truth"
+        ],
+        "reversed": [
+          "isolation",
+          "loneliness",
+          "withdrawal"
+        ]
+      },
+      "meaning": {
+        "upright": "Step back from the noise. The lantern you carry lights the way inward.",
+        "reversed": "Retreat has become isolation. Time to return to others."
+      },
+      "image": "cards/bolognese/t_tempo.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "t_traditore",
+      "name": "Il Traditore",
+      "name_en": "The Hanged Man",
+      "arcana": "trump",
+      "number": 13,
+      "suit": null,
+      "rank": "",
+      "keywords": {
+        "upright": [
+          "surrender",
+          "pause",
+          "new perspective",
+          "sacrifice"
+        ],
+        "reversed": [
+          "stalling",
+          "resistance",
+          "needless sacrifice"
+        ]
+      },
+      "meaning": {
+        "upright": "Suspend action. Seeing the world upside down reveals what you missed.",
+        "reversed": "Delay without purpose, or refusing to let go."
+      },
+      "image": "cards/bolognese/t_traditore.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "t_morte",
+      "name": "La Morte",
+      "name_en": "Death",
+      "arcana": "trump",
+      "number": 14,
+      "suit": null,
+      "rank": "",
+      "keywords": {
+        "upright": [
+          "endings",
+          "transformation",
+          "transition",
+          "release"
+        ],
+        "reversed": [
+          "resistance to change",
+          "stagnation",
+          "fear of endings"
+        ]
+      },
+      "meaning": {
+        "upright": "Something ends so something new can begin. Clear the ground.",
+        "reversed": "Holding onto what's already over. Change is delayed but not avoided."
+      },
+      "image": "cards/bolognese/t_morte.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "t_diavolo",
+      "name": "Il Diavolo",
+      "name_en": "The Devil",
+      "arcana": "trump",
+      "number": 15,
+      "suit": null,
+      "rank": "",
+      "keywords": {
+        "upright": [
+          "bondage",
+          "temptation",
+          "materialism",
+          "shadow"
+        ],
+        "reversed": [
+          "release",
+          "breaking free",
+          "reclaiming power"
+        ]
+      },
+      "meaning": {
+        "upright": "Chains of habit, desire or fear. Notice they're loose enough to remove.",
+        "reversed": "Breaking free from what bound you. Facing the shadow."
+      },
+      "image": "cards/bolognese/t_diavolo.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "t_saetta",
+      "name": "La Saetta",
+      "name_en": "The Tower",
+      "arcana": "trump",
+      "number": 16,
+      "suit": null,
+      "rank": "",
+      "keywords": {
+        "upright": [
+          "upheaval",
+          "sudden change",
+          "revelation",
+          "collapse"
+        ],
+        "reversed": [
+          "averted disaster",
+          "fear of change",
+          "delayed collapse"
+        ]
+      },
+      "meaning": {
+        "upright": "What was built on false ground falls. Painful, but it clears the way for truth.",
+        "reversed": "Avoiding a necessary collapse, or an upheaval felt internally."
+      },
+      "image": "cards/bolognese/t_saetta.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "t_stella",
+      "name": "La Stella",
+      "name_en": "The Star",
+      "arcana": "trump",
+      "number": 17,
+      "suit": null,
+      "rank": "",
+      "keywords": {
+        "upright": [
+          "hope",
+          "renewal",
+          "inspiration",
+          "serenity"
+        ],
+        "reversed": [
+          "despair",
+          "disconnection",
+          "lost faith"
+        ]
+      },
+      "meaning": {
+        "upright": "After the storm, calm and hope. Healing and guidance are here.",
+        "reversed": "Hope feels distant. Reconnect with what inspires you."
+      },
+      "image": "cards/bolognese/t_stella.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "t_luna",
+      "name": "La Luna",
+      "name_en": "The Moon",
+      "arcana": "trump",
+      "number": 18,
+      "suit": null,
+      "rank": "",
+      "keywords": {
+        "upright": [
+          "illusion",
+          "dreams",
+          "intuition",
+          "uncertainty"
+        ],
+        "reversed": [
+          "clarity emerging",
+          "released fear",
+          "confusion lifting"
+        ]
+      },
+      "meaning": {
+        "upright": "Things are not what they seem. Move carefully and trust instinct over appearances.",
+        "reversed": "Illusions dissolve and fears lose their grip."
+      },
+      "image": "cards/bolognese/t_luna.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "t_sole",
+      "name": "Il Sole",
+      "name_en": "The Sun",
+      "arcana": "trump",
+      "number": 19,
+      "suit": null,
+      "rank": "",
+      "keywords": {
+        "upright": [
+          "joy",
+          "success",
+          "vitality",
+          "clarity"
+        ],
+        "reversed": [
+          "temporary clouds",
+          "dimmed joy",
+          "overconfidence"
+        ]
+      },
+      "meaning": {
+        "upright": "Warmth, success and simple happiness. Everything is illuminated.",
+        "reversed": "Joy is present but muted. The sun is behind a cloud, not gone."
+      },
+      "image": "cards/bolognese/t_sole.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "t_mondo",
+      "name": "Il Mondo",
+      "name_en": "The World",
+      "arcana": "trump",
+      "number": 20,
+      "suit": null,
+      "rank": "",
+      "keywords": {
+        "upright": [
+          "completion",
+          "wholeness",
+          "fulfilment",
+          "travel"
+        ],
+        "reversed": [
+          "incompletion",
+          "shortcuts",
+          "lack of closure"
+        ]
+      },
+      "meaning": {
+        "upright": "A cycle completes. Celebrate integration and the arrival of a goal.",
+        "reversed": "Almost there. Tie up loose ends before moving on."
+      },
+      "image": "cards/bolognese/t_mondo.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "t_angelo",
+      "name": "L'Angelo",
+      "name_en": "Judgement",
+      "arcana": "trump",
+      "number": 21,
+      "suit": null,
+      "rank": "",
+      "keywords": {
+        "upright": [
+          "awakening",
+          "reckoning",
+          "calling",
+          "rebirth"
+        ],
+        "reversed": [
+          "self-doubt",
+          "ignoring the call",
+          "harsh self-judgment"
+        ]
+      },
+      "meaning": {
+        "upright": "A call to rise. Reckon with the past and answer who you're meant to be.",
+        "reversed": "Refusing the call or judging yourself too harshly."
+      },
+      "image": "cards/bolognese/t_angelo.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "bastoni_01",
+      "name": "Asso di Bastoni",
+      "name_en": "Ace of Wands",
+      "arcana": "minor",
+      "number": 1,
+      "suit": "bastoni",
+      "rank": "Asso",
+      "keywords": {
+        "upright": [
+          "inspiration",
+          "spark",
+          "new venture"
+        ],
+        "reversed": [
+          "delays",
+          "lack of motivation"
+        ]
+      },
+      "meaning": {
+        "upright": "A creative spark or new passion is offered. Grab it.",
+        "reversed": "The spark is there but won't catch. Energy blocked or misdirected."
+      },
+      "image": "cards/bolognese/bastoni_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "bastoni_06",
+      "name": "Sei di Bastoni",
+      "name_en": "Six of Wands",
+      "arcana": "minor",
+      "number": 6,
+      "suit": "bastoni",
+      "rank": "Sei",
+      "keywords": {
+        "upright": [
+          "victory",
+          "recognition",
+          "success"
+        ],
+        "reversed": [
+          "ego",
+          "fall from grace",
+          "lack of recognition"
+        ]
+      },
+      "meaning": {
+        "upright": "Public victory and recognition. Ride proudly.",
+        "reversed": "Success feels hollow, or recognition is withheld."
+      },
+      "image": "cards/bolognese/bastoni_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "bastoni_07",
+      "name": "Sette di Bastoni",
+      "name_en": "Seven of Wands",
+      "arcana": "minor",
+      "number": 7,
+      "suit": "bastoni",
+      "rank": "Sette",
+      "keywords": {
+        "upright": [
+          "defence",
+          "perseverance",
+          "standing ground"
+        ],
+        "reversed": [
+          "overwhelm",
+          "giving up"
+        ]
+      },
+      "meaning": {
+        "upright": "Hold your position against challengers. You have the high ground.",
+        "reversed": "Worn down by opposition. Choose your battles."
+      },
+      "image": "cards/bolognese/bastoni_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "bastoni_08",
+      "name": "Otto di Bastoni",
+      "name_en": "Eight of Wands",
+      "arcana": "minor",
+      "number": 8,
+      "suit": "bastoni",
+      "rank": "Otto",
+      "keywords": {
+        "upright": [
+          "speed",
+          "movement",
+          "swift news"
+        ],
+        "reversed": [
+          "delays",
+          "frustration",
+          "slowing down"
+        ]
+      },
+      "meaning": {
+        "upright": "Things move fast. Messages, travel and momentum.",
+        "reversed": "Momentum stalls or rushes out of control."
+      },
+      "image": "cards/bolognese/bastoni_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "bastoni_09",
+      "name": "Nove di Bastoni",
+      "name_en": "Nine of Wands",
+      "arcana": "minor",
+      "number": 9,
+      "suit": "bastoni",
+      "rank": "Nove",
+      "keywords": {
+        "upright": [
+          "resilience",
+          "persistence",
+          "last stand"
+        ],
+        "reversed": [
+          "exhaustion",
+          "paranoia"
+        ]
+      },
+      "meaning": {
+        "upright": "Battered but standing. One more push.",
+        "reversed": "Defensiveness has become exhaustion. Rest."
+      },
+      "image": "cards/bolognese/bastoni_09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "bastoni_10",
+      "name": "Dieci di Bastoni",
+      "name_en": "Ten of Wands",
+      "arcana": "minor",
+      "number": 10,
+      "suit": "bastoni",
+      "rank": "Dieci",
+      "keywords": {
+        "upright": [
+          "burden",
+          "responsibility",
+          "overwork"
+        ],
+        "reversed": [
+          "release",
+          "delegation"
+        ]
+      },
+      "meaning": {
+        "upright": "Carrying too much. The goal is near but the load is heavy.",
+        "reversed": "Putting down what isn't yours to carry."
+      },
+      "image": "cards/bolognese/bastoni_10.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "bastoni_11",
+      "name": "Fante di Bastoni",
+      "name_en": "Page of Wands",
+      "arcana": "minor",
+      "number": 11,
+      "suit": "bastoni",
+      "rank": "Fante",
+      "keywords": {
+        "upright": [
+          "curiosity",
+          "discovery",
+          "enthusiastic news"
+        ],
+        "reversed": [
+          "hasty ideas",
+          "immaturity"
+        ]
+      },
+      "meaning": {
+        "upright": "A fresh, adventurous message or idea. Explore it.",
+        "reversed": "Enthusiasm without follow-through."
+      },
+      "image": "cards/bolognese/bastoni_11.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "bastoni_12",
+      "name": "Cavallo di Bastoni",
+      "name_en": "Knight of Wands",
+      "arcana": "minor",
+      "number": 12,
+      "suit": "bastoni",
+      "rank": "Cavallo",
+      "keywords": {
+        "upright": [
+          "energy",
+          "adventure",
+          "impulsiveness"
+        ],
+        "reversed": [
+          "haste",
+          "frustration",
+          "scattered energy"
+        ]
+      },
+      "meaning": {
+        "upright": "Charging ahead with passion. Bold action.",
+        "reversed": "Recklessness or restlessness burning out."
+      },
+      "image": "cards/bolognese/bastoni_12.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "bastoni_13",
+      "name": "Regina di Bastoni",
+      "name_en": "Queen of Wands",
+      "arcana": "minor",
+      "number": 13,
+      "suit": "bastoni",
+      "rank": "Regina",
+      "keywords": {
+        "upright": [
+          "confidence",
+          "warmth",
+          "determination"
+        ],
+        "reversed": [
+          "jealousy",
+          "insecurity",
+          "demanding"
+        ]
+      },
+      "meaning": {
+        "upright": "Magnetic, vibrant and self-assured. Lead with warmth.",
+        "reversed": "Confidence turned to insecurity or possessiveness."
+      },
+      "image": "cards/bolognese/bastoni_13.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "bastoni_14",
+      "name": "Re di Bastoni",
+      "name_en": "King of Wands",
+      "arcana": "minor",
+      "number": 14,
+      "suit": "bastoni",
+      "rank": "Re",
+      "keywords": {
+        "upright": [
+          "vision",
+          "leadership",
+          "entrepreneurship"
+        ],
+        "reversed": [
+          "impulsiveness",
+          "overbearing",
+          "high expectations"
+        ]
+      },
+      "meaning": {
+        "upright": "Bold vision and natural leadership. Make it happen.",
+        "reversed": "Leadership becomes domineering or rash."
+      },
+      "image": "cards/bolognese/bastoni_14.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "coppe_01",
+      "name": "Asso di Coppe",
+      "name_en": "Ace of Cups",
+      "arcana": "minor",
+      "number": 1,
+      "suit": "coppe",
+      "rank": "Asso",
+      "keywords": {
+        "upright": [
+          "new love",
+          "compassion",
+          "emotional opening"
+        ],
+        "reversed": [
+          "blocked emotions",
+          "emptiness"
+        ]
+      },
+      "meaning": {
+        "upright": "The heart overflows. New love, feeling or creativity begins.",
+        "reversed": "Emotions held back or a love left unexpressed."
+      },
+      "image": "cards/bolognese/coppe_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "coppe_06",
+      "name": "Sei di Coppe",
+      "name_en": "Six of Cups",
+      "arcana": "minor",
+      "number": 6,
+      "suit": "coppe",
+      "rank": "Sei",
+      "keywords": {
+        "upright": [
+          "nostalgia",
+          "innocence",
+          "childhood memories"
+        ],
+        "reversed": [
+          "stuck in the past",
+          "idealising"
+        ]
+      },
+      "meaning": {
+        "upright": "A sweet memory or a gift from the past. Innocence.",
+        "reversed": "Living in the past instead of the present."
+      },
+      "image": "cards/bolognese/coppe_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "coppe_07",
+      "name": "Sette di Coppe",
+      "name_en": "Seven of Cups",
+      "arcana": "minor",
+      "number": 7,
+      "suit": "coppe",
+      "rank": "Sette",
+      "keywords": {
+        "upright": [
+          "choices",
+          "fantasy",
+          "illusion"
+        ],
+        "reversed": [
+          "clarity",
+          "focus",
+          "reality check"
+        ]
+      },
+      "meaning": {
+        "upright": "Many dazzling options, not all real. Discern.",
+        "reversed": "Fantasies fade and a real choice emerges."
+      },
+      "image": "cards/bolognese/coppe_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "coppe_08",
+      "name": "Otto di Coppe",
+      "name_en": "Eight of Cups",
+      "arcana": "minor",
+      "number": 8,
+      "suit": "coppe",
+      "rank": "Otto",
+      "keywords": {
+        "upright": [
+          "walking away",
+          "disillusionment",
+          "seeking more"
+        ],
+        "reversed": [
+          "fear of change",
+          "aimless drifting"
+        ]
+      },
+      "meaning": {
+        "upright": "Leaving behind what no longer fulfils, to seek something deeper.",
+        "reversed": "Afraid to leave, or leaving without purpose."
+      },
+      "image": "cards/bolognese/coppe_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "coppe_09",
+      "name": "Nove di Coppe",
+      "name_en": "Nine of Cups",
+      "arcana": "minor",
+      "number": 9,
+      "suit": "coppe",
+      "rank": "Nove",
+      "keywords": {
+        "upright": [
+          "contentment",
+          "wishes fulfilled",
+          "satisfaction"
+        ],
+        "reversed": [
+          "smugness",
+          "dissatisfaction"
+        ]
+      },
+      "meaning": {
+        "upright": "The wish card. Satisfaction and pleasure.",
+        "reversed": "Material satisfaction that doesn't reach the heart."
+      },
+      "image": "cards/bolognese/coppe_09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "coppe_10",
+      "name": "Dieci di Coppe",
+      "name_en": "Ten of Cups",
+      "arcana": "minor",
+      "number": 10,
+      "suit": "coppe",
+      "rank": "Dieci",
+      "keywords": {
+        "upright": [
+          "harmony",
+          "family",
+          "emotional fulfilment"
+        ],
+        "reversed": [
+          "broken home",
+          "misaligned values"
+        ]
+      },
+      "meaning": {
+        "upright": "Lasting happiness and harmony at home.",
+        "reversed": "Discord in the family or unmet ideals."
+      },
+      "image": "cards/bolognese/coppe_10.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "coppe_11",
+      "name": "Fante di Coppe",
+      "name_en": "Page of Cups",
+      "arcana": "minor",
+      "number": 11,
+      "suit": "coppe",
+      "rank": "Fante",
+      "keywords": {
+        "upright": [
+          "creative message",
+          "intuition",
+          "emotional curiosity"
+        ],
+        "reversed": [
+          "emotional immaturity",
+          "blocked creativity"
+        ]
+      },
+      "meaning": {
+        "upright": "A surprising message of feeling or a creative idea.",
+        "reversed": "Moodiness or ignoring your creative voice."
+      },
+      "image": "cards/bolognese/coppe_11.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "coppe_12",
+      "name": "Cavallo di Coppe",
+      "name_en": "Knight of Cups",
+      "arcana": "minor",
+      "number": 12,
+      "suit": "coppe",
+      "rank": "Cavallo",
+      "keywords": {
+        "upright": [
+          "romance",
+          "charm",
+          "following the heart"
+        ],
+        "reversed": [
+          "moodiness",
+          "unrealistic ideals"
+        ]
+      },
+      "meaning": {
+        "upright": "An offer of love or beauty arrives. The romantic.",
+        "reversed": "Charm without substance. Promises unkept."
+      },
+      "image": "cards/bolognese/coppe_12.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "coppe_13",
+      "name": "Regina di Coppe",
+      "name_en": "Queen of Cups",
+      "arcana": "minor",
+      "number": 13,
+      "suit": "coppe",
+      "rank": "Regina",
+      "keywords": {
+        "upright": [
+          "compassion",
+          "emotional security",
+          "intuition"
+        ],
+        "reversed": [
+          "codependence",
+          "emotional overwhelm"
+        ]
+      },
+      "meaning": {
+        "upright": "Deep empathy and emotional wisdom. Care for others and self.",
+        "reversed": "Drowning in others' feelings. Set boundaries."
+      },
+      "image": "cards/bolognese/coppe_13.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "coppe_14",
+      "name": "Re di Coppe",
+      "name_en": "King of Cups",
+      "arcana": "minor",
+      "number": 14,
+      "suit": "coppe",
+      "rank": "Re",
+      "keywords": {
+        "upright": [
+          "emotional balance",
+          "diplomacy",
+          "calm"
+        ],
+        "reversed": [
+          "volatility",
+          "manipulation",
+          "coldness"
+        ]
+      },
+      "meaning": {
+        "upright": "Calm mastery of feeling. Steady in rough seas.",
+        "reversed": "Suppressed emotion or emotional manipulation."
+      },
+      "image": "cards/bolognese/coppe_14.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spade_01",
+      "name": "Asso di Spade",
+      "name_en": "Ace of Swords",
+      "arcana": "minor",
+      "number": 1,
+      "suit": "spade",
+      "rank": "Asso",
+      "keywords": {
+        "upright": [
+          "clarity",
+          "breakthrough",
+          "truth"
+        ],
+        "reversed": [
+          "confusion",
+          "misused power"
+        ]
+      },
+      "meaning": {
+        "upright": "A sharp new idea cuts through the fog. Speak truth.",
+        "reversed": "Clouded thinking or harsh words."
+      },
+      "image": "cards/bolognese/spade_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spade_06",
+      "name": "Sei di Spade",
+      "name_en": "Six of Swords",
+      "arcana": "minor",
+      "number": 6,
+      "suit": "spade",
+      "rank": "Sei",
+      "keywords": {
+        "upright": [
+          "transition",
+          "moving on",
+          "passage"
+        ],
+        "reversed": [
+          "unfinished business",
+          "resistance"
+        ]
+      },
+      "meaning": {
+        "upright": "Leaving troubled waters for calmer shores.",
+        "reversed": "Carrying baggage along, or unable to leave."
+      },
+      "image": "cards/bolognese/spade_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spade_07",
+      "name": "Sette di Spade",
+      "name_en": "Seven of Swords",
+      "arcana": "minor",
+      "number": 7,
+      "suit": "spade",
+      "rank": "Sette",
+      "keywords": {
+        "upright": [
+          "deception",
+          "strategy",
+          "stealth"
+        ],
+        "reversed": [
+          "confession",
+          "conscience",
+          "getting caught"
+        ]
+      },
+      "meaning": {
+        "upright": "Someone is getting away with something. Be strategic, or be wary.",
+        "reversed": "Secrets come out. Coming clean."
+      },
+      "image": "cards/bolognese/spade_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spade_08",
+      "name": "Otto di Spade",
+      "name_en": "Eight of Swords",
+      "arcana": "minor",
+      "number": 8,
+      "suit": "spade",
+      "rank": "Otto",
+      "keywords": {
+        "upright": [
+          "restriction",
+          "feeling trapped",
+          "victim mindset"
+        ],
+        "reversed": [
+          "release",
+          "new perspective"
+        ]
+      },
+      "meaning": {
+        "upright": "Bound by your own thoughts. The ties are looser than they seem.",
+        "reversed": "Stepping free of self-imposed limits."
+      },
+      "image": "cards/bolognese/spade_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spade_09",
+      "name": "Nove di Spade",
+      "name_en": "Nine of Swords",
+      "arcana": "minor",
+      "number": 9,
+      "suit": "spade",
+      "rank": "Nove",
+      "keywords": {
+        "upright": [
+          "anxiety",
+          "worry",
+          "nightmares"
+        ],
+        "reversed": [
+          "hope",
+          "reaching out",
+          "releasing worry"
+        ]
+      },
+      "meaning": {
+        "upright": "Sleepless fear. The mind magnifies the danger.",
+        "reversed": "The worst of the worry passes. Share it."
+      },
+      "image": "cards/bolognese/spade_09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spade_10",
+      "name": "Dieci di Spade",
+      "name_en": "Ten of Swords",
+      "arcana": "minor",
+      "number": 10,
+      "suit": "spade",
+      "rank": "Dieci",
+      "keywords": {
+        "upright": [
+          "rock bottom",
+          "painful ending",
+          "betrayal"
+        ],
+        "reversed": [
+          "recovery",
+          "regeneration"
+        ]
+      },
+      "meaning": {
+        "upright": "It can't get worse. Dawn is on the horizon.",
+        "reversed": "Rising from the lowest point."
+      },
+      "image": "cards/bolognese/spade_10.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spade_11",
+      "name": "Fante di Spade",
+      "name_en": "Page of Swords",
+      "arcana": "minor",
+      "number": 11,
+      "suit": "spade",
+      "rank": "Fante",
+      "keywords": {
+        "upright": [
+          "curiosity",
+          "vigilance",
+          "new ideas"
+        ],
+        "reversed": [
+          "gossip",
+          "all talk",
+          "hastiness"
+        ]
+      },
+      "meaning": {
+        "upright": "Alert and eager for truth. Ask questions.",
+        "reversed": "Talk without action, or spreading rumours."
+      },
+      "image": "cards/bolognese/spade_11.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spade_12",
+      "name": "Cavallo di Spade",
+      "name_en": "Knight of Swords",
+      "arcana": "minor",
+      "number": 12,
+      "suit": "spade",
+      "rank": "Cavallo",
+      "keywords": {
+        "upright": [
+          "ambition",
+          "drive",
+          "fast thinking"
+        ],
+        "reversed": [
+          "rashness",
+          "aggression",
+          "burnout"
+        ]
+      },
+      "meaning": {
+        "upright": "Charging headlong into battle for an idea.",
+        "reversed": "Impulsive or combative in ways that backfire."
+      },
+      "image": "cards/bolognese/spade_12.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spade_13",
+      "name": "Regina di Spade",
+      "name_en": "Queen of Swords",
+      "arcana": "minor",
+      "number": 13,
+      "suit": "spade",
+      "rank": "Regina",
+      "keywords": {
+        "upright": [
+          "clear boundaries",
+          "independence",
+          "honesty"
+        ],
+        "reversed": [
+          "coldness",
+          "bitterness"
+        ]
+      },
+      "meaning": {
+        "upright": "Sharp perception and honest words, earned through experience.",
+        "reversed": "Cruelty in place of clarity."
+      },
+      "image": "cards/bolognese/spade_13.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "spade_14",
+      "name": "Re di Spade",
+      "name_en": "King of Swords",
+      "arcana": "minor",
+      "number": 14,
+      "suit": "spade",
+      "rank": "Re",
+      "keywords": {
+        "upright": [
+          "intellect",
+          "authority",
+          "truth"
+        ],
+        "reversed": [
+          "manipulation",
+          "abuse of power"
+        ]
+      },
+      "meaning": {
+        "upright": "Clear-headed judgment and principled authority.",
+        "reversed": "Cold, manipulative logic."
+      },
+      "image": "cards/bolognese/spade_14.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "denari_01",
+      "name": "Asso di Denari",
+      "name_en": "Ace of Pentacles",
+      "arcana": "minor",
+      "number": 1,
+      "suit": "denari",
+      "rank": "Asso",
+      "keywords": {
+        "upright": [
+          "opportunity",
+          "prosperity",
+          "new venture"
+        ],
+        "reversed": [
+          "missed opportunity",
+          "poor planning"
+        ]
+      },
+      "meaning": {
+        "upright": "A tangible opportunity for wealth or health is offered.",
+        "reversed": "An opportunity slips through your fingers."
+      },
+      "image": "cards/bolognese/denari_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "denari_06",
+      "name": "Sei di Denari",
+      "name_en": "Six of Pentacles",
+      "arcana": "minor",
+      "number": 6,
+      "suit": "denari",
+      "rank": "Sei",
+      "keywords": {
+        "upright": [
+          "generosity",
+          "charity",
+          "sharing"
+        ],
+        "reversed": [
+          "debt",
+          "strings attached"
+        ]
+      },
+      "meaning": {
+        "upright": "Giving and receiving in balance.",
+        "reversed": "Generosity with an agenda, or imbalance of power."
+      },
+      "image": "cards/bolognese/denari_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "denari_07",
+      "name": "Sette di Denari",
+      "name_en": "Seven of Pentacles",
+      "arcana": "minor",
+      "number": 7,
+      "suit": "denari",
+      "rank": "Sette",
+      "keywords": {
+        "upright": [
+          "patience",
+          "investment",
+          "long-term view"
+        ],
+        "reversed": [
+          "impatience",
+          "poor returns"
+        ]
+      },
+      "meaning": {
+        "upright": "Pause to assess the harvest. Growth takes time.",
+        "reversed": "Frustration with slow results."
+      },
+      "image": "cards/bolognese/denari_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "denari_08",
+      "name": "Otto di Denari",
+      "name_en": "Eight of Pentacles",
+      "arcana": "minor",
+      "number": 8,
+      "suit": "denari",
+      "rank": "Otto",
+      "keywords": {
+        "upright": [
+          "diligence",
+          "mastery",
+          "skill-building"
+        ],
+        "reversed": [
+          "perfectionism",
+          "lack of focus"
+        ]
+      },
+      "meaning": {
+        "upright": "Head down, honing your craft.",
+        "reversed": "Work without meaning, or cutting corners."
+      },
+      "image": "cards/bolognese/denari_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "denari_09",
+      "name": "Nove di Denari",
+      "name_en": "Nine of Pentacles",
+      "arcana": "minor",
+      "number": 9,
+      "suit": "denari",
+      "rank": "Nove",
+      "keywords": {
+        "upright": [
+          "independence",
+          "luxury",
+          "self-sufficiency"
+        ],
+        "reversed": [
+          "overwork",
+          "hollow success"
+        ]
+      },
+      "meaning": {
+        "upright": "Enjoying the fruits of your labour in comfort.",
+        "reversed": "Wealth without fulfilment."
+      },
+      "image": "cards/bolognese/denari_09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "denari_10",
+      "name": "Dieci di Denari",
+      "name_en": "Ten of Pentacles",
+      "arcana": "minor",
+      "number": 10,
+      "suit": "denari",
+      "rank": "Dieci",
+      "keywords": {
+        "upright": [
+          "legacy",
+          "inheritance",
+          "family wealth"
+        ],
+        "reversed": [
+          "financial loss",
+          "family disputes"
+        ]
+      },
+      "meaning": {
+        "upright": "Lasting security and a legacy for generations.",
+        "reversed": "Disputes over money or legacy."
+      },
+      "image": "cards/bolognese/denari_10.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "denari_11",
+      "name": "Fante di Denari",
+      "name_en": "Page of Pentacles",
+      "arcana": "minor",
+      "number": 11,
+      "suit": "denari",
+      "rank": "Fante",
+      "keywords": {
+        "upright": [
+          "ambition",
+          "study",
+          "manifestation"
+        ],
+        "reversed": [
+          "procrastination",
+          "lack of progress"
+        ]
+      },
+      "meaning": {
+        "upright": "A student with a new plan or opportunity. Study it.",
+        "reversed": "Daydreaming without doing."
+      },
+      "image": "cards/bolognese/denari_11.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "denari_12",
+      "name": "Cavallo di Denari",
+      "name_en": "Knight of Pentacles",
+      "arcana": "minor",
+      "number": 12,
+      "suit": "denari",
+      "rank": "Cavallo",
+      "keywords": {
+        "upright": [
+          "hard work",
+          "routine",
+          "reliability"
+        ],
+        "reversed": [
+          "stagnation",
+          "boredom",
+          "laziness"
+        ]
+      },
+      "meaning": {
+        "upright": "Slow, steady and dependable. Keep ploughing.",
+        "reversed": "Stuck in a rut."
+      },
+      "image": "cards/bolognese/denari_12.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "denari_13",
+      "name": "Regina di Denari",
+      "name_en": "Queen of Pentacles",
+      "arcana": "minor",
+      "number": 13,
+      "suit": "denari",
+      "rank": "Regina",
+      "keywords": {
+        "upright": [
+          "nurturing",
+          "practicality",
+          "security"
+        ],
+        "reversed": [
+          "self-neglect",
+          "work-home imbalance"
+        ]
+      },
+      "meaning": {
+        "upright": "Grounded care for home, body and finances.",
+        "reversed": "Neglecting yourself while caring for everything else."
+      },
+      "image": "cards/bolognese/denari_13.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "denari_14",
+      "name": "Re di Denari",
+      "name_en": "King of Pentacles",
+      "arcana": "minor",
+      "number": 14,
+      "suit": "denari",
+      "rank": "Re",
+      "keywords": {
+        "upright": [
+          "abundance",
+          "security",
+          "leadership"
+        ],
+        "reversed": [
+          "greed",
+          "stubbornness",
+          "materialism"
+        ]
+      },
+      "meaning": {
+        "upright": "Mastery of the material world. Prosperity and stability.",
+        "reversed": "Obsessed with wealth and status."
+      },
+      "image": "cards/bolognese/denari_14.jpg",
+      "source_url": ""
+    }
+  ]
+}

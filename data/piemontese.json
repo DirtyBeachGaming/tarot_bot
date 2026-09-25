@@ -1,47 +1,53 @@
 {
-  "id": "rws1909",
-  "name": "Waite-Smith Tarot (1909)",
-  "short_name": "Waite-Smith",
-  "family": "Tarot",
-  "card_aspect": 0.5804195804195804,
-  "color": 6966419,
-  "description": "Arthur Edward Waite and Pamela Colman Smith, first edition ('Roses & Lilies'). Public domain.",
-  "source": "https://commons.wikimedia.org/wiki/Category:Rider-Waite_tarot_deck_(Roses_%26_Lilies)",
-  "back_image": null,
+  "id": "piemontese",
+  "name": "Tarocco Piemontese",
+  "short_name": "Piemontese",
+  "family": "Italian tarot",
+  "description": "The Piedmontese tarot, 78 cards, still played in northwest Italy. Double-headed, so read without reversals. Waite-Smith meanings matched by card.",
+  "card_aspect": 0.53,
+  "color": 7358696,
+  "reversals": false,
+  "spreads": [
+    "single",
+    "three",
+    "situation",
+    "celtic"
+  ],
   "suits": {
-    "wands": {
-      "name": "Wands",
-      "element": "fire",
+    "bastoni": {
+      "name": "Bastoni (Batons)",
       "color": 14239759,
+      "element": "fire",
       "domain": "will, passion, creativity, action"
     },
-    "cups": {
-      "name": "Cups",
-      "element": "water",
+    "coppe": {
+      "name": "Coppe (Cups)",
       "color": 1667522,
+      "element": "water",
       "domain": "emotion, love, relationships, intuition"
     },
-    "swords": {
-      "name": "Swords",
+    "spade": {
+      "name": "Spade (Swords)",
+      "color": 8818326,
       "element": "air",
-      "color": 11384253,
       "domain": "thought, conflict, truth, communication"
     },
-    "pentacles": {
-      "name": "Pentacles",
+    "denari": {
+      "name": "Denari (Coins)",
+      "color": 13214247,
       "element": "earth",
-      "color": 2853438,
       "domain": "money, work, body, material world"
     }
   },
   "cards": [
     {
       "id": "major_00",
-      "name": "The Fool",
-      "arcana": "major",
+      "name": "Il Matto",
+      "name_en": "The Fool",
+      "arcana": "trump",
       "number": 0,
       "suit": null,
-      "rank": null,
+      "rank": "★",
       "keywords": {
         "upright": [
           "beginnings",
@@ -60,16 +66,17 @@
         "upright": "A leap into the unknown. Trust the journey and begin without needing every answer.",
         "reversed": "Carelessness or fear of the leap. Look before you jump, or notice what is holding you back."
       },
-      "image": "cards/rws1909/major_00.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/RWS1909_-_00_Fool.jpeg"
+      "image": "cards/piemontese/major_00.jpg",
+      "source_url": ""
     },
     {
       "id": "major_01",
-      "name": "The Magician",
-      "arcana": "major",
+      "name": "Il Bagatto",
+      "name_en": "The Magician",
+      "arcana": "trump",
       "number": 1,
       "suit": null,
-      "rank": null,
+      "rank": "I",
       "keywords": {
         "upright": [
           "will",
@@ -87,16 +94,17 @@
         "upright": "Everything you need is on the table. Focus your will and make it real.",
         "reversed": "Power misdirected or unused. Beware of deception, including self-deception."
       },
-      "image": "cards/rws1909/major_01.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/RWS1909_-_01_Magician.jpeg"
+      "image": "cards/piemontese/major_01.jpg",
+      "source_url": ""
     },
     {
       "id": "major_02",
-      "name": "The High Priestess",
-      "arcana": "major",
+      "name": "La Papessa",
+      "name_en": "The High Priestess",
+      "arcana": "trump",
       "number": 2,
       "suit": null,
-      "rank": null,
+      "rank": "II",
       "keywords": {
         "upright": [
           "intuition",
@@ -114,16 +122,17 @@
         "upright": "Be still and listen. The answer is known inwardly before it can be spoken.",
         "reversed": "Ignoring your intuition, or hidden agendas coming to the surface."
       },
-      "image": "cards/rws1909/major_02.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/RWS1909_-_02_High_Priestess.jpeg"
+      "image": "cards/piemontese/major_02.jpg",
+      "source_url": ""
     },
     {
       "id": "major_03",
-      "name": "The Empress",
-      "arcana": "major",
+      "name": "L'Imperatrice",
+      "name_en": "The Empress",
+      "arcana": "trump",
       "number": 3,
       "suit": null,
-      "rank": null,
+      "rank": "III",
       "keywords": {
         "upright": [
           "abundance",
@@ -141,16 +150,17 @@
         "upright": "Growth, comfort and creative fullness. Tend what you love and it flourishes.",
         "reversed": "Neglect of self or over-giving to others. Creative energy feels stuck."
       },
-      "image": "cards/rws1909/major_03.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/RWS1909_-_03_Empress.jpeg"
+      "image": "cards/piemontese/major_03.jpg",
+      "source_url": ""
     },
     {
       "id": "major_04",
-      "name": "The Emperor",
-      "arcana": "major",
+      "name": "L'Imperatore",
+      "name_en": "The Emperor",
+      "arcana": "trump",
       "number": 4,
       "suit": null,
-      "rank": null,
+      "rank": "IV",
       "keywords": {
         "upright": [
           "structure",
@@ -168,16 +178,17 @@
         "upright": "Order and firm foundations. Take charge and build something lasting.",
         "reversed": "Control turned tyrannical, or a lack of discipline where it's needed."
       },
-      "image": "cards/rws1909/major_04.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/RWS1909_-_04_Emperor.jpeg"
+      "image": "cards/piemontese/major_04.jpg",
+      "source_url": ""
     },
     {
       "id": "major_05",
-      "name": "The Hierophant",
-      "arcana": "major",
+      "name": "Il Papa",
+      "name_en": "The Hierophant",
+      "arcana": "trump",
       "number": 5,
       "suit": null,
-      "rank": null,
+      "rank": "V",
       "keywords": {
         "upright": [
           "tradition",
@@ -195,16 +206,17 @@
         "upright": "Wisdom through tradition, mentors and shared belief. Learn the rules well.",
         "reversed": "Breaking from convention. Question the doctrine and find your own way."
       },
-      "image": "cards/rws1909/major_05.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/RWS1909_-_05_Hierophant.jpeg"
+      "image": "cards/piemontese/major_05.jpg",
+      "source_url": ""
     },
     {
       "id": "major_06",
-      "name": "The Lovers",
-      "arcana": "major",
+      "name": "Gli Amanti",
+      "name_en": "The Lovers",
+      "arcana": "trump",
       "number": 6,
       "suit": null,
-      "rank": null,
+      "rank": "VI",
       "keywords": {
         "upright": [
           "love",
@@ -222,16 +234,17 @@
         "upright": "A meaningful union or a choice that defines who you are. Choose with the heart and values aligned.",
         "reversed": "Conflict in a relationship or within yourself. Values and actions are out of step."
       },
-      "image": "cards/rws1909/major_06.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/RWS1909_-_06_Lovers.jpeg"
+      "image": "cards/piemontese/major_06.jpg",
+      "source_url": ""
     },
     {
       "id": "major_07",
-      "name": "The Chariot",
-      "arcana": "major",
+      "name": "Il Carro",
+      "name_en": "The Chariot",
+      "arcana": "trump",
       "number": 7,
       "suit": null,
-      "rank": null,
+      "rank": "VII",
       "keywords": {
         "upright": [
           "willpower",
@@ -249,97 +262,17 @@
         "upright": "Opposing forces held in check. Drive forward with determination and you win.",
         "reversed": "Losing control of the reins. Momentum without direction."
       },
-      "image": "cards/rws1909/major_07.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/RWS1909_-_07_Chariot.jpeg"
+      "image": "cards/piemontese/major_07.jpg",
+      "source_url": ""
     },
     {
       "id": "major_08",
-      "name": "Strength",
-      "arcana": "major",
+      "name": "La Giustizia",
+      "name_en": "Justice",
+      "arcana": "trump",
       "number": 8,
       "suit": null,
-      "rank": null,
-      "keywords": {
-        "upright": [
-          "courage",
-          "compassion",
-          "patience",
-          "inner strength"
-        ],
-        "reversed": [
-          "self-doubt",
-          "weakness",
-          "raw emotion"
-        ]
-      },
-      "meaning": {
-        "upright": "Gentle mastery. Quiet courage tames what force cannot.",
-        "reversed": "Doubt or being overwhelmed by impulses. Reconnect with your inner steadiness."
-      },
-      "image": "cards/rws1909/major_08.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/RWS1909_-_08_Strength.jpeg"
-    },
-    {
-      "id": "major_09",
-      "name": "The Hermit",
-      "arcana": "major",
-      "number": 9,
-      "suit": null,
-      "rank": null,
-      "keywords": {
-        "upright": [
-          "solitude",
-          "introspection",
-          "guidance",
-          "search for truth"
-        ],
-        "reversed": [
-          "isolation",
-          "loneliness",
-          "withdrawal"
-        ]
-      },
-      "meaning": {
-        "upright": "Step back from the noise. The lantern you carry lights the way inward.",
-        "reversed": "Retreat has become isolation. Time to return to others."
-      },
-      "image": "cards/rws1909/major_09.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/RWS1909_-_09_Hermit.jpeg"
-    },
-    {
-      "id": "major_10",
-      "name": "Wheel of Fortune",
-      "arcana": "major",
-      "number": 10,
-      "suit": null,
-      "rank": null,
-      "keywords": {
-        "upright": [
-          "cycles",
-          "fate",
-          "turning points",
-          "luck"
-        ],
-        "reversed": [
-          "bad luck",
-          "resistance to change",
-          "stagnation"
-        ]
-      },
-      "meaning": {
-        "upright": "The wheel turns. A shift in fortune arrives; ride the cycle rather than fight it.",
-        "reversed": "A downturn or clinging to what's passing. What goes down comes back up."
-      },
-      "image": "cards/rws1909/major_10.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/RWS1909_-_10_Wheel_of_Fortune.jpeg"
-    },
-    {
-      "id": "major_11",
-      "name": "Justice",
-      "arcana": "major",
-      "number": 11,
-      "suit": null,
-      "rank": null,
+      "rank": "VIII",
       "keywords": {
         "upright": [
           "fairness",
@@ -357,16 +290,101 @@
         "upright": "Clear judgment and consequences earned. Act with integrity; the scales balance.",
         "reversed": "Injustice, bias, or dodging responsibility. Something needs to be made right."
       },
-      "image": "cards/rws1909/major_11.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/RWS1909_-_11_Justice.jpeg"
+      "image": "cards/piemontese/major_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "major_09",
+      "name": "L'Eremita",
+      "name_en": "The Hermit",
+      "arcana": "trump",
+      "number": 9,
+      "suit": null,
+      "rank": "IX",
+      "keywords": {
+        "upright": [
+          "solitude",
+          "introspection",
+          "guidance",
+          "search for truth"
+        ],
+        "reversed": [
+          "isolation",
+          "loneliness",
+          "withdrawal"
+        ]
+      },
+      "meaning": {
+        "upright": "Step back from the noise. The lantern you carry lights the way inward.",
+        "reversed": "Retreat has become isolation. Time to return to others."
+      },
+      "image": "cards/piemontese/major_09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "major_10",
+      "name": "La Ruota della Fortuna",
+      "name_en": "Wheel of Fortune",
+      "arcana": "trump",
+      "number": 10,
+      "suit": null,
+      "rank": "X",
+      "keywords": {
+        "upright": [
+          "cycles",
+          "fate",
+          "turning points",
+          "luck"
+        ],
+        "reversed": [
+          "bad luck",
+          "resistance to change",
+          "stagnation"
+        ]
+      },
+      "meaning": {
+        "upright": "The wheel turns. A shift in fortune arrives; ride the cycle rather than fight it.",
+        "reversed": "A downturn or clinging to what's passing. What goes down comes back up."
+      },
+      "image": "cards/piemontese/major_10.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "major_11",
+      "name": "La Forza",
+      "name_en": "Strength",
+      "arcana": "trump",
+      "number": 11,
+      "suit": null,
+      "rank": "XI",
+      "keywords": {
+        "upright": [
+          "courage",
+          "compassion",
+          "patience",
+          "inner strength"
+        ],
+        "reversed": [
+          "self-doubt",
+          "weakness",
+          "raw emotion"
+        ]
+      },
+      "meaning": {
+        "upright": "Gentle mastery. Quiet courage tames what force cannot.",
+        "reversed": "Doubt or being overwhelmed by impulses. Reconnect with your inner steadiness."
+      },
+      "image": "cards/piemontese/major_11.jpg",
+      "source_url": ""
     },
     {
       "id": "major_12",
-      "name": "The Hanged Man",
-      "arcana": "major",
+      "name": "L'Appeso",
+      "name_en": "The Hanged Man",
+      "arcana": "trump",
       "number": 12,
       "suit": null,
-      "rank": null,
+      "rank": "XII",
       "keywords": {
         "upright": [
           "surrender",
@@ -384,16 +402,17 @@
         "upright": "Suspend action. Seeing the world upside down reveals what you missed.",
         "reversed": "Delay without purpose, or refusing to let go."
       },
-      "image": "cards/rws1909/major_12.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/RWS1909_-_12_Hanged_Man.jpeg"
+      "image": "cards/piemontese/major_12.jpg",
+      "source_url": ""
     },
     {
       "id": "major_13",
-      "name": "Death",
-      "arcana": "major",
+      "name": "La Morte",
+      "name_en": "Death",
+      "arcana": "trump",
       "number": 13,
       "suit": null,
-      "rank": null,
+      "rank": "XIII",
       "keywords": {
         "upright": [
           "endings",
@@ -411,16 +430,17 @@
         "upright": "Something ends so something new can begin. Clear the ground.",
         "reversed": "Holding onto what's already over. Change is delayed but not avoided."
       },
-      "image": "cards/rws1909/major_13.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/RWS1909_-_13_Death.jpeg"
+      "image": "cards/piemontese/major_13.jpg",
+      "source_url": ""
     },
     {
       "id": "major_14",
-      "name": "Temperance",
-      "arcana": "major",
+      "name": "La Temperanza",
+      "name_en": "Temperance",
+      "arcana": "trump",
       "number": 14,
       "suit": null,
-      "rank": null,
+      "rank": "XIV",
       "keywords": {
         "upright": [
           "balance",
@@ -438,16 +458,17 @@
         "upright": "Blend opposites slowly. Patience and measure produce something new.",
         "reversed": "Too much of something. Restore balance before continuing."
       },
-      "image": "cards/rws1909/major_14.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/RWS1909_-_14_Temperance.jpeg"
+      "image": "cards/piemontese/major_14.jpg",
+      "source_url": ""
     },
     {
       "id": "major_15",
-      "name": "The Devil",
-      "arcana": "major",
+      "name": "Il Diavolo",
+      "name_en": "The Devil",
+      "arcana": "trump",
       "number": 15,
       "suit": null,
-      "rank": null,
+      "rank": "XV",
       "keywords": {
         "upright": [
           "bondage",
@@ -465,16 +486,17 @@
         "upright": "Chains of habit, desire or fear. Notice they're loose enough to remove.",
         "reversed": "Breaking free from what bound you. Facing the shadow."
       },
-      "image": "cards/rws1909/major_15.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/RWS1909_-_15_Devil.jpeg"
+      "image": "cards/piemontese/major_15.jpg",
+      "source_url": ""
     },
     {
       "id": "major_16",
-      "name": "The Tower",
-      "arcana": "major",
+      "name": "La Torre",
+      "name_en": "The Tower",
+      "arcana": "trump",
       "number": 16,
       "suit": null,
-      "rank": null,
+      "rank": "XVI",
       "keywords": {
         "upright": [
           "upheaval",
@@ -492,16 +514,17 @@
         "upright": "What was built on false ground falls. Painful, but it clears the way for truth.",
         "reversed": "Avoiding a necessary collapse, or an upheaval felt internally."
       },
-      "image": "cards/rws1909/major_16.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/RWS1909_-_16_Tower.jpeg"
+      "image": "cards/piemontese/major_16.jpg",
+      "source_url": ""
     },
     {
       "id": "major_17",
-      "name": "The Star",
-      "arcana": "major",
+      "name": "Le Stelle",
+      "name_en": "The Star",
+      "arcana": "trump",
       "number": 17,
       "suit": null,
-      "rank": null,
+      "rank": "XVII",
       "keywords": {
         "upright": [
           "hope",
@@ -519,16 +542,17 @@
         "upright": "After the storm, calm and hope. Healing and guidance are here.",
         "reversed": "Hope feels distant. Reconnect with what inspires you."
       },
-      "image": "cards/rws1909/major_17.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/RWS1909_-_17_Star.jpeg"
+      "image": "cards/piemontese/major_17.jpg",
+      "source_url": ""
     },
     {
       "id": "major_18",
-      "name": "The Moon",
-      "arcana": "major",
+      "name": "La Luna",
+      "name_en": "The Moon",
+      "arcana": "trump",
       "number": 18,
       "suit": null,
-      "rank": null,
+      "rank": "XVIII",
       "keywords": {
         "upright": [
           "illusion",
@@ -546,16 +570,17 @@
         "upright": "Things are not what they seem. Move carefully and trust instinct over appearances.",
         "reversed": "Illusions dissolve and fears lose their grip."
       },
-      "image": "cards/rws1909/major_18.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/RWS1909_-_18_Moon.jpeg"
+      "image": "cards/piemontese/major_18.jpg",
+      "source_url": ""
     },
     {
       "id": "major_19",
-      "name": "The Sun",
-      "arcana": "major",
+      "name": "Il Sole",
+      "name_en": "The Sun",
+      "arcana": "trump",
       "number": 19,
       "suit": null,
-      "rank": null,
+      "rank": "XIX",
       "keywords": {
         "upright": [
           "joy",
@@ -573,16 +598,17 @@
         "upright": "Warmth, success and simple happiness. Everything is illuminated.",
         "reversed": "Joy is present but muted. The sun is behind a cloud, not gone."
       },
-      "image": "cards/rws1909/major_19.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/RWS1909_-_19_Sun.jpeg"
+      "image": "cards/piemontese/major_19.jpg",
+      "source_url": ""
     },
     {
       "id": "major_20",
-      "name": "Judgement",
-      "arcana": "major",
+      "name": "Il Giudizio",
+      "name_en": "Judgement",
+      "arcana": "trump",
       "number": 20,
       "suit": null,
-      "rank": null,
+      "rank": "XX",
       "keywords": {
         "upright": [
           "awakening",
@@ -600,16 +626,17 @@
         "upright": "A call to rise. Reckon with the past and answer who you're meant to be.",
         "reversed": "Refusing the call or judging yourself too harshly."
       },
-      "image": "cards/rws1909/major_20.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/RWS1909_-_20_Judgement.jpeg"
+      "image": "cards/piemontese/major_20.jpg",
+      "source_url": ""
     },
     {
       "id": "major_21",
-      "name": "The World",
-      "arcana": "major",
+      "name": "Il Mondo",
+      "name_en": "The World",
+      "arcana": "trump",
       "number": 21,
       "suit": null,
-      "rank": null,
+      "rank": "XXI",
       "keywords": {
         "upright": [
           "completion",
@@ -627,16 +654,17 @@
         "upright": "A cycle completes. Celebrate integration and the arrival of a goal.",
         "reversed": "Almost there. Tie up loose ends before moving on."
       },
-      "image": "cards/rws1909/major_21.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/RWS1909_-_21_World.jpeg"
+      "image": "cards/piemontese/major_21.jpg",
+      "source_url": ""
     },
     {
-      "id": "wands_01",
-      "name": "Ace of Wands",
+      "id": "bastoni_01",
+      "name": "Asso di Bastoni",
+      "name_en": "Ace of Wands",
       "arcana": "minor",
       "number": 1,
-      "suit": "wands",
-      "rank": "Ace",
+      "suit": "bastoni",
+      "rank": "Asso",
       "keywords": {
         "upright": [
           "inspiration",
@@ -652,16 +680,17 @@
         "upright": "A creative spark or new passion is offered. Grab it.",
         "reversed": "The spark is there but won't catch. Energy blocked or misdirected."
       },
-      "image": "cards/rws1909/wands_01.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/RWS1909_-_Wands_01.jpeg"
+      "image": "cards/piemontese/bastoni_01.jpg",
+      "source_url": ""
     },
     {
-      "id": "wands_02",
-      "name": "Two of Wands",
+      "id": "bastoni_02",
+      "name": "Due di Bastoni",
+      "name_en": "Two of Wands",
       "arcana": "minor",
       "number": 2,
-      "suit": "wands",
-      "rank": "Two",
+      "suit": "bastoni",
+      "rank": "Due",
       "keywords": {
         "upright": [
           "planning",
@@ -677,16 +706,17 @@
         "upright": "The world in your hand. Plan your next move beyond familiar ground.",
         "reversed": "Playing it safe or hesitating to leave comfort."
       },
-      "image": "cards/rws1909/wands_02.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/RWS1909_-_Wands_02.jpeg"
+      "image": "cards/piemontese/bastoni_02.jpg",
+      "source_url": ""
     },
     {
-      "id": "wands_03",
-      "name": "Three of Wands",
+      "id": "bastoni_03",
+      "name": "Tre di Bastoni",
+      "name_en": "Three of Wands",
       "arcana": "minor",
       "number": 3,
-      "suit": "wands",
-      "rank": "Three",
+      "suit": "bastoni",
+      "rank": "Tre",
       "keywords": {
         "upright": [
           "expansion",
@@ -703,16 +733,17 @@
         "upright": "Your efforts are underway and horizons widen. Look ahead.",
         "reversed": "Plans stall. Expect delays and reassess."
       },
-      "image": "cards/rws1909/wands_03.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/RWS1909_-_Wands_03.jpeg"
+      "image": "cards/piemontese/bastoni_03.jpg",
+      "source_url": ""
     },
     {
-      "id": "wands_04",
-      "name": "Four of Wands",
+      "id": "bastoni_04",
+      "name": "Quattro di Bastoni",
+      "name_en": "Four of Wands",
       "arcana": "minor",
       "number": 4,
-      "suit": "wands",
-      "rank": "Four",
+      "suit": "bastoni",
+      "rank": "Quattro",
       "keywords": {
         "upright": [
           "celebration",
@@ -729,16 +760,17 @@
         "upright": "A joyful milestone. Celebrate with community and home.",
         "reversed": "Harmony disrupted or a celebration postponed."
       },
-      "image": "cards/rws1909/wands_04.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/RWS1909_-_Wands_04.jpeg"
+      "image": "cards/piemontese/bastoni_04.jpg",
+      "source_url": ""
     },
     {
-      "id": "wands_05",
-      "name": "Five of Wands",
+      "id": "bastoni_05",
+      "name": "Cinque di Bastoni",
+      "name_en": "Five of Wands",
       "arcana": "minor",
       "number": 5,
-      "suit": "wands",
-      "rank": "Five",
+      "suit": "bastoni",
+      "rank": "Cinque",
       "keywords": {
         "upright": [
           "competition",
@@ -754,16 +786,17 @@
         "upright": "Clashing egos and scrappy competition. Test your mettle.",
         "reversed": "Conflict winds down, or tension is suppressed."
       },
-      "image": "cards/rws1909/wands_05.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/RWS1909_-_Wands_05.jpeg"
+      "image": "cards/piemontese/bastoni_05.jpg",
+      "source_url": ""
     },
     {
-      "id": "wands_06",
-      "name": "Six of Wands",
+      "id": "bastoni_06",
+      "name": "Sei di Bastoni",
+      "name_en": "Six of Wands",
       "arcana": "minor",
       "number": 6,
-      "suit": "wands",
-      "rank": "Six",
+      "suit": "bastoni",
+      "rank": "Sei",
       "keywords": {
         "upright": [
           "victory",
@@ -780,16 +813,17 @@
         "upright": "Public victory and recognition. Ride proudly.",
         "reversed": "Success feels hollow, or recognition is withheld."
       },
-      "image": "cards/rws1909/wands_06.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/RWS1909_-_Wands_06.jpeg"
+      "image": "cards/piemontese/bastoni_06.jpg",
+      "source_url": ""
     },
     {
-      "id": "wands_07",
-      "name": "Seven of Wands",
+      "id": "bastoni_07",
+      "name": "Sette di Bastoni",
+      "name_en": "Seven of Wands",
       "arcana": "minor",
       "number": 7,
-      "suit": "wands",
-      "rank": "Seven",
+      "suit": "bastoni",
+      "rank": "Sette",
       "keywords": {
         "upright": [
           "defence",
@@ -805,16 +839,17 @@
         "upright": "Hold your position against challengers. You have the high ground.",
         "reversed": "Worn down by opposition. Choose your battles."
       },
-      "image": "cards/rws1909/wands_07.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/RWS1909_-_Wands_07.jpeg"
+      "image": "cards/piemontese/bastoni_07.jpg",
+      "source_url": ""
     },
     {
-      "id": "wands_08",
-      "name": "Eight of Wands",
+      "id": "bastoni_08",
+      "name": "Otto di Bastoni",
+      "name_en": "Eight of Wands",
       "arcana": "minor",
       "number": 8,
-      "suit": "wands",
-      "rank": "Eight",
+      "suit": "bastoni",
+      "rank": "Otto",
       "keywords": {
         "upright": [
           "speed",
@@ -831,16 +866,17 @@
         "upright": "Things move fast. Messages, travel and momentum.",
         "reversed": "Momentum stalls or rushes out of control."
       },
-      "image": "cards/rws1909/wands_08.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/RWS1909_-_Wands_08.jpeg"
+      "image": "cards/piemontese/bastoni_08.jpg",
+      "source_url": ""
     },
     {
-      "id": "wands_09",
-      "name": "Nine of Wands",
+      "id": "bastoni_09",
+      "name": "Nove di Bastoni",
+      "name_en": "Nine of Wands",
       "arcana": "minor",
       "number": 9,
-      "suit": "wands",
-      "rank": "Nine",
+      "suit": "bastoni",
+      "rank": "Nove",
       "keywords": {
         "upright": [
           "resilience",
@@ -856,16 +892,17 @@
         "upright": "Battered but standing. One more push.",
         "reversed": "Defensiveness has become exhaustion. Rest."
       },
-      "image": "cards/rws1909/wands_09.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/RWS1909_-_Wands_09.jpeg"
+      "image": "cards/piemontese/bastoni_09.jpg",
+      "source_url": ""
     },
     {
-      "id": "wands_10",
-      "name": "Ten of Wands",
+      "id": "bastoni_10",
+      "name": "Dieci di Bastoni",
+      "name_en": "Ten of Wands",
       "arcana": "minor",
       "number": 10,
-      "suit": "wands",
-      "rank": "Ten",
+      "suit": "bastoni",
+      "rank": "Dieci",
       "keywords": {
         "upright": [
           "burden",
@@ -881,16 +918,17 @@
         "upright": "Carrying too much. The goal is near but the load is heavy.",
         "reversed": "Putting down what isn't yours to carry."
       },
-      "image": "cards/rws1909/wands_10.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/RWS1909_-_Wands_10.jpeg"
+      "image": "cards/piemontese/bastoni_10.jpg",
+      "source_url": ""
     },
     {
-      "id": "wands_11",
-      "name": "Page of Wands",
+      "id": "bastoni_11",
+      "name": "Fante di Bastoni",
+      "name_en": "Page of Wands",
       "arcana": "minor",
       "number": 11,
-      "suit": "wands",
-      "rank": "Page",
+      "suit": "bastoni",
+      "rank": "Fante",
       "keywords": {
         "upright": [
           "curiosity",
@@ -906,16 +944,17 @@
         "upright": "A fresh, adventurous message or idea. Explore it.",
         "reversed": "Enthusiasm without follow-through."
       },
-      "image": "cards/rws1909/wands_11.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/RWS1909_-_Wands_11.jpeg"
+      "image": "cards/piemontese/bastoni_11.jpg",
+      "source_url": ""
     },
     {
-      "id": "wands_12",
-      "name": "Knight of Wands",
+      "id": "bastoni_12",
+      "name": "Cavallo di Bastoni",
+      "name_en": "Knight of Wands",
       "arcana": "minor",
       "number": 12,
-      "suit": "wands",
-      "rank": "Knight",
+      "suit": "bastoni",
+      "rank": "Cavallo",
       "keywords": {
         "upright": [
           "energy",
@@ -932,16 +971,17 @@
         "upright": "Charging ahead with passion. Bold action.",
         "reversed": "Recklessness or restlessness burning out."
       },
-      "image": "cards/rws1909/wands_12.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/RWS1909_-_Wands_12.jpeg"
+      "image": "cards/piemontese/bastoni_12.jpg",
+      "source_url": ""
     },
     {
-      "id": "wands_13",
-      "name": "Queen of Wands",
+      "id": "bastoni_13",
+      "name": "Regina di Bastoni",
+      "name_en": "Queen of Wands",
       "arcana": "minor",
       "number": 13,
-      "suit": "wands",
-      "rank": "Queen",
+      "suit": "bastoni",
+      "rank": "Regina",
       "keywords": {
         "upright": [
           "confidence",
@@ -958,16 +998,17 @@
         "upright": "Magnetic, vibrant and self-assured. Lead with warmth.",
         "reversed": "Confidence turned to insecurity or possessiveness."
       },
-      "image": "cards/rws1909/wands_13.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/RWS1909_-_Wands_13.jpeg"
+      "image": "cards/piemontese/bastoni_13.jpg",
+      "source_url": ""
     },
     {
-      "id": "wands_14",
-      "name": "King of Wands",
+      "id": "bastoni_14",
+      "name": "Re di Bastoni",
+      "name_en": "King of Wands",
       "arcana": "minor",
       "number": 14,
-      "suit": "wands",
-      "rank": "King",
+      "suit": "bastoni",
+      "rank": "Re",
       "keywords": {
         "upright": [
           "vision",
@@ -984,16 +1025,17 @@
         "upright": "Bold vision and natural leadership. Make it happen.",
         "reversed": "Leadership becomes domineering or rash."
       },
-      "image": "cards/rws1909/wands_14.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/RWS1909_-_Wands_14.jpeg"
+      "image": "cards/piemontese/bastoni_14.jpg",
+      "source_url": ""
     },
     {
-      "id": "cups_01",
-      "name": "Ace of Cups",
+      "id": "coppe_01",
+      "name": "Asso di Coppe",
+      "name_en": "Ace of Cups",
       "arcana": "minor",
       "number": 1,
-      "suit": "cups",
-      "rank": "Ace",
+      "suit": "coppe",
+      "rank": "Asso",
       "keywords": {
         "upright": [
           "new love",
@@ -1009,16 +1051,17 @@
         "upright": "The heart overflows. New love, feeling or creativity begins.",
         "reversed": "Emotions held back or a love left unexpressed."
       },
-      "image": "cards/rws1909/cups_01.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/RWS1909_-_Cups_01.jpeg"
+      "image": "cards/piemontese/coppe_01.jpg",
+      "source_url": ""
     },
     {
-      "id": "cups_02",
-      "name": "Two of Cups",
+      "id": "coppe_02",
+      "name": "Due di Coppe",
+      "name_en": "Two of Cups",
       "arcana": "minor",
       "number": 2,
-      "suit": "cups",
-      "rank": "Two",
+      "suit": "coppe",
+      "rank": "Due",
       "keywords": {
         "upright": [
           "partnership",
@@ -1034,16 +1077,17 @@
         "upright": "A meeting of equals. Connection and mutual respect.",
         "reversed": "Disharmony or a partnership out of balance."
       },
-      "image": "cards/rws1909/cups_02.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/RWS1909_-_Cups_02.jpeg"
+      "image": "cards/piemontese/coppe_02.jpg",
+      "source_url": ""
     },
     {
-      "id": "cups_03",
-      "name": "Three of Cups",
+      "id": "coppe_03",
+      "name": "Tre di Coppe",
+      "name_en": "Three of Cups",
       "arcana": "minor",
       "number": 3,
-      "suit": "cups",
-      "rank": "Three",
+      "suit": "coppe",
+      "rank": "Tre",
       "keywords": {
         "upright": [
           "friendship",
@@ -1060,16 +1104,17 @@
         "upright": "Raise a glass with friends. Joy shared.",
         "reversed": "Too much of a good thing, or feeling left out."
       },
-      "image": "cards/rws1909/cups_03.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/RWS1909_-_Cups_03.jpeg"
+      "image": "cards/piemontese/coppe_03.jpg",
+      "source_url": ""
     },
     {
-      "id": "cups_04",
-      "name": "Four of Cups",
+      "id": "coppe_04",
+      "name": "Quattro di Coppe",
+      "name_en": "Four of Cups",
       "arcana": "minor",
       "number": 4,
-      "suit": "cups",
-      "rank": "Four",
+      "suit": "coppe",
+      "rank": "Quattro",
       "keywords": {
         "upright": [
           "apathy",
@@ -1085,16 +1130,17 @@
         "upright": "Bored with what's offered, missing the cup being handed to you.",
         "reversed": "Waking from apathy. Seizing an opportunity."
       },
-      "image": "cards/rws1909/cups_04.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/RWS1909_-_Cups_04.jpeg"
+      "image": "cards/piemontese/coppe_04.jpg",
+      "source_url": ""
     },
     {
-      "id": "cups_05",
-      "name": "Five of Cups",
+      "id": "coppe_05",
+      "name": "Cinque di Coppe",
+      "name_en": "Five of Cups",
       "arcana": "minor",
       "number": 5,
-      "suit": "cups",
-      "rank": "Five",
+      "suit": "coppe",
+      "rank": "Cinque",
       "keywords": {
         "upright": [
           "loss",
@@ -1111,16 +1157,17 @@
         "upright": "Mourning what spilled. Two cups still stand behind you.",
         "reversed": "Turning toward what remains. Healing begins."
       },
-      "image": "cards/rws1909/cups_05.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/RWS1909_-_Cups_05.jpeg"
+      "image": "cards/piemontese/coppe_05.jpg",
+      "source_url": ""
     },
     {
-      "id": "cups_06",
-      "name": "Six of Cups",
+      "id": "coppe_06",
+      "name": "Sei di Coppe",
+      "name_en": "Six of Cups",
       "arcana": "minor",
       "number": 6,
-      "suit": "cups",
-      "rank": "Six",
+      "suit": "coppe",
+      "rank": "Sei",
       "keywords": {
         "upright": [
           "nostalgia",
@@ -1136,16 +1183,17 @@
         "upright": "A sweet memory or a gift from the past. Innocence.",
         "reversed": "Living in the past instead of the present."
       },
-      "image": "cards/rws1909/cups_06.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/RWS1909_-_Cups_06.jpeg"
+      "image": "cards/piemontese/coppe_06.jpg",
+      "source_url": ""
     },
     {
-      "id": "cups_07",
-      "name": "Seven of Cups",
+      "id": "coppe_07",
+      "name": "Sette di Coppe",
+      "name_en": "Seven of Cups",
       "arcana": "minor",
       "number": 7,
-      "suit": "cups",
-      "rank": "Seven",
+      "suit": "coppe",
+      "rank": "Sette",
       "keywords": {
         "upright": [
           "choices",
@@ -1162,16 +1210,17 @@
         "upright": "Many dazzling options, not all real. Discern.",
         "reversed": "Fantasies fade and a real choice emerges."
       },
-      "image": "cards/rws1909/cups_07.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/RWS1909_-_Cups_07.jpeg"
+      "image": "cards/piemontese/coppe_07.jpg",
+      "source_url": ""
     },
     {
-      "id": "cups_08",
-      "name": "Eight of Cups",
+      "id": "coppe_08",
+      "name": "Otto di Coppe",
+      "name_en": "Eight of Cups",
       "arcana": "minor",
       "number": 8,
-      "suit": "cups",
-      "rank": "Eight",
+      "suit": "coppe",
+      "rank": "Otto",
       "keywords": {
         "upright": [
           "walking away",
@@ -1187,16 +1236,17 @@
         "upright": "Leaving behind what no longer fulfils, to seek something deeper.",
         "reversed": "Afraid to leave, or leaving without purpose."
       },
-      "image": "cards/rws1909/cups_08.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/RWS1909_-_Cups_08.jpeg"
+      "image": "cards/piemontese/coppe_08.jpg",
+      "source_url": ""
     },
     {
-      "id": "cups_09",
-      "name": "Nine of Cups",
+      "id": "coppe_09",
+      "name": "Nove di Coppe",
+      "name_en": "Nine of Cups",
       "arcana": "minor",
       "number": 9,
-      "suit": "cups",
-      "rank": "Nine",
+      "suit": "coppe",
+      "rank": "Nove",
       "keywords": {
         "upright": [
           "contentment",
@@ -1212,16 +1262,17 @@
         "upright": "The wish card. Satisfaction and pleasure.",
         "reversed": "Material satisfaction that doesn't reach the heart."
       },
-      "image": "cards/rws1909/cups_09.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/RWS1909_-_Cups_09.jpeg"
+      "image": "cards/piemontese/coppe_09.jpg",
+      "source_url": ""
     },
     {
-      "id": "cups_10",
-      "name": "Ten of Cups",
+      "id": "coppe_10",
+      "name": "Dieci di Coppe",
+      "name_en": "Ten of Cups",
       "arcana": "minor",
       "number": 10,
-      "suit": "cups",
-      "rank": "Ten",
+      "suit": "coppe",
+      "rank": "Dieci",
       "keywords": {
         "upright": [
           "harmony",
@@ -1237,16 +1288,17 @@
         "upright": "Lasting happiness and harmony at home.",
         "reversed": "Discord in the family or unmet ideals."
       },
-      "image": "cards/rws1909/cups_10.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/RWS1909_-_Cups_10.jpeg"
+      "image": "cards/piemontese/coppe_10.jpg",
+      "source_url": ""
     },
     {
-      "id": "cups_11",
-      "name": "Page of Cups",
+      "id": "coppe_11",
+      "name": "Fante di Coppe",
+      "name_en": "Page of Cups",
       "arcana": "minor",
       "number": 11,
-      "suit": "cups",
-      "rank": "Page",
+      "suit": "coppe",
+      "rank": "Fante",
       "keywords": {
         "upright": [
           "creative message",
@@ -1262,16 +1314,17 @@
         "upright": "A surprising message of feeling or a creative idea.",
         "reversed": "Moodiness or ignoring your creative voice."
       },
-      "image": "cards/rws1909/cups_11.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/RWS1909_-_Cups_11.jpeg"
+      "image": "cards/piemontese/coppe_11.jpg",
+      "source_url": ""
     },
     {
-      "id": "cups_12",
-      "name": "Knight of Cups",
+      "id": "coppe_12",
+      "name": "Cavallo di Coppe",
+      "name_en": "Knight of Cups",
       "arcana": "minor",
       "number": 12,
-      "suit": "cups",
-      "rank": "Knight",
+      "suit": "coppe",
+      "rank": "Cavallo",
       "keywords": {
         "upright": [
           "romance",
@@ -1287,16 +1340,17 @@
         "upright": "An offer of love or beauty arrives. The romantic.",
         "reversed": "Charm without substance. Promises unkept."
       },
-      "image": "cards/rws1909/cups_12.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/RWS1909_-_Cups_12.jpeg"
+      "image": "cards/piemontese/coppe_12.jpg",
+      "source_url": ""
     },
     {
-      "id": "cups_13",
-      "name": "Queen of Cups",
+      "id": "coppe_13",
+      "name": "Regina di Coppe",
+      "name_en": "Queen of Cups",
       "arcana": "minor",
       "number": 13,
-      "suit": "cups",
-      "rank": "Queen",
+      "suit": "coppe",
+      "rank": "Regina",
       "keywords": {
         "upright": [
           "compassion",
@@ -1312,16 +1366,17 @@
         "upright": "Deep empathy and emotional wisdom. Care for others and self.",
         "reversed": "Drowning in others' feelings. Set boundaries."
       },
-      "image": "cards/rws1909/cups_13.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/RWS1909_-_Cups_13.jpeg"
+      "image": "cards/piemontese/coppe_13.jpg",
+      "source_url": ""
     },
     {
-      "id": "cups_14",
-      "name": "King of Cups",
+      "id": "coppe_14",
+      "name": "Re di Coppe",
+      "name_en": "King of Cups",
       "arcana": "minor",
       "number": 14,
-      "suit": "cups",
-      "rank": "King",
+      "suit": "coppe",
+      "rank": "Re",
       "keywords": {
         "upright": [
           "emotional balance",
@@ -1338,16 +1393,17 @@
         "upright": "Calm mastery of feeling. Steady in rough seas.",
         "reversed": "Suppressed emotion or emotional manipulation."
       },
-      "image": "cards/rws1909/cups_14.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/RWS1909_-_Cups_14.jpeg"
+      "image": "cards/piemontese/coppe_14.jpg",
+      "source_url": ""
     },
     {
-      "id": "swords_01",
-      "name": "Ace of Swords",
+      "id": "spade_01",
+      "name": "Asso di Spade",
+      "name_en": "Ace of Swords",
       "arcana": "minor",
       "number": 1,
-      "suit": "swords",
-      "rank": "Ace",
+      "suit": "spade",
+      "rank": "Asso",
       "keywords": {
         "upright": [
           "clarity",
@@ -1363,16 +1419,17 @@
         "upright": "A sharp new idea cuts through the fog. Speak truth.",
         "reversed": "Clouded thinking or harsh words."
       },
-      "image": "cards/rws1909/swords_01.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/RWS1909_-_Swords_01.jpeg"
+      "image": "cards/piemontese/spade_01.jpg",
+      "source_url": ""
     },
     {
-      "id": "swords_02",
-      "name": "Two of Swords",
+      "id": "spade_02",
+      "name": "Due di Spade",
+      "name_en": "Two of Swords",
       "arcana": "minor",
       "number": 2,
-      "suit": "swords",
-      "rank": "Two",
+      "suit": "spade",
+      "rank": "Due",
       "keywords": {
         "upright": [
           "stalemate",
@@ -1388,16 +1445,17 @@
         "upright": "Blindfolded between two options. Avoiding the choice.",
         "reversed": "The blindfold comes off. Time to decide."
       },
-      "image": "cards/rws1909/swords_02.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/RWS1909_-_Swords_02.jpeg"
+      "image": "cards/piemontese/spade_02.jpg",
+      "source_url": ""
     },
     {
-      "id": "swords_03",
-      "name": "Three of Swords",
+      "id": "spade_03",
+      "name": "Tre di Spade",
+      "name_en": "Three of Swords",
       "arcana": "minor",
       "number": 3,
-      "suit": "swords",
-      "rank": "Three",
+      "suit": "spade",
+      "rank": "Tre",
       "keywords": {
         "upright": [
           "heartbreak",
@@ -1413,16 +1471,17 @@
         "upright": "Painful truth pierces the heart.",
         "reversed": "The wound begins to heal. Letting go of sorrow."
       },
-      "image": "cards/rws1909/swords_03.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/RWS1909_-_Swords_03.jpeg"
+      "image": "cards/piemontese/spade_03.jpg",
+      "source_url": ""
     },
     {
-      "id": "swords_04",
-      "name": "Four of Swords",
+      "id": "spade_04",
+      "name": "Quattro di Spade",
+      "name_en": "Four of Swords",
       "arcana": "minor",
       "number": 4,
-      "suit": "swords",
-      "rank": "Four",
+      "suit": "spade",
+      "rank": "Quattro",
       "keywords": {
         "upright": [
           "rest",
@@ -1438,16 +1497,17 @@
         "upright": "Lay down your sword. Rest and restore.",
         "reversed": "Refusing rest until burnout forces it."
       },
-      "image": "cards/rws1909/swords_04.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/RWS1909_-_Swords_04.jpeg"
+      "image": "cards/piemontese/spade_04.jpg",
+      "source_url": ""
     },
     {
-      "id": "swords_05",
-      "name": "Five of Swords",
+      "id": "spade_05",
+      "name": "Cinque di Spade",
+      "name_en": "Five of Swords",
       "arcana": "minor",
       "number": 5,
-      "suit": "swords",
-      "rank": "Five",
+      "suit": "spade",
+      "rank": "Cinque",
       "keywords": {
         "upright": [
           "conflict",
@@ -1463,16 +1523,17 @@
         "upright": "Winning at a cost. Was the fight worth it?",
         "reversed": "Ending the conflict. Moving past resentment."
       },
-      "image": "cards/rws1909/swords_05.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/RWS1909_-_Swords_05.jpeg"
+      "image": "cards/piemontese/spade_05.jpg",
+      "source_url": ""
     },
     {
-      "id": "swords_06",
-      "name": "Six of Swords",
+      "id": "spade_06",
+      "name": "Sei di Spade",
+      "name_en": "Six of Swords",
       "arcana": "minor",
       "number": 6,
-      "suit": "swords",
-      "rank": "Six",
+      "suit": "spade",
+      "rank": "Sei",
       "keywords": {
         "upright": [
           "transition",
@@ -1488,16 +1549,17 @@
         "upright": "Leaving troubled waters for calmer shores.",
         "reversed": "Carrying baggage along, or unable to leave."
       },
-      "image": "cards/rws1909/swords_06.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/RWS1909_-_Swords_06.jpeg"
+      "image": "cards/piemontese/spade_06.jpg",
+      "source_url": ""
     },
     {
-      "id": "swords_07",
-      "name": "Seven of Swords",
+      "id": "spade_07",
+      "name": "Sette di Spade",
+      "name_en": "Seven of Swords",
       "arcana": "minor",
       "number": 7,
-      "suit": "swords",
-      "rank": "Seven",
+      "suit": "spade",
+      "rank": "Sette",
       "keywords": {
         "upright": [
           "deception",
@@ -1514,16 +1576,17 @@
         "upright": "Someone is getting away with something. Be strategic, or be wary.",
         "reversed": "Secrets come out. Coming clean."
       },
-      "image": "cards/rws1909/swords_07.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/RWS1909_-_Swords_07.jpeg"
+      "image": "cards/piemontese/spade_07.jpg",
+      "source_url": ""
     },
     {
-      "id": "swords_08",
-      "name": "Eight of Swords",
+      "id": "spade_08",
+      "name": "Otto di Spade",
+      "name_en": "Eight of Swords",
       "arcana": "minor",
       "number": 8,
-      "suit": "swords",
-      "rank": "Eight",
+      "suit": "spade",
+      "rank": "Otto",
       "keywords": {
         "upright": [
           "restriction",
@@ -1539,16 +1602,17 @@
         "upright": "Bound by your own thoughts. The ties are looser than they seem.",
         "reversed": "Stepping free of self-imposed limits."
       },
-      "image": "cards/rws1909/swords_08.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/RWS1909_-_Swords_08.jpeg"
+      "image": "cards/piemontese/spade_08.jpg",
+      "source_url": ""
     },
     {
-      "id": "swords_09",
-      "name": "Nine of Swords",
+      "id": "spade_09",
+      "name": "Nove di Spade",
+      "name_en": "Nine of Swords",
       "arcana": "minor",
       "number": 9,
-      "suit": "swords",
-      "rank": "Nine",
+      "suit": "spade",
+      "rank": "Nove",
       "keywords": {
         "upright": [
           "anxiety",
@@ -1565,16 +1629,17 @@
         "upright": "Sleepless fear. The mind magnifies the danger.",
         "reversed": "The worst of the worry passes. Share it."
       },
-      "image": "cards/rws1909/swords_09.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/RWS1909_-_Swords_09.jpeg"
+      "image": "cards/piemontese/spade_09.jpg",
+      "source_url": ""
     },
     {
-      "id": "swords_10",
-      "name": "Ten of Swords",
+      "id": "spade_10",
+      "name": "Dieci di Spade",
+      "name_en": "Ten of Swords",
       "arcana": "minor",
       "number": 10,
-      "suit": "swords",
-      "rank": "Ten",
+      "suit": "spade",
+      "rank": "Dieci",
       "keywords": {
         "upright": [
           "rock bottom",
@@ -1590,16 +1655,17 @@
         "upright": "It can't get worse. Dawn is on the horizon.",
         "reversed": "Rising from the lowest point."
       },
-      "image": "cards/rws1909/swords_10.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/RWS1909_-_Swords_10.jpeg"
+      "image": "cards/piemontese/spade_10.jpg",
+      "source_url": ""
     },
     {
-      "id": "swords_11",
-      "name": "Page of Swords",
+      "id": "spade_11",
+      "name": "Fante di Spade",
+      "name_en": "Page of Swords",
       "arcana": "minor",
       "number": 11,
-      "suit": "swords",
-      "rank": "Page",
+      "suit": "spade",
+      "rank": "Fante",
       "keywords": {
         "upright": [
           "curiosity",
@@ -1616,16 +1682,17 @@
         "upright": "Alert and eager for truth. Ask questions.",
         "reversed": "Talk without action, or spreading rumours."
       },
-      "image": "cards/rws1909/swords_11.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/RWS1909_-_Swords_11.jpeg"
+      "image": "cards/piemontese/spade_11.jpg",
+      "source_url": ""
     },
     {
-      "id": "swords_12",
-      "name": "Knight of Swords",
+      "id": "spade_12",
+      "name": "Cavallo di Spade",
+      "name_en": "Knight of Swords",
       "arcana": "minor",
       "number": 12,
-      "suit": "swords",
-      "rank": "Knight",
+      "suit": "spade",
+      "rank": "Cavallo",
       "keywords": {
         "upright": [
           "ambition",
@@ -1642,16 +1709,17 @@
         "upright": "Charging headlong into battle for an idea.",
         "reversed": "Impulsive or combative in ways that backfire."
       },
-      "image": "cards/rws1909/swords_12.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/RWS1909_-_Swords_12.jpeg"
+      "image": "cards/piemontese/spade_12.jpg",
+      "source_url": ""
     },
     {
-      "id": "swords_13",
-      "name": "Queen of Swords",
+      "id": "spade_13",
+      "name": "Regina di Spade",
+      "name_en": "Queen of Swords",
       "arcana": "minor",
       "number": 13,
-      "suit": "swords",
-      "rank": "Queen",
+      "suit": "spade",
+      "rank": "Regina",
       "keywords": {
         "upright": [
           "clear boundaries",
@@ -1667,16 +1735,17 @@
         "upright": "Sharp perception and honest words, earned through experience.",
         "reversed": "Cruelty in place of clarity."
       },
-      "image": "cards/rws1909/swords_13.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/RWS1909_-_Swords_13.jpeg"
+      "image": "cards/piemontese/spade_13.jpg",
+      "source_url": ""
     },
     {
-      "id": "swords_14",
-      "name": "King of Swords",
+      "id": "spade_14",
+      "name": "Re di Spade",
+      "name_en": "King of Swords",
       "arcana": "minor",
       "number": 14,
-      "suit": "swords",
-      "rank": "King",
+      "suit": "spade",
+      "rank": "Re",
       "keywords": {
         "upright": [
           "intellect",
@@ -1692,16 +1761,17 @@
         "upright": "Clear-headed judgment and principled authority.",
         "reversed": "Cold, manipulative logic."
       },
-      "image": "cards/rws1909/swords_14.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/RWS1909_-_Swords_14.jpeg"
+      "image": "cards/piemontese/spade_14.jpg",
+      "source_url": ""
     },
     {
-      "id": "pentacles_01",
-      "name": "Ace of Pentacles",
+      "id": "denari_01",
+      "name": "Asso di Denari",
+      "name_en": "Ace of Pentacles",
       "arcana": "minor",
       "number": 1,
-      "suit": "pentacles",
-      "rank": "Ace",
+      "suit": "denari",
+      "rank": "Asso",
       "keywords": {
         "upright": [
           "opportunity",
@@ -1717,16 +1787,17 @@
         "upright": "A tangible opportunity for wealth or health is offered.",
         "reversed": "An opportunity slips through your fingers."
       },
-      "image": "cards/rws1909/pentacles_01.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/RWS1909_-_Pentacles_01.jpeg"
+      "image": "cards/piemontese/denari_01.jpg",
+      "source_url": ""
     },
     {
-      "id": "pentacles_02",
-      "name": "Two of Pentacles",
+      "id": "denari_02",
+      "name": "Due di Denari",
+      "name_en": "Two of Pentacles",
       "arcana": "minor",
       "number": 2,
-      "suit": "pentacles",
-      "rank": "Two",
+      "suit": "denari",
+      "rank": "Due",
       "keywords": {
         "upright": [
           "balance",
@@ -1742,16 +1813,17 @@
         "upright": "Keeping many things in motion. Flexibility.",
         "reversed": "Dropping the ball. Too much at once."
       },
-      "image": "cards/rws1909/pentacles_02.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/RWS1909_-_Pentacles_02.jpeg"
+      "image": "cards/piemontese/denari_02.jpg",
+      "source_url": ""
     },
     {
-      "id": "pentacles_03",
-      "name": "Three of Pentacles",
+      "id": "denari_03",
+      "name": "Tre di Denari",
+      "name_en": "Three of Pentacles",
       "arcana": "minor",
       "number": 3,
-      "suit": "pentacles",
-      "rank": "Three",
+      "suit": "denari",
+      "rank": "Tre",
       "keywords": {
         "upright": [
           "teamwork",
@@ -1767,16 +1839,17 @@
         "upright": "Skilled work recognised. Collaboration builds something real.",
         "reversed": "Disharmony on the team or careless work."
       },
-      "image": "cards/rws1909/pentacles_03.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/RWS1909_-_Pentacles_03.jpeg"
+      "image": "cards/piemontese/denari_03.jpg",
+      "source_url": ""
     },
     {
-      "id": "pentacles_04",
-      "name": "Four of Pentacles",
+      "id": "denari_04",
+      "name": "Quattro di Denari",
+      "name_en": "Four of Pentacles",
       "arcana": "minor",
       "number": 4,
-      "suit": "pentacles",
-      "rank": "Four",
+      "suit": "denari",
+      "rank": "Quattro",
       "keywords": {
         "upright": [
           "security",
@@ -1793,16 +1866,17 @@
         "upright": "Holding on tightly to what you have.",
         "reversed": "Loosening your grip, or clinging too hard."
       },
-      "image": "cards/rws1909/pentacles_04.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/RWS1909_-_Pentacles_04.jpeg"
+      "image": "cards/piemontese/denari_04.jpg",
+      "source_url": ""
     },
     {
-      "id": "pentacles_05",
-      "name": "Five of Pentacles",
+      "id": "denari_05",
+      "name": "Cinque di Denari",
+      "name_en": "Five of Pentacles",
       "arcana": "minor",
       "number": 5,
-      "suit": "pentacles",
-      "rank": "Five",
+      "suit": "denari",
+      "rank": "Cinque",
       "keywords": {
         "upright": [
           "hardship",
@@ -1818,16 +1892,17 @@
         "upright": "Out in the cold. Help is closer than you think.",
         "reversed": "Recovering from hard times."
       },
-      "image": "cards/rws1909/pentacles_05.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/RWS1909_-_Pentacles_05.jpeg"
+      "image": "cards/piemontese/denari_05.jpg",
+      "source_url": ""
     },
     {
-      "id": "pentacles_06",
-      "name": "Six of Pentacles",
+      "id": "denari_06",
+      "name": "Sei di Denari",
+      "name_en": "Six of Pentacles",
       "arcana": "minor",
       "number": 6,
-      "suit": "pentacles",
-      "rank": "Six",
+      "suit": "denari",
+      "rank": "Sei",
       "keywords": {
         "upright": [
           "generosity",
@@ -1843,16 +1918,17 @@
         "upright": "Giving and receiving in balance.",
         "reversed": "Generosity with an agenda, or imbalance of power."
       },
-      "image": "cards/rws1909/pentacles_06.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/RWS1909_-_Pentacles_06.jpeg"
+      "image": "cards/piemontese/denari_06.jpg",
+      "source_url": ""
     },
     {
-      "id": "pentacles_07",
-      "name": "Seven of Pentacles",
+      "id": "denari_07",
+      "name": "Sette di Denari",
+      "name_en": "Seven of Pentacles",
       "arcana": "minor",
       "number": 7,
-      "suit": "pentacles",
-      "rank": "Seven",
+      "suit": "denari",
+      "rank": "Sette",
       "keywords": {
         "upright": [
           "patience",
@@ -1868,16 +1944,17 @@
         "upright": "Pause to assess the harvest. Growth takes time.",
         "reversed": "Frustration with slow results."
       },
-      "image": "cards/rws1909/pentacles_07.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/RWS1909_-_Pentacles_07.jpeg"
+      "image": "cards/piemontese/denari_07.jpg",
+      "source_url": ""
     },
     {
-      "id": "pentacles_08",
-      "name": "Eight of Pentacles",
+      "id": "denari_08",
+      "name": "Otto di Denari",
+      "name_en": "Eight of Pentacles",
       "arcana": "minor",
       "number": 8,
-      "suit": "pentacles",
-      "rank": "Eight",
+      "suit": "denari",
+      "rank": "Otto",
       "keywords": {
         "upright": [
           "diligence",
@@ -1893,16 +1970,17 @@
         "upright": "Head down, honing your craft.",
         "reversed": "Work without meaning, or cutting corners."
       },
-      "image": "cards/rws1909/pentacles_08.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/RWS1909_-_Pentacles_08.jpeg"
+      "image": "cards/piemontese/denari_08.jpg",
+      "source_url": ""
     },
     {
-      "id": "pentacles_09",
-      "name": "Nine of Pentacles",
+      "id": "denari_09",
+      "name": "Nove di Denari",
+      "name_en": "Nine of Pentacles",
       "arcana": "minor",
       "number": 9,
-      "suit": "pentacles",
-      "rank": "Nine",
+      "suit": "denari",
+      "rank": "Nove",
       "keywords": {
         "upright": [
           "independence",
@@ -1918,16 +1996,17 @@
         "upright": "Enjoying the fruits of your labour in comfort.",
         "reversed": "Wealth without fulfilment."
       },
-      "image": "cards/rws1909/pentacles_09.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/RWS1909_-_Pentacles_09.jpeg"
+      "image": "cards/piemontese/denari_09.jpg",
+      "source_url": ""
     },
     {
-      "id": "pentacles_10",
-      "name": "Ten of Pentacles",
+      "id": "denari_10",
+      "name": "Dieci di Denari",
+      "name_en": "Ten of Pentacles",
       "arcana": "minor",
       "number": 10,
-      "suit": "pentacles",
-      "rank": "Ten",
+      "suit": "denari",
+      "rank": "Dieci",
       "keywords": {
         "upright": [
           "legacy",
@@ -1943,16 +2022,17 @@
         "upright": "Lasting security and a legacy for generations.",
         "reversed": "Disputes over money or legacy."
       },
-      "image": "cards/rws1909/pentacles_10.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/RWS1909_-_Pentacles_10.jpeg"
+      "image": "cards/piemontese/denari_10.jpg",
+      "source_url": ""
     },
     {
-      "id": "pentacles_11",
-      "name": "Page of Pentacles",
+      "id": "denari_11",
+      "name": "Fante di Denari",
+      "name_en": "Page of Pentacles",
       "arcana": "minor",
       "number": 11,
-      "suit": "pentacles",
-      "rank": "Page",
+      "suit": "denari",
+      "rank": "Fante",
       "keywords": {
         "upright": [
           "ambition",
@@ -1968,16 +2048,17 @@
         "upright": "A student with a new plan or opportunity. Study it.",
         "reversed": "Daydreaming without doing."
       },
-      "image": "cards/rws1909/pentacles_11.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/RWS1909_-_Pentacles_11.jpeg"
+      "image": "cards/piemontese/denari_11.jpg",
+      "source_url": ""
     },
     {
-      "id": "pentacles_12",
-      "name": "Knight of Pentacles",
+      "id": "denari_12",
+      "name": "Cavallo di Denari",
+      "name_en": "Knight of Pentacles",
       "arcana": "minor",
       "number": 12,
-      "suit": "pentacles",
-      "rank": "Knight",
+      "suit": "denari",
+      "rank": "Cavallo",
       "keywords": {
         "upright": [
           "hard work",
@@ -1994,16 +2075,17 @@
         "upright": "Slow, steady and dependable. Keep ploughing.",
         "reversed": "Stuck in a rut."
       },
-      "image": "cards/rws1909/pentacles_12.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/RWS1909_-_Pentacles_12.jpeg"
+      "image": "cards/piemontese/denari_12.jpg",
+      "source_url": ""
     },
     {
-      "id": "pentacles_13",
-      "name": "Queen of Pentacles",
+      "id": "denari_13",
+      "name": "Regina di Denari",
+      "name_en": "Queen of Pentacles",
       "arcana": "minor",
       "number": 13,
-      "suit": "pentacles",
-      "rank": "Queen",
+      "suit": "denari",
+      "rank": "Regina",
       "keywords": {
         "upright": [
           "nurturing",
@@ -2019,16 +2101,17 @@
         "upright": "Grounded care for home, body and finances.",
         "reversed": "Neglecting yourself while caring for everything else."
       },
-      "image": "cards/rws1909/pentacles_13.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/RWS1909_-_Pentacles_13.jpeg"
+      "image": "cards/piemontese/denari_13.jpg",
+      "source_url": ""
     },
     {
-      "id": "pentacles_14",
-      "name": "King of Pentacles",
+      "id": "denari_14",
+      "name": "Re di Denari",
+      "name_en": "King of Pentacles",
       "arcana": "minor",
       "number": 14,
-      "suit": "pentacles",
-      "rank": "King",
+      "suit": "denari",
+      "rank": "Re",
       "keywords": {
         "upright": [
           "abundance",
@@ -2045,8 +2128,8 @@
         "upright": "Mastery of the material world. Prosperity and stability.",
         "reversed": "Obsessed with wealth and status."
       },
-      "image": "cards/rws1909/pentacles_14.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RWS1909_-_Pentacles_14.jpeg"
+      "image": "cards/piemontese/denari_14.jpg",
+      "source_url": ""
     }
   ]
 }

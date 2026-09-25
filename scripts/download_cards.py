@@ -1,6 +1,7 @@
 """Download all 78 Waite-Smith 1909 card scans from Wikimedia Commons.
 
-Run from the repo root:   python3 scripts/download_cards.py
+Run from the repo root:   python3 scripts/download_cards.py            (every deck)
+                          python3 scripts/download_cards.py napoletane (one deck)
 Already-downloaded cards are skipped, so it's safe to re-run until everything is in.
 Wikimedia rate-limits aggressively, so this goes slowly on purpose (~3s per card)
 and waits out any "429 Too Many Requests" before continuing.
@@ -26,11 +27,19 @@ def fetch(url: str) -> bytes:
         return r.read()
 
 
-def main(deck_id: str = "rws1909"):
-    deck = json.loads((ROOT / "data" / f"{deck_id}.json").read_text(encoding="utf-8"))
-    todo = [c for c in deck["cards"]
-            if not ((ROOT / c["image"]).exists() and (ROOT / c["image"]).stat().st_size > 10_000)]
-    print(f"{78 - len(todo)} already present, {len(todo)} to download.\n")
+def main(*deck_ids: str):
+    paths = [ROOT / "data" / f"{d}.json" for d in deck_ids] or sorted((ROOT / "data").glob("*.json"))
+    failed_total = 0
+    for p in paths:
+        failed_total += download_deck(json.loads(p.read_text(encoding="utf-8")))
+    return 1 if failed_total else 0
+
+
+def download_deck(deck: dict) -> int:
+    print(f"\n== {deck['name']} ==")
+    todo = [c for c in deck["cards"] if c.get("source_url")
+            and not ((ROOT / c["image"]).exists() and (ROOT / c["image"]).stat().st_size > 10_000)]
+    print(f"{len(deck['cards']) - len(todo)} already present, {len(todo)} to download.\n")
     failed = []
     for i, card in enumerate(todo, 1):
         dest = ROOT / card["image"]
@@ -62,7 +71,7 @@ def main(deck_id: str = "rws1909"):
     print(f"\nDone: {len(todo) - len(failed)} downloaded, {len(failed)} failed.")
     if failed:
         print("Re-run later to get:", ", ".join(failed))
-    return 1 if failed else 0
+    return len(failed)
 
 
 if __name__ == "__main__":

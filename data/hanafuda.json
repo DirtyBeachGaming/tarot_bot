@@ -1,0 +1,1026 @@
+{
+  "id": "hanafuda",
+  "name": "Hanafuda",
+  "short_name": "Hanafuda",
+  "family": "Oracle",
+  "description": "The 48 Japanese flower cards, one suit per month. Meanings written for this bot from each month's flower, shaded by the card's rank. Read upright.",
+  "card_aspect": 0.62,
+  "color": 14692657,
+  "reversals": false,
+  "spreads": [
+    "single",
+    "three",
+    "line5"
+  ],
+  "suits": {},
+  "cards": [
+    {
+      "id": "hana_01_1",
+      "name": "Pine · Crane",
+      "name_en": "January · bright",
+      "arcana": "oracle",
+      "number": 1,
+      "suit": null,
+      "rank": "bright",
+      "keywords": {
+        "upright": [
+          "longevity",
+          "good fortune",
+          "strong"
+        ]
+      },
+      "meaning": {
+        "upright": "Steady, evergreen luck and a strong start. A bright card: this is the month's full power, and it's strongly in your favour."
+      },
+      "image": "cards/hanafuda/hana_01_1.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_01_2",
+      "name": "Pine · Poetry Ribbon",
+      "name_en": "January · ribbon",
+      "arcana": "oracle",
+      "number": 1,
+      "suit": null,
+      "rank": "ribbon",
+      "keywords": {
+        "upright": [
+          "longevity",
+          "good fortune",
+          "messages"
+        ]
+      },
+      "meaning": {
+        "upright": "Steady, evergreen luck and a strong start. A ribbon card: a message, a promise or a tie between people."
+      },
+      "image": "cards/hanafuda/hana_01_2.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_01_3",
+      "name": "Pine · Plain 1",
+      "name_en": "January · plain",
+      "arcana": "oracle",
+      "number": 1,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "longevity",
+          "good fortune",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "Steady, evergreen luck and a strong start. A plain card: the month's mood in small, everyday ways."
+      },
+      "image": "cards/hanafuda/hana_01_3.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_01_4",
+      "name": "Pine · Plain 2",
+      "name_en": "January · plain",
+      "arcana": "oracle",
+      "number": 1,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "longevity",
+          "good fortune",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "Steady, evergreen luck and a strong start. A plain card: the month's mood in small, everyday ways."
+      },
+      "image": "cards/hanafuda/hana_01_4.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_02_1",
+      "name": "Plum Blossom · Bush Warbler",
+      "name_en": "February · animal",
+      "arcana": "oracle",
+      "number": 2,
+      "suit": null,
+      "rank": "animal",
+      "keywords": {
+        "upright": [
+          "resilience",
+          "early hope",
+          "active"
+        ]
+      },
+      "meaning": {
+        "upright": "Blossoms before the snow has gone: hope arriving early. An animal card: the month's energy in motion; something acts on your behalf."
+      },
+      "image": "cards/hanafuda/hana_02_1.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_02_2",
+      "name": "Plum Blossom · Poetry Ribbon",
+      "name_en": "February · ribbon",
+      "arcana": "oracle",
+      "number": 2,
+      "suit": null,
+      "rank": "ribbon",
+      "keywords": {
+        "upright": [
+          "resilience",
+          "early hope",
+          "messages"
+        ]
+      },
+      "meaning": {
+        "upright": "Blossoms before the snow has gone: hope arriving early. A ribbon card: a message, a promise or a tie between people."
+      },
+      "image": "cards/hanafuda/hana_02_2.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_02_3",
+      "name": "Plum Blossom · Plain 1",
+      "name_en": "February · plain",
+      "arcana": "oracle",
+      "number": 2,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "resilience",
+          "early hope",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "Blossoms before the snow has gone: hope arriving early. A plain card: the month's mood in small, everyday ways."
+      },
+      "image": "cards/hanafuda/hana_02_3.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_02_4",
+      "name": "Plum Blossom · Plain 2",
+      "name_en": "February · plain",
+      "arcana": "oracle",
+      "number": 2,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "resilience",
+          "early hope",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "Blossoms before the snow has gone: hope arriving early. A plain card: the month's mood in small, everyday ways."
+      },
+      "image": "cards/hanafuda/hana_02_4.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_03_1",
+      "name": "Cherry Blossom · Curtain",
+      "name_en": "March · bright",
+      "arcana": "oracle",
+      "number": 3,
+      "suit": null,
+      "rank": "bright",
+      "keywords": {
+        "upright": [
+          "beauty",
+          "celebration",
+          "strong"
+        ]
+      },
+      "meaning": {
+        "upright": "Full bloom: enjoy it now, because it won't last. A bright card: this is the month's full power, and it's strongly in your favour."
+      },
+      "image": "cards/hanafuda/hana_03_1.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_03_2",
+      "name": "Cherry Blossom · Poetry Ribbon",
+      "name_en": "March · ribbon",
+      "arcana": "oracle",
+      "number": 3,
+      "suit": null,
+      "rank": "ribbon",
+      "keywords": {
+        "upright": [
+          "beauty",
+          "celebration",
+          "messages"
+        ]
+      },
+      "meaning": {
+        "upright": "Full bloom: enjoy it now, because it won't last. A ribbon card: a message, a promise or a tie between people."
+      },
+      "image": "cards/hanafuda/hana_03_2.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_03_3",
+      "name": "Cherry Blossom · Plain 1",
+      "name_en": "March · plain",
+      "arcana": "oracle",
+      "number": 3,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "beauty",
+          "celebration",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "Full bloom: enjoy it now, because it won't last. A plain card: the month's mood in small, everyday ways."
+      },
+      "image": "cards/hanafuda/hana_03_3.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_03_4",
+      "name": "Cherry Blossom · Plain 2",
+      "name_en": "March · plain",
+      "arcana": "oracle",
+      "number": 3,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "beauty",
+          "celebration",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "Full bloom: enjoy it now, because it won't last. A plain card: the month's mood in small, everyday ways."
+      },
+      "image": "cards/hanafuda/hana_03_4.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_04_1",
+      "name": "Wisteria · Cuckoo",
+      "name_en": "April · animal",
+      "arcana": "oracle",
+      "number": 4,
+      "suit": null,
+      "rank": "animal",
+      "keywords": {
+        "upright": [
+          "romance",
+          "longing",
+          "active"
+        ]
+      },
+      "meaning": {
+        "upright": "Trailing blossoms and longing. Affection reaching out. An animal card: the month's energy in motion; something acts on your behalf."
+      },
+      "image": "cards/hanafuda/hana_04_1.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_04_2",
+      "name": "Wisteria · Red Ribbon",
+      "name_en": "April · ribbon",
+      "arcana": "oracle",
+      "number": 4,
+      "suit": null,
+      "rank": "ribbon",
+      "keywords": {
+        "upright": [
+          "romance",
+          "longing",
+          "messages"
+        ]
+      },
+      "meaning": {
+        "upright": "Trailing blossoms and longing. Affection reaching out. A ribbon card: a message, a promise or a tie between people."
+      },
+      "image": "cards/hanafuda/hana_04_2.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_04_3",
+      "name": "Wisteria · Plain 1",
+      "name_en": "April · plain",
+      "arcana": "oracle",
+      "number": 4,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "romance",
+          "longing",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "Trailing blossoms and longing. Affection reaching out. A plain card: the month's mood in small, everyday ways."
+      },
+      "image": "cards/hanafuda/hana_04_3.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_04_4",
+      "name": "Wisteria · Plain 2",
+      "name_en": "April · plain",
+      "arcana": "oracle",
+      "number": 4,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "romance",
+          "longing",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "Trailing blossoms and longing. Affection reaching out. A plain card: the month's mood in small, everyday ways."
+      },
+      "image": "cards/hanafuda/hana_04_4.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_05_1",
+      "name": "Iris · Eight-Plank Bridge",
+      "name_en": "May · animal",
+      "arcana": "oracle",
+      "number": 5,
+      "suit": null,
+      "rank": "animal",
+      "keywords": {
+        "upright": [
+          "protection",
+          "clarity",
+          "active"
+        ]
+      },
+      "meaning": {
+        "upright": "Irises by the water: protection, and a way across. The zigzag bridge through the irises: an indirect path that still gets you across."
+      },
+      "image": "cards/hanafuda/hana_05_1.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_05_2",
+      "name": "Iris · Red Ribbon",
+      "name_en": "May · ribbon",
+      "arcana": "oracle",
+      "number": 5,
+      "suit": null,
+      "rank": "ribbon",
+      "keywords": {
+        "upright": [
+          "protection",
+          "clarity",
+          "messages"
+        ]
+      },
+      "meaning": {
+        "upright": "Irises by the water: protection, and a way across. A ribbon card: a message, a promise or a tie between people."
+      },
+      "image": "cards/hanafuda/hana_05_2.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_05_3",
+      "name": "Iris · Plain 1",
+      "name_en": "May · plain",
+      "arcana": "oracle",
+      "number": 5,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "protection",
+          "clarity",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "Irises by the water: protection, and a way across. A plain card: the month's mood in small, everyday ways."
+      },
+      "image": "cards/hanafuda/hana_05_3.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_05_4",
+      "name": "Iris · Plain 2",
+      "name_en": "May · plain",
+      "arcana": "oracle",
+      "number": 5,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "protection",
+          "clarity",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "Irises by the water: protection, and a way across. A plain card: the month's mood in small, everyday ways."
+      },
+      "image": "cards/hanafuda/hana_05_4.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_06_1",
+      "name": "Peony · Butterflies",
+      "name_en": "June · animal",
+      "arcana": "oracle",
+      "number": 6,
+      "suit": null,
+      "rank": "animal",
+      "keywords": {
+        "upright": [
+          "prosperity",
+          "pride",
+          "active"
+        ]
+      },
+      "meaning": {
+        "upright": "The king of flowers: wealth, honour and a full life. An animal card: the month's energy in motion; something acts on your behalf."
+      },
+      "image": "cards/hanafuda/hana_06_1.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_06_2",
+      "name": "Peony · Blue Ribbon",
+      "name_en": "June · ribbon",
+      "arcana": "oracle",
+      "number": 6,
+      "suit": null,
+      "rank": "ribbon",
+      "keywords": {
+        "upright": [
+          "prosperity",
+          "pride",
+          "messages"
+        ]
+      },
+      "meaning": {
+        "upright": "The king of flowers: wealth, honour and a full life. A ribbon card: a message, a promise or a tie between people."
+      },
+      "image": "cards/hanafuda/hana_06_2.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_06_3",
+      "name": "Peony · Plain 1",
+      "name_en": "June · plain",
+      "arcana": "oracle",
+      "number": 6,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "prosperity",
+          "pride",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "The king of flowers: wealth, honour and a full life. A plain card: the month's mood in small, everyday ways."
+      },
+      "image": "cards/hanafuda/hana_06_3.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_06_4",
+      "name": "Peony · Plain 2",
+      "name_en": "June · plain",
+      "arcana": "oracle",
+      "number": 6,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "prosperity",
+          "pride",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "The king of flowers: wealth, honour and a full life. A plain card: the month's mood in small, everyday ways."
+      },
+      "image": "cards/hanafuda/hana_06_4.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_07_1",
+      "name": "Bush Clover · Boar",
+      "name_en": "July · animal",
+      "arcana": "oracle",
+      "number": 7,
+      "suit": null,
+      "rank": "animal",
+      "keywords": {
+        "upright": [
+          "strength",
+          "courage",
+          "active"
+        ]
+      },
+      "meaning": {
+        "upright": "Wild clover on the hillside: raw energy and nerve. An animal card: the month's energy in motion; something acts on your behalf."
+      },
+      "image": "cards/hanafuda/hana_07_1.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_07_2",
+      "name": "Bush Clover · Red Ribbon",
+      "name_en": "July · ribbon",
+      "arcana": "oracle",
+      "number": 7,
+      "suit": null,
+      "rank": "ribbon",
+      "keywords": {
+        "upright": [
+          "strength",
+          "courage",
+          "messages"
+        ]
+      },
+      "meaning": {
+        "upright": "Wild clover on the hillside: raw energy and nerve. A ribbon card: a message, a promise or a tie between people."
+      },
+      "image": "cards/hanafuda/hana_07_2.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_07_3",
+      "name": "Bush Clover · Plain 1",
+      "name_en": "July · plain",
+      "arcana": "oracle",
+      "number": 7,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "strength",
+          "courage",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "Wild clover on the hillside: raw energy and nerve. A plain card: the month's mood in small, everyday ways."
+      },
+      "image": "cards/hanafuda/hana_07_3.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_07_4",
+      "name": "Bush Clover · Plain 2",
+      "name_en": "July · plain",
+      "arcana": "oracle",
+      "number": 7,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "strength",
+          "courage",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "Wild clover on the hillside: raw energy and nerve. A plain card: the month's mood in small, everyday ways."
+      },
+      "image": "cards/hanafuda/hana_07_4.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_08_1",
+      "name": "Susuki Grass · Full Moon",
+      "name_en": "August · bright",
+      "arcana": "oracle",
+      "number": 8,
+      "suit": null,
+      "rank": "bright",
+      "keywords": {
+        "upright": [
+          "reflection",
+          "harvest moon",
+          "strong"
+        ]
+      },
+      "meaning": {
+        "upright": "The harvest moon over tall grass: reflection and fulfilment. The full moon: things are fully visible now. Clarity and completion."
+      },
+      "image": "cards/hanafuda/hana_08_1.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_08_2",
+      "name": "Susuki Grass · Geese",
+      "name_en": "August · animal",
+      "arcana": "oracle",
+      "number": 8,
+      "suit": null,
+      "rank": "animal",
+      "keywords": {
+        "upright": [
+          "reflection",
+          "harvest moon",
+          "active"
+        ]
+      },
+      "meaning": {
+        "upright": "The harvest moon over tall grass: reflection and fulfilment. An animal card: the month's energy in motion; something acts on your behalf."
+      },
+      "image": "cards/hanafuda/hana_08_2.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_08_3",
+      "name": "Susuki Grass · Plain 1",
+      "name_en": "August · plain",
+      "arcana": "oracle",
+      "number": 8,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "reflection",
+          "harvest moon",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "The harvest moon over tall grass: reflection and fulfilment. A plain card: the month's mood in small, everyday ways."
+      },
+      "image": "cards/hanafuda/hana_08_3.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_08_4",
+      "name": "Susuki Grass · Plain 2",
+      "name_en": "August · plain",
+      "arcana": "oracle",
+      "number": 8,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "reflection",
+          "harvest moon",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "The harvest moon over tall grass: reflection and fulfilment. A plain card: the month's mood in small, everyday ways."
+      },
+      "image": "cards/hanafuda/hana_08_4.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_09_1",
+      "name": "Chrysanthemum · Sake Cup",
+      "name_en": "September · animal",
+      "arcana": "oracle",
+      "number": 9,
+      "suit": null,
+      "rank": "animal",
+      "keywords": {
+        "upright": [
+          "long life",
+          "dignity",
+          "active"
+        ]
+      },
+      "meaning": {
+        "upright": "The chrysanthemum festival: dignity, health and a cup raised. The sake cup: celebrate, and share your luck with others."
+      },
+      "image": "cards/hanafuda/hana_09_1.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_09_2",
+      "name": "Chrysanthemum · Blue Ribbon",
+      "name_en": "September · ribbon",
+      "arcana": "oracle",
+      "number": 9,
+      "suit": null,
+      "rank": "ribbon",
+      "keywords": {
+        "upright": [
+          "long life",
+          "dignity",
+          "messages"
+        ]
+      },
+      "meaning": {
+        "upright": "The chrysanthemum festival: dignity, health and a cup raised. A ribbon card: a message, a promise or a tie between people."
+      },
+      "image": "cards/hanafuda/hana_09_2.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_09_3",
+      "name": "Chrysanthemum · Plain 1",
+      "name_en": "September · plain",
+      "arcana": "oracle",
+      "number": 9,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "long life",
+          "dignity",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "The chrysanthemum festival: dignity, health and a cup raised. A plain card: the month's mood in small, everyday ways."
+      },
+      "image": "cards/hanafuda/hana_09_3.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_09_4",
+      "name": "Chrysanthemum · Plain 2",
+      "name_en": "September · plain",
+      "arcana": "oracle",
+      "number": 9,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "long life",
+          "dignity",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "The chrysanthemum festival: dignity, health and a cup raised. A plain card: the month's mood in small, everyday ways."
+      },
+      "image": "cards/hanafuda/hana_09_4.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_10_1",
+      "name": "Maple · Deer",
+      "name_en": "October · animal",
+      "arcana": "oracle",
+      "number": 10,
+      "suit": null,
+      "rank": "animal",
+      "keywords": {
+        "upright": [
+          "change",
+          "maturity",
+          "active"
+        ]
+      },
+      "meaning": {
+        "upright": "Red leaves falling: change, maturity and graceful endings. An animal card: the month's energy in motion; something acts on your behalf."
+      },
+      "image": "cards/hanafuda/hana_10_1.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_10_2",
+      "name": "Maple · Blue Ribbon",
+      "name_en": "October · ribbon",
+      "arcana": "oracle",
+      "number": 10,
+      "suit": null,
+      "rank": "ribbon",
+      "keywords": {
+        "upright": [
+          "change",
+          "maturity",
+          "messages"
+        ]
+      },
+      "meaning": {
+        "upright": "Red leaves falling: change, maturity and graceful endings. A ribbon card: a message, a promise or a tie between people."
+      },
+      "image": "cards/hanafuda/hana_10_2.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_10_3",
+      "name": "Maple · Plain 1",
+      "name_en": "October · plain",
+      "arcana": "oracle",
+      "number": 10,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "change",
+          "maturity",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "Red leaves falling: change, maturity and graceful endings. A plain card: the month's mood in small, everyday ways."
+      },
+      "image": "cards/hanafuda/hana_10_3.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_10_4",
+      "name": "Maple · Plain 2",
+      "name_en": "October · plain",
+      "arcana": "oracle",
+      "number": 10,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "change",
+          "maturity",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "Red leaves falling: change, maturity and graceful endings. A plain card: the month's mood in small, everyday ways."
+      },
+      "image": "cards/hanafuda/hana_10_4.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_11_1",
+      "name": "Willow · Rain Man",
+      "name_en": "November · bright",
+      "arcana": "oracle",
+      "number": 11,
+      "suit": null,
+      "rank": "bright",
+      "keywords": {
+        "upright": [
+          "perseverance",
+          "flexibility",
+          "strong"
+        ]
+      },
+      "meaning": {
+        "upright": "Rain on the willow: keep trying, bend, and expect surprises. The rain man with his umbrella: an odd, unexpected turn that works out."
+      },
+      "image": "cards/hanafuda/hana_11_1.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_11_2",
+      "name": "Willow · Swallow",
+      "name_en": "November · animal",
+      "arcana": "oracle",
+      "number": 11,
+      "suit": null,
+      "rank": "animal",
+      "keywords": {
+        "upright": [
+          "perseverance",
+          "flexibility",
+          "active"
+        ]
+      },
+      "meaning": {
+        "upright": "Rain on the willow: keep trying, bend, and expect surprises. An animal card: the month's energy in motion; something acts on your behalf."
+      },
+      "image": "cards/hanafuda/hana_11_2.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_11_3",
+      "name": "Willow · Red Ribbon",
+      "name_en": "November · ribbon",
+      "arcana": "oracle",
+      "number": 11,
+      "suit": null,
+      "rank": "ribbon",
+      "keywords": {
+        "upright": [
+          "perseverance",
+          "flexibility",
+          "messages"
+        ]
+      },
+      "meaning": {
+        "upright": "Rain on the willow: keep trying, bend, and expect surprises. A ribbon card: a message, a promise or a tie between people."
+      },
+      "image": "cards/hanafuda/hana_11_3.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_11_4",
+      "name": "Willow · Lightning",
+      "name_en": "November · plain",
+      "arcana": "oracle",
+      "number": 11,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "perseverance",
+          "flexibility",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "Rain on the willow: keep trying, bend, and expect surprises. Lightning in the rain: a sudden jolt that clears the air."
+      },
+      "image": "cards/hanafuda/hana_11_4.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_12_1",
+      "name": "Paulownia · Phoenix",
+      "name_en": "December · bright",
+      "arcana": "oracle",
+      "number": 12,
+      "suit": null,
+      "rank": "bright",
+      "keywords": {
+        "upright": [
+          "nobility",
+          "completion",
+          "strong"
+        ]
+      },
+      "meaning": {
+        "upright": "The phoenix in the paulownia: a cycle completes, something noble rises. A bright card: this is the month's full power, and it's strongly in your favour."
+      },
+      "image": "cards/hanafuda/hana_12_1.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_12_2",
+      "name": "Paulownia · Plain 1",
+      "name_en": "December · plain",
+      "arcana": "oracle",
+      "number": 12,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "nobility",
+          "completion",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "The phoenix in the paulownia: a cycle completes, something noble rises. A plain card: the month's mood in small, everyday ways."
+      },
+      "image": "cards/hanafuda/hana_12_2.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_12_3",
+      "name": "Paulownia · Plain 2",
+      "name_en": "December · plain",
+      "arcana": "oracle",
+      "number": 12,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "nobility",
+          "completion",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "The phoenix in the paulownia: a cycle completes, something noble rises. A plain card: the month's mood in small, everyday ways."
+      },
+      "image": "cards/hanafuda/hana_12_3.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "hana_12_4",
+      "name": "Paulownia · Plain 3",
+      "name_en": "December · plain",
+      "arcana": "oracle",
+      "number": 12,
+      "suit": null,
+      "rank": "plain",
+      "keywords": {
+        "upright": [
+          "nobility",
+          "completion",
+          "small"
+        ]
+      },
+      "meaning": {
+        "upright": "The phoenix in the paulownia: a cycle completes, something noble rises. A plain card: the month's mood in small, everyday ways."
+      },
+      "image": "cards/hanafuda/hana_12_4.jpg",
+      "source_url": ""
+    }
+  ]
+}

@@ -1,0 +1,1180 @@
+{
+  "id": "sibilla",
+  "name": "Vera Sibilla Italiana",
+  "short_name": "Sibilla",
+  "family": "Oracle",
+  "description": "The 52-card Italian sibyl oracle: titled scenes with playing-card indices. Read upright, in combinations.",
+  "card_aspect": 0.58,
+  "color": 10237621,
+  "reversals": false,
+  "spreads": [
+    "single",
+    "line3",
+    "line5",
+    "box9"
+  ],
+  "suits": {
+    "cuori": {
+      "name": "Cuori (Hearts)",
+      "color": 13183530,
+      "domain": "love, home, happiness"
+    },
+    "fiori": {
+      "name": "Fiori (Clubs)",
+      "color": 2853438,
+      "domain": "luck, social life, progress"
+    },
+    "picche": {
+      "name": "Picche (Spades)",
+      "color": 3422784,
+      "domain": "sorrow, obstacles, endings"
+    },
+    "quadri": {
+      "name": "Quadri (Diamonds)",
+      "color": 15227148,
+      "domain": "news, thoughts, daily life"
+    }
+  },
+  "cards": [
+    {
+      "id": "cuori_01",
+      "name": "Conversazione",
+      "name_en": "Conversation",
+      "arcana": "oracle",
+      "number": 1,
+      "suit": "cuori",
+      "rank": "A",
+      "insert": "A♥",
+      "keywords": {
+        "upright": [
+          "words",
+          "negotiation",
+          "family influence"
+        ]
+      },
+      "meaning": {
+        "upright": "A conversation that matters: talks, negotiation, or family having their say."
+      },
+      "image": "cards/sibilla/cuori_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "cuori_02",
+      "name": "La Casa",
+      "name_en": "The House",
+      "arcana": "oracle",
+      "number": 2,
+      "suit": "cuori",
+      "rank": "2",
+      "insert": "2♥",
+      "keywords": {
+        "upright": [
+          "home",
+          "property",
+          "family harmony"
+        ]
+      },
+      "meaning": {
+        "upright": "Home and family. Property, a household in harmony."
+      },
+      "image": "cards/sibilla/cuori_02.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "cuori_03",
+      "name": "Belvedere",
+      "name_en": "The Beautiful View",
+      "arcana": "oracle",
+      "number": 3,
+      "suit": "cuori",
+      "rank": "3",
+      "insert": "3♥",
+      "keywords": {
+        "upright": [
+          "news coming",
+          "arrival",
+          "expectation"
+        ]
+      },
+      "meaning": {
+        "upright": "Looking out from the balcony: news or an arrival is on its way."
+      },
+      "image": "cards/sibilla/cuori_03.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "cuori_04",
+      "name": "Amore",
+      "name_en": "Love",
+      "arcana": "oracle",
+      "number": 4,
+      "suit": "cuori",
+      "rank": "4",
+      "insert": "4♥",
+      "keywords": {
+        "upright": [
+          "romance",
+          "attraction",
+          "warmth"
+        ]
+      },
+      "meaning": {
+        "upright": "Love and attraction. Feelings grow and open up."
+      },
+      "image": "cards/sibilla/cuori_04.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "cuori_05",
+      "name": "Allegrezza al Cuore",
+      "name_en": "Joy of the Heart",
+      "arcana": "oracle",
+      "number": 5,
+      "suit": "cuori",
+      "rank": "5",
+      "insert": "5♥",
+      "keywords": {
+        "upright": [
+          "fulfilment",
+          "happy outcome",
+          "engagement"
+        ]
+      },
+      "meaning": {
+        "upright": "The heart is glad. A happy outcome, sometimes an engagement."
+      },
+      "image": "cards/sibilla/cuori_05.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "cuori_06",
+      "name": "Denari",
+      "name_en": "Money",
+      "arcana": "oracle",
+      "number": 6,
+      "suit": "cuori",
+      "rank": "6",
+      "insert": "6♥",
+      "keywords": {
+        "upright": [
+          "wealth",
+          "finances",
+          "the past"
+        ]
+      },
+      "meaning": {
+        "upright": "Money matters and material means. Can also point back to the past."
+      },
+      "image": "cards/sibilla/cuori_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "cuori_07",
+      "name": "Letterato",
+      "name_en": "The Scholar",
+      "arcana": "oracle",
+      "number": 7,
+      "suit": "cuori",
+      "rank": "7",
+      "insert": "7♥",
+      "keywords": {
+        "upright": [
+          "a mature man",
+          "a professional",
+          "family elder"
+        ]
+      },
+      "meaning": {
+        "upright": "A cultured man over forty: a professional, an advisor, or an older relative."
+      },
+      "image": "cards/sibilla/cuori_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "cuori_08",
+      "name": "Speranza",
+      "name_en": "Hope",
+      "arcana": "oracle",
+      "number": 8,
+      "suit": "cuori",
+      "rank": "8",
+      "insert": "8♥",
+      "keywords": {
+        "upright": [
+          "success",
+          "attainment",
+          "protection"
+        ]
+      },
+      "meaning": {
+        "upright": "Hope that is justified. Aims are reached and you are protected."
+      },
+      "image": "cards/sibilla/cuori_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "cuori_09",
+      "name": "La Fedeltà",
+      "name_en": "Fidelity",
+      "arcana": "oracle",
+      "number": 9,
+      "suit": "cuori",
+      "rank": "9",
+      "insert": "9♥",
+      "keywords": {
+        "upright": [
+          "faithfulness",
+          "loyalty",
+          "success in love"
+        ]
+      },
+      "meaning": {
+        "upright": "Loyalty and faithfulness. Love that keeps its promises."
+      },
+      "image": "cards/sibilla/cuori_09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "cuori_10",
+      "name": "La Costanza",
+      "name_en": "Constancy",
+      "arcana": "oracle",
+      "number": 10,
+      "suit": "cuori",
+      "rank": "10",
+      "insert": "10♥",
+      "keywords": {
+        "upright": [
+          "stability",
+          "lasting",
+          "goal achieved"
+        ]
+      },
+      "meaning": {
+        "upright": "Things that last. Steady effort brings the goal within reach."
+      },
+      "image": "cards/sibilla/cuori_10.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "cuori_11",
+      "name": "L'Amante",
+      "name_en": "The Lover",
+      "arcana": "oracle",
+      "number": 11,
+      "suit": "cuori",
+      "rank": "J",
+      "insert": "J♥",
+      "keywords": {
+        "upright": [
+          "a loved man",
+          "a single man",
+          "good news"
+        ]
+      },
+      "meaning": {
+        "upright": "A man who is loved, or a single man in his thirties or forties. Good news in love."
+      },
+      "image": "cards/sibilla/cuori_11.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "cuori_12",
+      "name": "L'Amante",
+      "name_en": "The Beloved",
+      "arcana": "oracle",
+      "number": 12,
+      "suit": "cuori",
+      "rank": "Q",
+      "insert": "Q♥",
+      "keywords": {
+        "upright": [
+          "a loved woman",
+          "a young woman",
+          "romance"
+        ]
+      },
+      "meaning": {
+        "upright": "A loved or unmarried young woman. Romance on the woman's side."
+      },
+      "image": "cards/sibilla/cuori_12.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "cuori_13",
+      "name": "Gran Signore",
+      "name_en": "The Great Gentleman",
+      "arcana": "oracle",
+      "number": 13,
+      "suit": "cuori",
+      "rank": "K",
+      "insert": "K♥",
+      "keywords": {
+        "upright": [
+          "a married man",
+          "a father",
+          "protector"
+        ]
+      },
+      "meaning": {
+        "upright": "A mature, established man: a husband, father or protector."
+      },
+      "image": "cards/sibilla/cuori_13.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "fiori_01",
+      "name": "Imeneo",
+      "name_en": "Marriage",
+      "arcana": "oracle",
+      "number": 1,
+      "suit": "fiori",
+      "rank": "A",
+      "insert": "A♣",
+      "keywords": {
+        "upright": [
+          "marriage",
+          "partnership",
+          "union"
+        ]
+      },
+      "meaning": {
+        "upright": "Marriage or any formal partnership. A union blessed."
+      },
+      "image": "cards/sibilla/fiori_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "fiori_02",
+      "name": "La Superbia",
+      "name_en": "Pride",
+      "arcana": "oracle",
+      "number": 2,
+      "suit": "fiori",
+      "rank": "2",
+      "insert": "2♣",
+      "keywords": {
+        "upright": [
+          "vitality",
+          "magnetism",
+          "self-regard"
+        ]
+      },
+      "meaning": {
+        "upright": "Pride and presence. Strong positive energy and charisma, used with care."
+      },
+      "image": "cards/sibilla/fiori_02.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "fiori_03",
+      "name": "Viaggio",
+      "name_en": "Journey",
+      "arcana": "oracle",
+      "number": 3,
+      "suit": "fiori",
+      "rank": "3",
+      "insert": "3♣",
+      "keywords": {
+        "upright": [
+          "travel",
+          "movement",
+          "relocation"
+        ]
+      },
+      "meaning": {
+        "upright": "A journey or a move. Change of scene."
+      },
+      "image": "cards/sibilla/fiori_03.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "fiori_04",
+      "name": "L'Amica",
+      "name_en": "The Friend",
+      "arcana": "oracle",
+      "number": 4,
+      "suit": "fiori",
+      "rank": "4",
+      "insert": "4♣",
+      "keywords": {
+        "upright": [
+          "a female friend",
+          "help",
+          "comfort"
+        ]
+      },
+      "meaning": {
+        "upright": "A friend, often a woman, who helps and comforts."
+      },
+      "image": "cards/sibilla/fiori_04.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "fiori_05",
+      "name": "Fortuna",
+      "name_en": "Fortune",
+      "arcana": "oracle",
+      "number": 5,
+      "suit": "fiori",
+      "rank": "5",
+      "insert": "5♣",
+      "keywords": {
+        "upright": [
+          "good luck",
+          "favour",
+          "opportunity"
+        ]
+      },
+      "meaning": {
+        "upright": "Good fortune and favourable winds."
+      },
+      "image": "cards/sibilla/fiori_05.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "fiori_06",
+      "name": "Consolante Sorpresa",
+      "name_en": "Comforting Surprise",
+      "arcana": "oracle",
+      "number": 6,
+      "suit": "fiori",
+      "rank": "6",
+      "insert": "6♣",
+      "keywords": {
+        "upright": [
+          "unexpected success",
+          "a raise",
+          "relief"
+        ]
+      },
+      "meaning": {
+        "upright": "A pleasant surprise that lifts the mood: unexpected success or reward."
+      },
+      "image": "cards/sibilla/fiori_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "fiori_07",
+      "name": "Gran Consolazione",
+      "name_en": "Great Consolation",
+      "arcana": "oracle",
+      "number": 7,
+      "suit": "fiori",
+      "rank": "7",
+      "insert": "7♣",
+      "keywords": {
+        "upright": [
+          "well-being",
+          "security",
+          "stability"
+        ]
+      },
+      "meaning": {
+        "upright": "Deep comfort and material security. A weight lifts."
+      },
+      "image": "cards/sibilla/fiori_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "fiori_08",
+      "name": "La Riunione",
+      "name_en": "The Reunion",
+      "arcana": "oracle",
+      "number": 8,
+      "suit": "fiori",
+      "rank": "8",
+      "insert": "8♣",
+      "keywords": {
+        "upright": [
+          "reconciliation",
+          "return",
+          "recovery"
+        ]
+      },
+      "meaning": {
+        "upright": "People come back together. Reconciliation or a welcome return."
+      },
+      "image": "cards/sibilla/fiori_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "fiori_09",
+      "name": "L'Allegria",
+      "name_en": "Joy",
+      "arcana": "oracle",
+      "number": 9,
+      "suit": "fiori",
+      "rank": "9",
+      "insert": "9♣",
+      "keywords": {
+        "upright": [
+          "celebration",
+          "party",
+          "fulfilment"
+        ]
+      },
+      "meaning": {
+        "upright": "Happiness and celebration. A party, good company."
+      },
+      "image": "cards/sibilla/fiori_09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "fiori_10",
+      "name": "La Leggerezza",
+      "name_en": "Frivolity",
+      "arcana": "oracle",
+      "number": 10,
+      "suit": "fiori",
+      "rank": "10",
+      "insert": "10♣",
+      "keywords": {
+        "upright": [
+          "carelessness",
+          "recklessness",
+          "lightness"
+        ]
+      },
+      "meaning": {
+        "upright": "Lightness that can tip into carelessness. Weakens the cards around it."
+      },
+      "image": "cards/sibilla/fiori_10.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "fiori_11",
+      "name": "Domestico",
+      "name_en": "The Servant",
+      "arcana": "oracle",
+      "number": 11,
+      "suit": "fiori",
+      "rank": "J",
+      "insert": "J♣",
+      "keywords": {
+        "upright": [
+          "a helpful young man",
+          "a son",
+          "a colleague"
+        ]
+      },
+      "meaning": {
+        "upright": "A helpful young man: a son, an assistant or a colleague."
+      },
+      "image": "cards/sibilla/fiori_11.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "fiori_12",
+      "name": "Giovine Fanciulla",
+      "name_en": "The Young Maiden",
+      "arcana": "oracle",
+      "number": 12,
+      "suit": "fiori",
+      "rank": "Q",
+      "insert": "Q♣",
+      "keywords": {
+        "upright": [
+          "a young woman",
+          "innocence"
+        ]
+      },
+      "meaning": {
+        "upright": "A young, unmarried woman. Innocence and freshness."
+      },
+      "image": "cards/sibilla/fiori_12.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "fiori_13",
+      "name": "Dottore",
+      "name_en": "The Doctor",
+      "arcana": "oracle",
+      "number": 13,
+      "suit": "fiori",
+      "rank": "K",
+      "insert": "K♣",
+      "keywords": {
+        "upright": [
+          "health",
+          "healing",
+          "a professional"
+        ]
+      },
+      "meaning": {
+        "upright": "A doctor or professional. Health matters and healing."
+      },
+      "image": "cards/sibilla/fiori_13.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "picche_01",
+      "name": "Dispiacere",
+      "name_en": "Sorrow",
+      "arcana": "oracle",
+      "number": 1,
+      "suit": "picche",
+      "rank": "A",
+      "insert": "A♠",
+      "keywords": {
+        "upright": [
+          "sad news",
+          "failure",
+          "upset"
+        ]
+      },
+      "meaning": {
+        "upright": "Displeasure and sad news. Something fails or hurts."
+      },
+      "image": "cards/sibilla/picche_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "picche_02",
+      "name": "La Vecchia Signora",
+      "name_en": "The Old Lady",
+      "arcana": "oracle",
+      "number": 2,
+      "suit": "picche",
+      "rank": "2",
+      "insert": "2♠",
+      "keywords": {
+        "upright": [
+          "an elderly woman",
+          "old matters"
+        ]
+      },
+      "meaning": {
+        "upright": "An older woman, or a situation that has been around a long time."
+      },
+      "image": "cards/sibilla/picche_02.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "picche_03",
+      "name": "Il Vedovo",
+      "name_en": "The Widower",
+      "arcana": "oracle",
+      "number": 3,
+      "suit": "picche",
+      "rank": "3",
+      "insert": "3♠",
+      "keywords": {
+        "upright": [
+          "an older man",
+          "loneliness",
+          "loss"
+        ]
+      },
+      "meaning": {
+        "upright": "An older man, or loneliness and loss."
+      },
+      "image": "cards/sibilla/picche_03.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "picche_04",
+      "name": "Ammalato",
+      "name_en": "The Sick Man",
+      "arcana": "oracle",
+      "number": 4,
+      "suit": "picche",
+      "rank": "4",
+      "insert": "4♠",
+      "keywords": {
+        "upright": [
+          "illness",
+          "low spirits",
+          "isolation"
+        ]
+      },
+      "meaning": {
+        "upright": "Illness or low spirits. Rest and care are needed."
+      },
+      "image": "cards/sibilla/picche_04.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "picche_05",
+      "name": "Morte",
+      "name_en": "Death",
+      "arcana": "oracle",
+      "number": 5,
+      "suit": "picche",
+      "rank": "5",
+      "insert": "5♠",
+      "keywords": {
+        "upright": [
+          "ending",
+          "break-up",
+          "finality"
+        ]
+      },
+      "meaning": {
+        "upright": "An ending. Something closes for good."
+      },
+      "image": "cards/sibilla/picche_05.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "picche_06",
+      "name": "Sospiri",
+      "name_en": "Sighs",
+      "arcana": "oracle",
+      "number": 6,
+      "suit": "picche",
+      "rank": "6",
+      "insert": "6♠",
+      "keywords": {
+        "upright": [
+          "anxiety",
+          "longing",
+          "waiting"
+        ]
+      },
+      "meaning": {
+        "upright": "Sighs and worry. Anguish caused by waiting."
+      },
+      "image": "cards/sibilla/picche_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "picche_07",
+      "name": "Disgrazia",
+      "name_en": "Misfortune",
+      "arcana": "oracle",
+      "number": 7,
+      "suit": "picche",
+      "rank": "7",
+      "insert": "7♠",
+      "keywords": {
+        "upright": [
+          "accident",
+          "damage",
+          "anger"
+        ]
+      },
+      "meaning": {
+        "upright": "A mishap or damage. Anger or an accident; take care."
+      },
+      "image": "cards/sibilla/picche_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "picche_08",
+      "name": "Disperato per Gelosia",
+      "name_en": "Desperate with Jealousy",
+      "arcana": "oracle",
+      "number": 8,
+      "suit": "picche",
+      "rank": "8",
+      "insert": "8♠",
+      "keywords": {
+        "upright": [
+          "envy",
+          "jealousy",
+          "crisis"
+        ]
+      },
+      "meaning": {
+        "upright": "Jealousy and envy. Can also mean a financial crisis."
+      },
+      "image": "cards/sibilla/picche_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "picche_09",
+      "name": "Prigione",
+      "name_en": "Prison",
+      "arcana": "oracle",
+      "number": 9,
+      "suit": "picche",
+      "rank": "9",
+      "insert": "9♠",
+      "keywords": {
+        "upright": [
+          "blockage",
+          "isolation",
+          "dependency"
+        ]
+      },
+      "meaning": {
+        "upright": "Feeling trapped. A blockage, isolation or dependency."
+      },
+      "image": "cards/sibilla/picche_09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "picche_10",
+      "name": "Militare",
+      "name_en": "The Soldier",
+      "arcana": "oracle",
+      "number": 10,
+      "suit": "picche",
+      "rank": "10",
+      "insert": "10♠",
+      "keywords": {
+        "upright": [
+          "a man in uniform",
+          "conflict",
+          "force"
+        ]
+      },
+      "meaning": {
+        "upright": "A man in uniform, or conflict and force."
+      },
+      "image": "cards/sibilla/picche_10.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "picche_11",
+      "name": "Il Nemico",
+      "name_en": "The Enemy",
+      "arcana": "oracle",
+      "number": 11,
+      "suit": "picche",
+      "rank": "J",
+      "insert": "J♠",
+      "keywords": {
+        "upright": [
+          "a rival",
+          "a secret opponent"
+        ]
+      },
+      "meaning": {
+        "upright": "A male rival or hidden opponent. Watch your back."
+      },
+      "image": "cards/sibilla/picche_11.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "picche_12",
+      "name": "La Nemica",
+      "name_en": "The Female Enemy",
+      "arcana": "oracle",
+      "number": 12,
+      "suit": "picche",
+      "rank": "Q",
+      "insert": "Q♠",
+      "keywords": {
+        "upright": [
+          "a female rival",
+          "envy"
+        ]
+      },
+      "meaning": {
+        "upright": "A female rival or enemy."
+      },
+      "image": "cards/sibilla/picche_12.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "picche_13",
+      "name": "Sacerdote",
+      "name_en": "The Priest",
+      "arcana": "oracle",
+      "number": 13,
+      "suit": "picche",
+      "rank": "K",
+      "insert": "K♠",
+      "keywords": {
+        "upright": [
+          "justice",
+          "legal matters",
+          "authority"
+        ]
+      },
+      "meaning": {
+        "upright": "A priest or authority figure. Legal and formal matters."
+      },
+      "image": "cards/sibilla/picche_13.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "quadri_01",
+      "name": "Stanza",
+      "name_en": "The Room",
+      "arcana": "oracle",
+      "number": 1,
+      "suit": "quadri",
+      "rank": "A",
+      "insert": "A♦",
+      "keywords": {
+        "upright": [
+          "domestic life",
+          "privacy",
+          "intimacy"
+        ]
+      },
+      "meaning": {
+        "upright": "A private room. Domestic life and intimacy."
+      },
+      "image": "cards/sibilla/quadri_01.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "quadri_02",
+      "name": "La Lettera",
+      "name_en": "The Letter",
+      "arcana": "oracle",
+      "number": 2,
+      "suit": "quadri",
+      "rank": "2",
+      "insert": "2♦",
+      "keywords": {
+        "upright": [
+          "writing",
+          "documents",
+          "messages"
+        ]
+      },
+      "meaning": {
+        "upright": "A letter or document. Written communication."
+      },
+      "image": "cards/sibilla/quadri_02.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "quadri_03",
+      "name": "Presente di Pietre Preziose",
+      "name_en": "Gift of Precious Stones",
+      "arcana": "oracle",
+      "number": 3,
+      "suit": "quadri",
+      "rank": "3",
+      "insert": "3♦",
+      "keywords": {
+        "upright": [
+          "a proposal",
+          "an offer",
+          "luxury"
+        ]
+      },
+      "meaning": {
+        "upright": "A precious gift or an offer. A proposal, jewels, luxury."
+      },
+      "image": "cards/sibilla/quadri_03.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "quadri_04",
+      "name": "Falsità",
+      "name_en": "Falsehood",
+      "arcana": "oracle",
+      "number": 4,
+      "suit": "quadri",
+      "rank": "4",
+      "insert": "4♦",
+      "keywords": {
+        "upright": [
+          "lies",
+          "deceit",
+          "illusion"
+        ]
+      },
+      "meaning": {
+        "upright": "Lies and deceit. Not everything is as it appears."
+      },
+      "image": "cards/sibilla/quadri_04.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "quadri_05",
+      "name": "Malinconia",
+      "name_en": "Melancholy",
+      "arcana": "oracle",
+      "number": 5,
+      "suit": "quadri",
+      "rank": "5",
+      "insert": "5♦",
+      "keywords": {
+        "upright": [
+          "passing sadness",
+          "regret",
+          "setback"
+        ]
+      },
+      "meaning": {
+        "upright": "A passing sadness or regret. A setback, not a disaster."
+      },
+      "image": "cards/sibilla/quadri_05.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "quadri_06",
+      "name": "Il Pensiero",
+      "name_en": "The Thought",
+      "arcana": "oracle",
+      "number": 6,
+      "suit": "quadri",
+      "rank": "6",
+      "insert": "6♦",
+      "keywords": {
+        "upright": [
+          "thoughts",
+          "intentions",
+          "planning"
+        ]
+      },
+      "meaning": {
+        "upright": "Thoughts and intentions. What someone has in mind."
+      },
+      "image": "cards/sibilla/quadri_06.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "quadri_07",
+      "name": "Bambino",
+      "name_en": "The Child",
+      "arcana": "oracle",
+      "number": 7,
+      "suit": "quadri",
+      "rank": "7",
+      "insert": "7♦",
+      "keywords": {
+        "upright": [
+          "a child",
+          "innocence",
+          "new beginning"
+        ]
+      },
+      "meaning": {
+        "upright": "A child, a pet, or something newly begun."
+      },
+      "image": "cards/sibilla/quadri_07.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "quadri_08",
+      "name": "La Donna di Servizio",
+      "name_en": "The Maid",
+      "arcana": "oracle",
+      "number": 8,
+      "suit": "quadri",
+      "rank": "8",
+      "insert": "8♦",
+      "keywords": {
+        "upright": [
+          "a working woman",
+          "help",
+          "progress"
+        ]
+      },
+      "meaning": {
+        "upright": "A working woman or helper. Progress through effort."
+      },
+      "image": "cards/sibilla/quadri_08.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "quadri_09",
+      "name": "I Deliranti",
+      "name_en": "The Madmen",
+      "arcana": "oracle",
+      "number": 9,
+      "suit": "quadri",
+      "rank": "9",
+      "insert": "9♦",
+      "keywords": {
+        "upright": [
+          "setbacks",
+          "confusion",
+          "bad influence"
+        ]
+      },
+      "meaning": {
+        "upright": "Confusion and contradiction. A bad influence stirs things up."
+      },
+      "image": "cards/sibilla/quadri_09.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "quadri_10",
+      "name": "Il Ladro",
+      "name_en": "The Thief",
+      "arcana": "oracle",
+      "number": 10,
+      "suit": "quadri",
+      "rank": "10",
+      "insert": "10♦",
+      "keywords": {
+        "upright": [
+          "theft",
+          "loss",
+          "dishonesty"
+        ]
+      },
+      "meaning": {
+        "upright": "Something is taken. Loss or dishonesty."
+      },
+      "image": "cards/sibilla/quadri_10.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "quadri_11",
+      "name": "Messaggiere",
+      "name_en": "The Messenger",
+      "arcana": "oracle",
+      "number": 11,
+      "suit": "quadri",
+      "rank": "J",
+      "insert": "J♦",
+      "keywords": {
+        "upright": [
+          "news",
+          "communication",
+          "a go-between"
+        ]
+      },
+      "meaning": {
+        "upright": "A messenger or go-between. News arrives."
+      },
+      "image": "cards/sibilla/quadri_11.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "quadri_12",
+      "name": "Donna Maritata",
+      "name_en": "The Married Woman",
+      "arcana": "oracle",
+      "number": 12,
+      "suit": "quadri",
+      "rank": "Q",
+      "insert": "Q♦",
+      "keywords": {
+        "upright": [
+          "a wife",
+          "a mother",
+          "maturity"
+        ]
+      },
+      "meaning": {
+        "upright": "A married woman, often a mother."
+      },
+      "image": "cards/sibilla/quadri_12.jpg",
+      "source_url": ""
+    },
+    {
+      "id": "quadri_13",
+      "name": "Mercante",
+      "name_en": "The Merchant",
+      "arcana": "oracle",
+      "number": 13,
+      "suit": "quadri",
+      "rank": "K",
+      "insert": "K♦",
+      "keywords": {
+        "upright": [
+          "work",
+          "career",
+          "business"
+        ]
+      },
+      "meaning": {
+        "upright": "A merchant or businessman. Work, career and finances."
+      },
+      "image": "cards/sibilla/quadri_13.jpg",
+      "source_url": ""
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "id": "geomancy",
+  "name": "Geomancy",
+  "short_name": "Geomancy",
+  "family": "Staves & signs",
+  "description": "The 16 figures of European geomancy. Read upright.",
+  "card_aspect": 0.62,
+  "color": 9203014,
+  "reversals": false,
+  "spreads": [
+    "single",
+    "three",
+    "line5"
+  ],
+  "suits": {},
+  "cards": [
+    {
+      "id": "geo_01",
+      "name": "Via",
+      "name_en": "The Way",
+      "arcana": "geomancy",
+      "number": 1,
+      "suit": null,
+      "rank": "1111",
+      "keywords": {
+        "upright": [
+          "journey",
+          "change",
+          "movement"
+        ]
+      },
+      "meaning": {
+        "upright": "The road. Things are in motion; good for travel and change, less so for staying put."
+      },
+      "image": "cards/geomancy/01.png",
+      "source_url": ""
+    },
+    {
+      "id": "geo_02",
+      "name": "Populus",
+      "name_en": "The People",
+      "arcana": "geomancy",
+      "number": 2,
+      "suit": null,
+      "rank": "2222",
+      "keywords": {
+        "upright": [
+          "crowds",
+          "the community",
+          "receptivity"
+        ]
+      },
+      "meaning": {
+        "upright": "The crowd. Outcomes depend on others; it takes on the colour of what's around it."
+      },
+      "image": "cards/geomancy/02.png",
+      "source_url": ""
+    },
+    {
+      "id": "geo_03",
+      "name": "Conjunctio",
+      "name_en": "Conjunction",
+      "arcana": "geomancy",
+      "number": 3,
+      "suit": null,
+      "rank": "2112",
+      "keywords": {
+        "upright": [
+          "meeting",
+          "combination",
+          "agreement"
+        ]
+      },
+      "meaning": {
+        "upright": "Two paths meet. Partnerships, deals and things coming together."
+      },
+      "image": "cards/geomancy/03.png",
+      "source_url": ""
+    },
+    {
+      "id": "geo_04",
+      "name": "Carcer",
+      "name_en": "The Prison",
+      "arcana": "geomancy",
+      "number": 4,
+      "suit": null,
+      "rank": "1221",
+      "keywords": {
+        "upright": [
+          "restriction",
+          "delay",
+          "stability"
+        ]
+      },
+      "meaning": {
+        "upright": "Walls on every side. Delay and restriction, or solid security, depending on the question."
+      },
+      "image": "cards/geomancy/04.png",
+      "source_url": ""
+    },
+    {
+      "id": "geo_05",
+      "name": "Fortuna Major",
+      "name_en": "Greater Fortune",
+      "arcana": "geomancy",
+      "number": 5,
+      "suit": null,
+      "rank": "2211",
+      "keywords": {
+        "upright": [
+          "great success",
+          "lasting luck"
+        ]
+      },
+      "meaning": {
+        "upright": "Great good fortune that you've earned. Lasting success."
+      },
+      "image": "cards/geomancy/05.png",
+      "source_url": ""
+    },
+    {
+      "id": "geo_06",
+      "name": "Fortuna Minor",
+      "name_en": "Lesser Fortune",
+      "arcana": "geomancy",
+      "number": 6,
+      "suit": null,
+      "rank": "1122",
+      "keywords": {
+        "upright": [
+          "quick luck",
+          "fleeting help"
+        ]
+      },
+      "meaning": {
+        "upright": "Help from outside that comes and goes fast. Use it quickly."
+      },
+      "image": "cards/geomancy/06.png",
+      "source_url": ""
+    },
+    {
+      "id": "geo_07",
+      "name": "Acquisitio",
+      "name_en": "Gain",
+      "arcana": "geomancy",
+      "number": 7,
+      "suit": null,
+      "rank": "2121",
+      "keywords": {
+        "upright": [
+          "gain",
+          "profit",
+          "acquiring"
+        ]
+      },
+      "meaning": {
+        "upright": "You gain what you seek. Very favourable for money and goals."
+      },
+      "image": "cards/geomancy/07.png",
+      "source_url": ""
+    },
+    {
+      "id": "geo_08",
+      "name": "Amissio",
+      "name_en": "Loss",
+      "arcana": "geomancy",
+      "number": 8,
+      "suit": null,
+      "rank": "1212",
+      "keywords": {
+        "upright": [
+          "loss",
+          "letting go",
+          "release"
+        ]
+      },
+      "meaning": {
+        "upright": "Something slips away. Bad for keeping things, good for getting rid of them."
+      },
+      "image": "cards/geomancy/08.png",
+      "source_url": ""
+    },
+    {
+      "id": "geo_09",
+      "name": "Laetitia",
+      "name_en": "Joy",
+      "arcana": "geomancy",
+      "number": 9,
+      "suit": null,
+      "rank": "1222",
+      "keywords": {
+        "upright": [
+          "happiness",
+          "health",
+          "uplift"
+        ]
+      },
+      "meaning": {
+        "upright": "Joy and good health. Spirits rise."
+      },
+      "image": "cards/geomancy/09.png",
+      "source_url": ""
+    },
+    {
+      "id": "geo_10",
+      "name": "Tristitia",
+      "name_en": "Sorrow",
+      "arcana": "geomancy",
+      "number": 10,
+      "suit": null,
+      "rank": "2221",
+      "keywords": {
+        "upright": [
+          "sadness",
+          "stability",
+          "depth"
+        ]
+      },
+      "meaning": {
+        "upright": "Sorrow, or things sinking. Good only for foundations and what should stay down."
+      },
+      "image": "cards/geomancy/10.png",
+      "source_url": ""
+    },
+    {
+      "id": "geo_11",
+      "name": "Puella",
+      "name_en": "The Girl",
+      "arcana": "geomancy",
+      "number": 11,
+      "suit": null,
+      "rank": "1211",
+      "keywords": {
+        "upright": [
+          "harmony",
+          "beauty",
+          "pleasantness"
+        ]
+      },
+      "meaning": {
+        "upright": "Grace and harmony. Pleasant, though sometimes fickle."
+      },
+      "image": "cards/geomancy/11.png",
+      "source_url": ""
+    },
+    {
+      "id": "geo_12",
+      "name": "Puer",
+      "name_en": "The Boy",
+      "arcana": "geomancy",
+      "number": 12,
+      "suit": null,
+      "rank": "1121",
+      "keywords": {
+        "upright": [
+          "energy",
+          "aggression",
+          "boldness"
+        ]
+      },
+      "meaning": {
+        "upright": "Rash energy and a fighting spirit. Good for contests, poor for peace."
+      },
+      "image": "cards/geomancy/12.png",
+      "source_url": ""
+    },
+    {
+      "id": "geo_13",
+      "name": "Rubeus",
+      "name_en": "Red",
+      "arcana": "geomancy",
+      "number": 13,
+      "suit": null,
+      "rank": "2122",
+      "keywords": {
+        "upright": [
+          "passion",
+          "anger",
+          "danger"
+        ]
+      },
+      "meaning": {
+        "upright": "Red passion. Strong emotions and danger; be careful."
+      },
+      "image": "cards/geomancy/13.png",
+      "source_url": ""
+    },
+    {
+      "id": "geo_14",
+      "name": "Albus",
+      "name_en": "White",
+      "arcana": "geomancy",
+      "number": 14,
+      "suit": null,
+      "rank": "2212",
+      "keywords": {
+        "upright": [
+          "peace",
+          "wisdom",
+          "clarity"
+        ]
+      },
+      "meaning": {
+        "upright": "White: calm, clear thinking and good counsel."
+      },
+      "image": "cards/geomancy/14.png",
+      "source_url": ""
+    },
+    {
+      "id": "geo_15",
+      "name": "Caput Draconis",
+      "name_en": "Dragon's Head",
+      "arcana": "geomancy",
+      "number": 15,
+      "suit": null,
+      "rank": "2111",
+      "keywords": {
+        "upright": [
+          "beginnings",
+          "entrance",
+          "doorway"
+        ]
+      },
+      "meaning": {
+        "upright": "The dragon's head: a beginning. Favourable for starting things."
+      },
+      "image": "cards/geomancy/15.png",
+      "source_url": ""
+    },
+    {
+      "id": "geo_16",
+      "name": "Cauda Draconis",
+      "name_en": "Dragon's Tail",
+      "arcana": "geomancy",
+      "number": 16,
+      "suit": null,
+      "rank": "1112",
+      "keywords": {
+        "upright": [
+          "endings",
+          "exit",
+          "release"
+        ]
+      },
+      "meaning": {
+        "upright": "The dragon's tail: an ending. Good for finishing, poor for beginning."
+      },
+      "image": "cards/geomancy/16.png",
+      "source_url": ""
+    }
+  ]
+}

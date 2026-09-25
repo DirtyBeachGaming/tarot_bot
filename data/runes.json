@@ -1,0 +1,610 @@
+{
+  "id": "runes",
+  "name": "Elder Futhark Runes",
+  "short_name": "Runes",
+  "family": "Runes",
+  "description": "The 24 runes of the Elder Futhark. Symmetrical runes can't be reversed; the rest can come up merkstave.",
+  "card_aspect": 0.72,
+  "color": 6067213,
+  "spreads": [
+    "single",
+    "norns",
+    "line5"
+  ],
+  "suits": {},
+  "cards": [
+    {
+      "id": "rune_01",
+      "name": "Fehu ᚠ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 1,
+      "suit": null,
+      "rank": "Fehu",
+      "keywords": {
+        "upright": [
+          "cattle",
+          "wealth",
+          "earned prosperity"
+        ],
+        "reversed": [
+          "loss",
+          "greed",
+          "slipping money"
+        ]
+      },
+      "meaning": {
+        "upright": "Wealth that moves: earnings, resources, what you've worked for.",
+        "reversed": "Money or energy draining away. Guard what you have."
+      },
+      "image": "cards/runes/01.png",
+      "source_url": ""
+    },
+    {
+      "id": "rune_02",
+      "name": "Uruz ᚢ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 2,
+      "suit": null,
+      "rank": "Uruz",
+      "keywords": {
+        "upright": [
+          "strength",
+          "health",
+          "raw vitality"
+        ],
+        "reversed": [
+          "weakness",
+          "missed chance"
+        ]
+      },
+      "meaning": {
+        "upright": "Wild strength and good health. Take on the challenge.",
+        "reversed": "Energy is low or misdirected. Don't force it."
+      },
+      "image": "cards/runes/02.png",
+      "source_url": ""
+    },
+    {
+      "id": "rune_03",
+      "name": "Thurisaz ᚦ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 3,
+      "suit": null,
+      "rank": "Thurisaz",
+      "keywords": {
+        "upright": [
+          "force",
+          "defence",
+          "a thorn"
+        ],
+        "reversed": [
+          "danger",
+          "impulsiveness",
+          "spite"
+        ]
+      },
+      "meaning": {
+        "upright": "A thorn that protects. A forceful moment; act deliberately.",
+        "reversed": "Reckless force or spite. Wait before striking."
+      },
+      "image": "cards/runes/03.png",
+      "source_url": ""
+    },
+    {
+      "id": "rune_04",
+      "name": "Ansuz ᚨ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 4,
+      "suit": null,
+      "rank": "Ansuz",
+      "keywords": {
+        "upright": [
+          "words",
+          "wisdom",
+          "signals"
+        ],
+        "reversed": [
+          "misunderstanding",
+          "bad advice"
+        ]
+      },
+      "meaning": {
+        "upright": "A message or insight. Listen closely; words carry power.",
+        "reversed": "Crossed wires or bad advice. Check your sources."
+      },
+      "image": "cards/runes/04.png",
+      "source_url": ""
+    },
+    {
+      "id": "rune_05",
+      "name": "Raidho ᚱ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 5,
+      "suit": null,
+      "rank": "Raidho",
+      "keywords": {
+        "upright": [
+          "journey",
+          "rhythm",
+          "right action"
+        ],
+        "reversed": [
+          "delay",
+          "a wrong turn"
+        ]
+      },
+      "meaning": {
+        "upright": "A journey, or things falling into the right rhythm.",
+        "reversed": "Plans stall or go off course. Re-route."
+      },
+      "image": "cards/runes/05.png",
+      "source_url": ""
+    },
+    {
+      "id": "rune_06",
+      "name": "Kenaz ᚲ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 6,
+      "suit": null,
+      "rank": "Kenaz",
+      "keywords": {
+        "upright": [
+          "torch",
+          "insight",
+          "creativity"
+        ],
+        "reversed": [
+          "blocked vision",
+          "a creative slump"
+        ]
+      },
+      "meaning": {
+        "upright": "A torch in the dark. Clarity, craft and inspiration.",
+        "reversed": "The light dims. Something is hidden from you, or you're stuck."
+      },
+      "image": "cards/runes/06.png",
+      "source_url": ""
+    },
+    {
+      "id": "rune_07",
+      "name": "Gebo ᚷ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 7,
+      "suit": null,
+      "rank": "Gebo",
+      "keywords": {
+        "upright": [
+          "gift",
+          "exchange",
+          "partnership"
+        ]
+      },
+      "meaning": {
+        "upright": "A gift given and returned. Balance in a relationship or deal."
+      },
+      "image": "cards/runes/07.png",
+      "source_url": "",
+      "reversible": false
+    },
+    {
+      "id": "rune_08",
+      "name": "Wunjo ᚹ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 8,
+      "suit": null,
+      "rank": "Wunjo",
+      "keywords": {
+        "upright": [
+          "joy",
+          "harmony",
+          "belonging"
+        ],
+        "reversed": [
+          "sorrow",
+          "alienation"
+        ]
+      },
+      "meaning": {
+        "upright": "Joy and fellowship. Things are right with your people.",
+        "reversed": "Discontent or feeling left out."
+      },
+      "image": "cards/runes/08.png",
+      "source_url": ""
+    },
+    {
+      "id": "rune_09",
+      "name": "Hagalaz ᚺ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 9,
+      "suit": null,
+      "rank": "Hagalaz",
+      "keywords": {
+        "upright": [
+          "hail",
+          "disruption",
+          "forces beyond control"
+        ]
+      },
+      "meaning": {
+        "upright": "Hail falls: sudden disruption you didn't cause. It clears the ground."
+      },
+      "image": "cards/runes/09.png",
+      "source_url": "",
+      "reversible": false
+    },
+    {
+      "id": "rune_10",
+      "name": "Nauthiz ᚾ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 10,
+      "suit": null,
+      "rank": "Nauthiz",
+      "keywords": {
+        "upright": [
+          "need",
+          "constraint",
+          "endurance"
+        ]
+      },
+      "meaning": {
+        "upright": "Need and hardship. Endure it; necessity teaches."
+      },
+      "image": "cards/runes/10.png",
+      "source_url": "",
+      "reversible": false
+    },
+    {
+      "id": "rune_11",
+      "name": "Isa ᛁ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 11,
+      "suit": null,
+      "rank": "Isa",
+      "keywords": {
+        "upright": [
+          "ice",
+          "stillness",
+          "pause"
+        ]
+      },
+      "meaning": {
+        "upright": "Everything freezes. Wait; now isn't the time to push."
+      },
+      "image": "cards/runes/11.png",
+      "source_url": "",
+      "reversible": false
+    },
+    {
+      "id": "rune_12",
+      "name": "Jera ᛃ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 12,
+      "suit": null,
+      "rank": "Jera",
+      "keywords": {
+        "upright": [
+          "harvest",
+          "a year's reward",
+          "cycles"
+        ]
+      },
+      "meaning": {
+        "upright": "The harvest comes in its season. Patience is rewarded."
+      },
+      "image": "cards/runes/12.png",
+      "source_url": "",
+      "reversible": false
+    },
+    {
+      "id": "rune_13",
+      "name": "Eihwaz ᛇ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 13,
+      "suit": null,
+      "rank": "Eihwaz",
+      "keywords": {
+        "upright": [
+          "yew",
+          "endurance",
+          "transformation"
+        ]
+      },
+      "meaning": {
+        "upright": "The yew endures. Steadfastness through change."
+      },
+      "image": "cards/runes/13.png",
+      "source_url": "",
+      "reversible": false
+    },
+    {
+      "id": "rune_14",
+      "name": "Perthro ᛈ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 14,
+      "suit": null,
+      "rank": "Perthro",
+      "keywords": {
+        "upright": [
+          "mystery",
+          "chance",
+          "fate"
+        ],
+        "reversed": [
+          "secrets kept",
+          "stagnation"
+        ]
+      },
+      "meaning": {
+        "upright": "The dice cup: chance, fate and hidden things.",
+        "reversed": "What's hidden stays hidden, or luck turns sour."
+      },
+      "image": "cards/runes/14.png",
+      "source_url": ""
+    },
+    {
+      "id": "rune_15",
+      "name": "Algiz ᛉ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 15,
+      "suit": null,
+      "rank": "Algiz",
+      "keywords": {
+        "upright": [
+          "protection",
+          "sanctuary",
+          "instinct"
+        ],
+        "reversed": [
+          "vulnerability",
+          "a warning"
+        ]
+      },
+      "meaning": {
+        "upright": "A raised hand of protection. Trust your instincts; you're shielded.",
+        "reversed": "Your guard is down. Heed the warning."
+      },
+      "image": "cards/runes/15.png",
+      "source_url": ""
+    },
+    {
+      "id": "rune_16",
+      "name": "Sowilo ᛊ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 16,
+      "suit": null,
+      "rank": "Sowilo",
+      "keywords": {
+        "upright": [
+          "sun",
+          "success",
+          "vitality"
+        ]
+      },
+      "meaning": {
+        "upright": "The sun: success, clarity and life force."
+      },
+      "image": "cards/runes/16.png",
+      "source_url": "",
+      "reversible": false
+    },
+    {
+      "id": "rune_17",
+      "name": "Tiwaz ᛏ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 17,
+      "suit": null,
+      "rank": "Tiwaz",
+      "keywords": {
+        "upright": [
+          "honour",
+          "justice",
+          "courage"
+        ],
+        "reversed": [
+          "injustice",
+          "cowardice",
+          "defeat"
+        ]
+      },
+      "meaning": {
+        "upright": "The warrior's rune. Act with honour and win fairly.",
+        "reversed": "Courage fails, or a fight isn't fair."
+      },
+      "image": "cards/runes/17.png",
+      "source_url": ""
+    },
+    {
+      "id": "rune_18",
+      "name": "Berkano ᛒ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 18,
+      "suit": null,
+      "rank": "Berkano",
+      "keywords": {
+        "upright": [
+          "birch",
+          "birth",
+          "growth",
+          "care"
+        ],
+        "reversed": [
+          "stagnation",
+          "family trouble"
+        ]
+      },
+      "meaning": {
+        "upright": "New growth and nurturing. A beginning that needs care.",
+        "reversed": "Growth is blocked or home life is strained."
+      },
+      "image": "cards/runes/18.png",
+      "source_url": ""
+    },
+    {
+      "id": "rune_19",
+      "name": "Ehwaz ᛖ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 19,
+      "suit": null,
+      "rank": "Ehwaz",
+      "keywords": {
+        "upright": [
+          "horse",
+          "teamwork",
+          "progress"
+        ],
+        "reversed": [
+          "restlessness",
+          "mistrust"
+        ]
+      },
+      "meaning": {
+        "upright": "Horse and rider working together. Steady progress with a partner.",
+        "reversed": "Partners pulling apart. Restlessness."
+      },
+      "image": "cards/runes/19.png",
+      "source_url": ""
+    },
+    {
+      "id": "rune_20",
+      "name": "Mannaz ᛗ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 20,
+      "suit": null,
+      "rank": "Mannaz",
+      "keywords": {
+        "upright": [
+          "humanity",
+          "the self",
+          "community"
+        ],
+        "reversed": [
+          "isolation",
+          "self-deception"
+        ]
+      },
+      "meaning": {
+        "upright": "You among others. Know yourself and your place in the group.",
+        "reversed": "Cut off from others, or not seeing yourself clearly."
+      },
+      "image": "cards/runes/20.png",
+      "source_url": ""
+    },
+    {
+      "id": "rune_21",
+      "name": "Laguz ᛚ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 21,
+      "suit": null,
+      "rank": "Laguz",
+      "keywords": {
+        "upright": [
+          "water",
+          "flow",
+          "intuition"
+        ],
+        "reversed": [
+          "confusion",
+          "fear",
+          "poor judgment"
+        ]
+      },
+      "meaning": {
+        "upright": "Water flows. Follow intuition and go with the current.",
+        "reversed": "Muddy waters. Emotions cloud judgment."
+      },
+      "image": "cards/runes/21.png",
+      "source_url": ""
+    },
+    {
+      "id": "rune_22",
+      "name": "Ingwaz ᛜ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 22,
+      "suit": null,
+      "rank": "Ingwaz",
+      "keywords": {
+        "upright": [
+          "seed",
+          "gestation",
+          "completion"
+        ]
+      },
+      "meaning": {
+        "upright": "A seed completes its growth. Rest, then a new phase begins."
+      },
+      "image": "cards/runes/22.png",
+      "source_url": "",
+      "reversible": false
+    },
+    {
+      "id": "rune_23",
+      "name": "Dagaz ᛞ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 23,
+      "suit": null,
+      "rank": "Dagaz",
+      "keywords": {
+        "upright": [
+          "dawn",
+          "breakthrough",
+          "awakening"
+        ]
+      },
+      "meaning": {
+        "upright": "Daybreak. A breakthrough and a clear new day."
+      },
+      "image": "cards/runes/23.png",
+      "source_url": "",
+      "reversible": false
+    },
+    {
+      "id": "rune_24",
+      "name": "Othala ᛟ",
+      "name_en": null,
+      "arcana": "rune",
+      "number": 24,
+      "suit": null,
+      "rank": "Othala",
+      "keywords": {
+        "upright": [
+          "heritage",
+          "home",
+          "inheritance"
+        ],
+        "reversed": [
+          "loss of roots",
+          "prejudice"
+        ]
+      },
+      "meaning": {
+        "upright": "Ancestral ground: home, heritage and what's passed down.",
+        "reversed": "Cut off from roots, or clinging to the past."
+      },
+      "image": "cards/runes/24.png",
+      "source_url": ""
+    }
+  ]
+}
