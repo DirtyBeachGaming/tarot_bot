@@ -4,7 +4,7 @@
   "short_name": "Trevisane",
   "family": "Italian regional",
   "description": "From Treviso and the Veneto. 40 cards. Meanings follow Italian cartomancy (shared with the Napoletane). Double-headed, so read without reversals.",
-  "card_aspect": 0.55,
+  "card_aspect": 0.494,
   "reversals": false,
   "spreads": [
     "single",
@@ -60,7 +60,7 @@
         "reversed": "Money is slow to arrive, or an opportunity is undervalued."
       },
       "image": "cards/trevisane/denari_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(059_of_104).jpg"
     },
     {
       "id": "denari_02",
@@ -86,7 +86,7 @@
         "reversed": "One side gets the better of the bargain."
       },
       "image": "cards/trevisane/denari_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(061_of_104).jpg"
     },
     {
       "id": "denari_03",
@@ -112,7 +112,7 @@
         "reversed": "Returns are smaller than hoped."
       },
       "image": "cards/trevisane/denari_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(063_of_104).jpg"
     },
     {
       "id": "denari_04",
@@ -138,7 +138,7 @@
         "reversed": "Holding money so tightly it can't work for you."
       },
       "image": "cards/trevisane/denari_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(065_of_104).jpg"
     },
     {
       "id": "denari_05",
@@ -164,7 +164,7 @@
         "reversed": "The worst of the expense has passed."
       },
       "image": "cards/trevisane/denari_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(067_of_104).jpg"
     },
     {
       "id": "denari_06",
@@ -190,7 +190,7 @@
         "reversed": "A favour that comes with a price."
       },
       "image": "cards/trevisane/denari_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(069_of_104).jpg"
     },
     {
       "id": "denari_07",
@@ -216,7 +216,7 @@
         "reversed": "Luck is there but slips through greedy fingers."
       },
       "image": "cards/trevisane/denari_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(071_of_104).jpg"
     },
     {
       "id": "denari_08",
@@ -242,7 +242,7 @@
         "reversed": "Unreliable messages or careless spending."
       },
       "image": "cards/trevisane/denari_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(057_of_104).jpg"
     },
     {
       "id": "denari_09",
@@ -268,7 +268,7 @@
         "reversed": "The deal stalls on the road."
       },
       "image": "cards/trevisane/denari_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(055_of_104).jpg"
     },
     {
       "id": "denari_10",
@@ -294,7 +294,7 @@
         "reversed": "Wealth used to control, or a stingy authority."
       },
       "image": "cards/trevisane/denari_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(053_of_104).jpg"
     },
     {
       "id": "coppe_01",
@@ -321,7 +321,7 @@
         "reversed": "Coldness at home, or feelings held back."
       },
       "image": "cards/trevisane/coppe_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(007_of_104).jpg"
     },
     {
       "id": "coppe_02",
@@ -347,7 +347,7 @@
         "reversed": "A rift between two people."
       },
       "image": "cards/trevisane/coppe_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(009_of_104).jpg"
     },
     {
       "id": "coppe_03",
@@ -373,7 +373,7 @@
         "reversed": "Too much wine and loose talk."
       },
       "image": "cards/trevisane/coppe_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(011_of_104).jpg"
     },
     {
       "id": "coppe_04",
@@ -399,7 +399,7 @@
         "reversed": "Comfort has turned into boredom."
       },
       "image": "cards/trevisane/coppe_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(013_of_104).jpg"
     },
     {
       "id": "coppe_05",
@@ -425,7 +425,7 @@
         "reversed": "Consolation comes and the heart starts to mend."
       },
       "image": "cards/trevisane/coppe_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(015_of_104).jpg"
     },
     {
       "id": "coppe_06",
@@ -451,7 +451,7 @@
         "reversed": "Living in yesterday."
       },
       "image": "cards/trevisane/coppe_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(017_of_104).jpg"
     },
     {
       "id": "coppe_07",
@@ -477,7 +477,7 @@
         "reversed": "Desire clouds judgment. Beware jealousy."
       },
       "image": "cards/trevisane/coppe_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(019_of_104).jpg"
     },
     {
       "id": "coppe_08",
@@ -503,7 +503,7 @@
         "reversed": "Charm that doesn't last."
       },
       "image": "cards/trevisane/coppe_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(005_of_104).jpg"
     },
     {
       "id": "coppe_09",
@@ -529,7 +529,7 @@
         "reversed": "Someone rides away, or a promise isn't kept."
       },
       "image": "cards/trevisane/coppe_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(003_of_104).jpg"
     },
     {
       "id": "coppe_10",
@@ -555,7 +555,7 @@
         "reversed": "Affection turned possessive or moody."
       },
       "image": "cards/trevisane/coppe_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(001_of_104).jpg"
     },
     {
       "id": "spade_01",
@@ -582,7 +582,7 @@
         "reversed": "A blow or hard news. Words that wound."
       },
       "image": "cards/trevisane/spade_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(085_of_104).jpg"
     },
     {
       "id": "spade_02",
@@ -608,7 +608,7 @@
         "reversed": "The standoff eases into a truce."
       },
       "image": "cards/trevisane/spade_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(087_of_104).jpg"
     },
     {
       "id": "spade_03",
@@ -634,7 +634,7 @@
         "reversed": "The sting fades and forgiveness becomes possible."
       },
       "image": "cards/trevisane/spade_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(089_of_104).jpg"
     },
     {
       "id": "spade_04",
@@ -660,7 +660,7 @@
         "reversed": "Unable to rest; the strain lingers."
       },
       "image": "cards/trevisane/spade_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(091_of_104).jpg"
     },
     {
       "id": "spade_05",
@@ -686,7 +686,7 @@
         "reversed": "Making peace after the quarrel."
       },
       "image": "cards/trevisane/spade_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(093_of_104).jpg"
     },
     {
       "id": "spade_06",
@@ -711,7 +711,7 @@
         "reversed": "Trying to leave but held back."
       },
       "image": "cards/trevisane/spade_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(095_of_104).jpg"
     },
     {
       "id": "spade_07",
@@ -736,7 +736,7 @@
         "reversed": "The deception is exposed."
       },
       "image": "cards/trevisane/spade_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(097_of_104).jpg"
     },
     {
       "id": "spade_08",
@@ -762,7 +762,7 @@
         "reversed": "Malicious talk. Don't take the bait."
       },
       "image": "cards/trevisane/spade_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(083_of_104).jpg"
     },
     {
       "id": "spade_09",
@@ -788,7 +788,7 @@
         "reversed": "Haste causes harm. Slow down."
       },
       "image": "cards/trevisane/spade_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(081_of_104).jpg"
     },
     {
       "id": "spade_10",
@@ -814,7 +814,7 @@
         "reversed": "Authority that is harsh or unjust."
       },
       "image": "cards/trevisane/spade_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(079_of_104).jpg"
     },
     {
       "id": "bastoni_01",
@@ -840,7 +840,7 @@
         "reversed": "Plans that won't take root."
       },
       "image": "cards/trevisane/bastoni_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(033_of_104).jpg"
     },
     {
       "id": "bastoni_02",
@@ -866,7 +866,7 @@
         "reversed": "Hesitation wastes the moment."
       },
       "image": "cards/trevisane/bastoni_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(035_of_104).jpg"
     },
     {
       "id": "bastoni_03",
@@ -892,7 +892,7 @@
         "reversed": "Delays in plans or deliveries."
       },
       "image": "cards/trevisane/bastoni_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(037_of_104).jpg"
     },
     {
       "id": "bastoni_04",
@@ -918,7 +918,7 @@
         "reversed": "Things feel unsettled."
       },
       "image": "cards/trevisane/bastoni_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(039_of_104).jpg"
     },
     {
       "id": "bastoni_05",
@@ -944,7 +944,7 @@
         "reversed": "The dispute resolves or is avoided."
       },
       "image": "cards/trevisane/bastoni_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(041_of_104).jpg"
     },
     {
       "id": "bastoni_06",
@@ -970,7 +970,7 @@
         "reversed": "Success delayed, or spoiled by pride."
       },
       "image": "cards/trevisane/bastoni_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(043_of_104).jpg"
     },
     {
       "id": "bastoni_07",
@@ -996,7 +996,7 @@
         "reversed": "Worn out. Know when to yield."
       },
       "image": "cards/trevisane/bastoni_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(045_of_104).jpg"
     },
     {
       "id": "bastoni_08",
@@ -1022,7 +1022,7 @@
         "reversed": "Messages delayed, tasks left undone."
       },
       "image": "cards/trevisane/bastoni_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(031_of_104).jpg"
     },
     {
       "id": "bastoni_09",
@@ -1048,7 +1048,7 @@
         "reversed": "A trip postponed, or a move that goes wrong."
       },
       "image": "cards/trevisane/bastoni_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(029_of_104).jpg"
     },
     {
       "id": "bastoni_10",
@@ -1074,7 +1074,8 @@
         "reversed": "Stubbornness, or a heavy hand."
       },
       "image": "cards/trevisane/bastoni_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Jeu_de_cartes_au_portrait_v%C3%A9nitien_%C3%A0_deux_t%C3%AAtes_-_jeu_de_cartes,_estampe_-_btv1b10520246r_(027_of_104).jpg"
     }
-  ]
+  ],
+  "credit": "Venetian (Trevisane) pattern, Bibliothèque nationale de France (Gallica). Public domain."
 }

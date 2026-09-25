@@ -4,7 +4,7 @@
   "short_name": "Piacentine",
   "family": "Italian regional",
   "description": "From Piacenza; the most widely used pattern in northern and central Italy. 40 cards. Meanings follow Italian cartomancy (shared with the Napoletane).",
-  "card_aspect": 0.56,
+  "card_aspect": 0.645,
   "reversals": true,
   "spreads": [
     "single",
@@ -60,7 +60,7 @@
         "reversed": "Money is slow to arrive, or an opportunity is undervalued."
       },
       "image": "cards/piacentine/denari_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(07_of_80).jpg"
     },
     {
       "id": "denari_02",
@@ -86,7 +86,7 @@
         "reversed": "One side gets the better of the bargain."
       },
       "image": "cards/piacentine/denari_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(09_of_80).jpg"
     },
     {
       "id": "denari_03",
@@ -112,7 +112,7 @@
         "reversed": "Returns are smaller than hoped."
       },
       "image": "cards/piacentine/denari_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(11_of_80).jpg"
     },
     {
       "id": "denari_04",
@@ -138,7 +138,7 @@
         "reversed": "Holding money so tightly it can't work for you."
       },
       "image": "cards/piacentine/denari_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(13_of_80).jpg"
     },
     {
       "id": "denari_05",
@@ -164,7 +164,7 @@
         "reversed": "The worst of the expense has passed."
       },
       "image": "cards/piacentine/denari_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(15_of_80).jpg"
     },
     {
       "id": "denari_06",
@@ -190,7 +190,7 @@
         "reversed": "A favour that comes with a price."
       },
       "image": "cards/piacentine/denari_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(17_of_80).jpg"
     },
     {
       "id": "denari_07",
@@ -216,7 +216,7 @@
         "reversed": "Luck is there but slips through greedy fingers."
       },
       "image": "cards/piacentine/denari_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(19_of_80).jpg"
     },
     {
       "id": "denari_08",
@@ -242,7 +242,7 @@
         "reversed": "Unreliable messages or careless spending."
       },
       "image": "cards/piacentine/denari_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(03_of_80).jpg"
     },
     {
       "id": "denari_09",
@@ -268,7 +268,7 @@
         "reversed": "The deal stalls on the road."
       },
       "image": "cards/piacentine/denari_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(05_of_80).jpg"
     },
     {
       "id": "denari_10",
@@ -294,7 +294,7 @@
         "reversed": "Wealth used to control, or a stingy authority."
       },
       "image": "cards/piacentine/denari_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(01_of_80).jpg"
     },
     {
       "id": "coppe_01",
@@ -321,7 +321,7 @@
         "reversed": "Coldness at home, or feelings held back."
       },
       "image": "cards/piacentine/coppe_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(67_of_80).jpg"
     },
     {
       "id": "coppe_02",
@@ -347,7 +347,7 @@
         "reversed": "A rift between two people."
       },
       "image": "cards/piacentine/coppe_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(69_of_80).jpg"
     },
     {
       "id": "coppe_03",
@@ -373,7 +373,7 @@
         "reversed": "Too much wine and loose talk."
       },
       "image": "cards/piacentine/coppe_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(71_of_80).jpg"
     },
     {
       "id": "coppe_04",
@@ -399,7 +399,7 @@
         "reversed": "Comfort has turned into boredom."
       },
       "image": "cards/piacentine/coppe_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(73_of_80).jpg"
     },
     {
       "id": "coppe_05",
@@ -425,7 +425,7 @@
         "reversed": "Consolation comes and the heart starts to mend."
       },
       "image": "cards/piacentine/coppe_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(75_of_80).jpg"
     },
     {
       "id": "coppe_06",
@@ -451,7 +451,7 @@
         "reversed": "Living in yesterday."
       },
       "image": "cards/piacentine/coppe_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(77_of_80).jpg"
     },
     {
       "id": "coppe_07",
@@ -477,7 +477,7 @@
         "reversed": "Desire clouds judgment. Beware jealousy."
       },
       "image": "cards/piacentine/coppe_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(79_of_80).jpg"
     },
     {
       "id": "coppe_08",
@@ -503,7 +503,7 @@
         "reversed": "Charm that doesn't last."
       },
       "image": "cards/piacentine/coppe_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(63_of_80).jpg"
     },
     {
       "id": "coppe_09",
@@ -529,7 +529,7 @@
         "reversed": "Someone rides away, or a promise isn't kept."
       },
       "image": "cards/piacentine/coppe_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(65_of_80).jpg"
     },
     {
       "id": "coppe_10",
@@ -555,7 +555,7 @@
         "reversed": "Affection turned possessive or moody."
       },
       "image": "cards/piacentine/coppe_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(61_of_80).jpg"
     },
     {
       "id": "spade_01",
@@ -582,7 +582,7 @@
         "reversed": "A blow or hard news. Words that wound."
       },
       "image": "cards/piacentine/spade_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(47_of_80).jpg"
     },
     {
       "id": "spade_02",
@@ -608,7 +608,7 @@
         "reversed": "The standoff eases into a truce."
       },
       "image": "cards/piacentine/spade_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(49_of_80).jpg"
     },
     {
       "id": "spade_03",
@@ -634,7 +634,7 @@
         "reversed": "The sting fades and forgiveness becomes possible."
       },
       "image": "cards/piacentine/spade_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(51_of_80).jpg"
     },
     {
       "id": "spade_04",
@@ -660,7 +660,7 @@
         "reversed": "Unable to rest; the strain lingers."
       },
       "image": "cards/piacentine/spade_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(53_of_80).jpg"
     },
     {
       "id": "spade_05",
@@ -686,7 +686,7 @@
         "reversed": "Making peace after the quarrel."
       },
       "image": "cards/piacentine/spade_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(55_of_80).jpg"
     },
     {
       "id": "spade_06",
@@ -711,7 +711,7 @@
         "reversed": "Trying to leave but held back."
       },
       "image": "cards/piacentine/spade_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(57_of_80).jpg"
     },
     {
       "id": "spade_07",
@@ -736,7 +736,7 @@
         "reversed": "The deception is exposed."
       },
       "image": "cards/piacentine/spade_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(59_of_80).jpg"
     },
     {
       "id": "spade_08",
@@ -762,7 +762,7 @@
         "reversed": "Malicious talk. Don't take the bait."
       },
       "image": "cards/piacentine/spade_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(43_of_80).jpg"
     },
     {
       "id": "spade_09",
@@ -788,7 +788,7 @@
         "reversed": "Haste causes harm. Slow down."
       },
       "image": "cards/piacentine/spade_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(45_of_80).jpg"
     },
     {
       "id": "spade_10",
@@ -814,7 +814,7 @@
         "reversed": "Authority that is harsh or unjust."
       },
       "image": "cards/piacentine/spade_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(41_of_80).jpg"
     },
     {
       "id": "bastoni_01",
@@ -840,7 +840,7 @@
         "reversed": "Plans that won't take root."
       },
       "image": "cards/piacentine/bastoni_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(27_of_80).jpg"
     },
     {
       "id": "bastoni_02",
@@ -866,7 +866,7 @@
         "reversed": "Hesitation wastes the moment."
       },
       "image": "cards/piacentine/bastoni_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(29_of_80).jpg"
     },
     {
       "id": "bastoni_03",
@@ -892,7 +892,7 @@
         "reversed": "Delays in plans or deliveries."
       },
       "image": "cards/piacentine/bastoni_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(31_of_80).jpg"
     },
     {
       "id": "bastoni_04",
@@ -918,7 +918,7 @@
         "reversed": "Things feel unsettled."
       },
       "image": "cards/piacentine/bastoni_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(33_of_80).jpg"
     },
     {
       "id": "bastoni_05",
@@ -944,7 +944,7 @@
         "reversed": "The dispute resolves or is avoided."
       },
       "image": "cards/piacentine/bastoni_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(35_of_80).jpg"
     },
     {
       "id": "bastoni_06",
@@ -970,7 +970,7 @@
         "reversed": "Success delayed, or spoiled by pride."
       },
       "image": "cards/piacentine/bastoni_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(37_of_80).jpg"
     },
     {
       "id": "bastoni_07",
@@ -996,7 +996,7 @@
         "reversed": "Worn out. Know when to yield."
       },
       "image": "cards/piacentine/bastoni_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(39_of_80).jpg"
     },
     {
       "id": "bastoni_08",
@@ -1022,7 +1022,7 @@
         "reversed": "Messages delayed, tasks left undone."
       },
       "image": "cards/piacentine/bastoni_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(25_of_80).jpg"
     },
     {
       "id": "bastoni_09",
@@ -1048,7 +1048,7 @@
         "reversed": "A trip postponed, or a move that goes wrong."
       },
       "image": "cards/piacentine/bastoni_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(23_of_80).jpg"
     },
     {
       "id": "bastoni_10",
@@ -1074,7 +1074,8 @@
         "reversed": "Stubbornness, or a heavy hand."
       },
       "image": "cards/piacentine/bastoni_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Jeu_de_cartes_%C3%A0_enseignes_italiennes_-_estampe_-_btv1b10535064z_(21_of_80).jpg"
     }
-  ]
+  ],
+  "credit": "Piacentine-type deck by Fabbrica Nazionale, Bologna, Bibliothèque nationale de France (Gallica). Public domain."
 }

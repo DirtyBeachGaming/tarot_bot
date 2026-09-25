@@ -4,7 +4,7 @@
   "short_name": "Lenormand",
   "family": "Oracle",
   "description": "The 36-card Petit Lenormand, descended from Hechtel's 'Spiel der Hoffnung' (c. 1799). Read in combinations, without reversals.",
-  "card_aspect": 0.634,
+  "card_aspect": 0.614,
   "color": 9203014,
   "reversals": false,
   "spreads": [
@@ -34,8 +34,8 @@
       "meaning": {
         "upright": "News or a visitor is on the way. Things move quickly; something comes to you."
       },
-      "image": "cards/lenormand/01.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(01_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_01.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(01_of_72).jpg"
     },
     {
       "id": "len_02",
@@ -56,8 +56,8 @@
       "meaning": {
         "upright": "A small stroke of luck or a short-lived opportunity. Take it while it's there."
       },
-      "image": "cards/lenormand/02.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(03_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_02.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(03_of_72).jpg"
     },
     {
       "id": "len_03",
@@ -78,8 +78,8 @@
       "meaning": {
         "upright": "A journey, a move or dealings from afar. Also longing for something distant."
       },
-      "image": "cards/lenormand/03.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(05_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_03.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(05_of_72).jpg"
     },
     {
       "id": "len_04",
@@ -100,8 +100,8 @@
       "meaning": {
         "upright": "Home, family and the private sphere. Security and what you've built."
       },
-      "image": "cards/lenormand/04.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(07_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_04.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(07_of_72).jpg"
     },
     {
       "id": "len_05",
@@ -122,8 +122,8 @@
       "meaning": {
         "upright": "Health and slow, steady growth. Deep roots; things that take time."
       },
-      "image": "cards/lenormand/05.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(09_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_05.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(09_of_72).jpg"
     },
     {
       "id": "len_06",
@@ -143,8 +143,8 @@
       "meaning": {
         "upright": "Uncertainty and mixed signals. Wait for the air to clear before deciding."
       },
-      "image": "cards/lenormand/06.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(11_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_06.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(11_of_72).jpg"
     },
     {
       "id": "len_07",
@@ -165,8 +165,8 @@
       "meaning": {
         "upright": "Complications, a winding path, or a clever and possibly jealous woman."
       },
-      "image": "cards/lenormand/07.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(13_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_07.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(13_of_72).jpg"
     },
     {
       "id": "len_08",
@@ -187,8 +187,8 @@
       "meaning": {
         "upright": "Something ends or needs to be laid to rest. Clearing space for what's next."
       },
-      "image": "cards/lenormand/08.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(15_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_08.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(15_of_72).jpg"
     },
     {
       "id": "len_09",
@@ -209,8 +209,8 @@
       "meaning": {
         "upright": "A gift, a compliment or a pleasant invitation. Beauty and goodwill."
       },
-      "image": "cards/lenormand/09.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(17_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_09.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(17_of_72).jpg"
     },
     {
       "id": "len_10",
@@ -231,8 +231,8 @@
       "meaning": {
         "upright": "A sudden decision or clean cut. Quick, sharp and final; handle with care."
       },
-      "image": "cards/lenormand/10.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(19_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_10.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(19_of_72).jpg"
     },
     {
       "id": "len_11",
@@ -253,8 +253,8 @@
       "meaning": {
         "upright": "Arguments, tension or something repeating. Also discipline and exercise."
       },
-      "image": "cards/lenormand/11.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(21_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_11.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(21_of_72).jpg"
     },
     {
       "id": "len_12",
@@ -275,8 +275,8 @@
       "meaning": {
         "upright": "Talk, phone calls and gossip, or nervous excitement. Often a pair of people."
       },
-      "image": "cards/lenormand/12.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(23_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_12.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(23_of_72).jpg"
     },
     {
       "id": "len_13",
@@ -297,8 +297,8 @@
       "meaning": {
         "upright": "A fresh start, something small or new, or a child. Keep it simple."
       },
-      "image": "cards/lenormand/13.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(25_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_13.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(25_of_72).jpg"
     },
     {
       "id": "len_14",
@@ -319,8 +319,8 @@
       "meaning": {
         "upright": "Something isn't what it seems. Be smart and look after your own interests."
       },
-      "image": "cards/lenormand/14.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(27_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_14.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(27_of_72).jpg"
     },
     {
       "id": "len_15",
@@ -341,8 +341,8 @@
       "meaning": {
         "upright": "Strength and authority, often over money. A powerful or protective figure."
       },
-      "image": "cards/lenormand/15.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(29_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_15.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(29_of_72).jpg"
     },
     {
       "id": "len_16",
@@ -363,8 +363,8 @@
       "meaning": {
         "upright": "Clear skies and good guidance. Hope, inspiration and wishes on track."
       },
-      "image": "cards/lenormand/16.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(31_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_16.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(31_of_72).jpg"
     },
     {
       "id": "len_17",
@@ -385,8 +385,8 @@
       "meaning": {
         "upright": "Change for the better: a move, an improvement or a new phase arriving."
       },
-      "image": "cards/lenormand/17.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(33_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_17.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(33_of_72).jpg"
     },
     {
       "id": "len_18",
@@ -407,8 +407,8 @@
       "meaning": {
         "upright": "A loyal friend or ally. Trust and dependable support."
       },
-      "image": "cards/lenormand/18.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(35_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_18.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(35_of_72).jpg"
     },
     {
       "id": "len_19",
@@ -429,8 +429,8 @@
       "meaning": {
         "upright": "Official bodies, big organisations or standing apart. Distance and ambition."
       },
-      "image": "cards/lenormand/19.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(37_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_19.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(37_of_72).jpg"
     },
     {
       "id": "len_20",
@@ -451,8 +451,8 @@
       "meaning": {
         "upright": "Gatherings, social life and being seen. What happens in public."
       },
-      "image": "cards/lenormand/20.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(39_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_20.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(39_of_72).jpg"
     },
     {
       "id": "len_21",
@@ -473,8 +473,8 @@
       "meaning": {
         "upright": "A block or delay stands in the way. Patience and persistence get you over."
       },
-      "image": "cards/lenormand/21.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(41_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_21.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(41_of_72).jpg"
     },
     {
       "id": "len_22",
@@ -495,8 +495,8 @@
       "meaning": {
         "upright": "A decision between paths. More than one way forward."
       },
-      "image": "cards/lenormand/22.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(43_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_22.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(43_of_72).jpg"
     },
     {
       "id": "len_23",
@@ -517,8 +517,8 @@
       "meaning": {
         "upright": "Something is being gnawed away: money, health or peace of mind. Plug the leak."
       },
-      "image": "cards/lenormand/23.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(45_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_23.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(45_of_72).jpg"
     },
     {
       "id": "len_24",
@@ -539,8 +539,8 @@
       "meaning": {
         "upright": "Love and warmth. Matters of the heart and genuine feeling."
       },
-      "image": "cards/lenormand/24.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(47_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_24.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(47_of_72).jpg"
     },
     {
       "id": "len_25",
@@ -561,8 +561,8 @@
       "meaning": {
         "upright": "A promise, a contract or a committed bond. Something binding or recurring."
       },
-      "image": "cards/lenormand/25.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(49_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_25.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(49_of_72).jpg"
     },
     {
       "id": "len_26",
@@ -583,8 +583,8 @@
       "meaning": {
         "upright": "Something hidden or not yet known. Learning, research or a secret."
       },
-      "image": "cards/lenormand/26.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(51_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_26.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(51_of_72).jpg"
     },
     {
       "id": "len_27",
@@ -604,8 +604,8 @@
       "meaning": {
         "upright": "A written message, email or document. News arrives in writing."
       },
-      "image": "cards/lenormand/27.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(53_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_27.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(53_of_72).jpg"
     },
     {
       "id": "len_28",
@@ -624,8 +624,8 @@
       "meaning": {
         "upright": "The person asking, if a man, or the key man in the situation."
       },
-      "image": "cards/lenormand/28.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(55_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_28.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(55_of_72).jpg"
     },
     {
       "id": "len_29",
@@ -644,8 +644,8 @@
       "meaning": {
         "upright": "The person asking, if a woman, or the key woman in the situation."
       },
-      "image": "cards/lenormand/29.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(57_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_29.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(57_of_72).jpg"
     },
     {
       "id": "len_30",
@@ -666,8 +666,8 @@
       "meaning": {
         "upright": "Calm, experience and harmony. Also family peace or mature desire."
       },
-      "image": "cards/lenormand/30.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(59_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_30.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(59_of_72).jpg"
     },
     {
       "id": "len_31",
@@ -688,8 +688,8 @@
       "meaning": {
         "upright": "Success, confidence and good energy. Everything goes well."
       },
-      "image": "cards/lenormand/31.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(61_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_31.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(61_of_72).jpg"
     },
     {
       "id": "len_32",
@@ -710,8 +710,8 @@
       "meaning": {
         "upright": "Recognition and honour, or the emotional and intuitive side of things."
       },
-      "image": "cards/lenormand/32.jpg",
-      "source_url": ""
+      "image": "cards/lenormand/reuter_len_32.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(63_of_72).jpg"
     },
     {
       "id": "len_33",
@@ -732,8 +732,8 @@
       "meaning": {
         "upright": "The answer is found. Certainty, success and doors opening."
       },
-      "image": "cards/lenormand/33.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(63_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_33.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(65_of_72).jpg"
     },
     {
       "id": "len_34",
@@ -754,8 +754,8 @@
       "meaning": {
         "upright": "Money, business and plenty. Resources flowing in and out."
       },
-      "image": "cards/lenormand/34.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(65_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_34.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(67_of_72).jpg"
     },
     {
       "id": "len_35",
@@ -776,8 +776,8 @@
       "meaning": {
         "upright": "Staying power and a secure foothold. Long-term stability, often at work."
       },
-      "image": "cards/lenormand/35.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(67_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_35.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(69_of_72).jpg"
     },
     {
       "id": "len_36",
@@ -798,9 +798,9 @@
       "meaning": {
         "upright": "A burden to carry or a matter of fate. Also faith and meaning in hardship."
       },
-      "image": "cards/lenormand/36.jpg",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b105431980_(69_of_70).jpg"
+      "image": "cards/lenormand/reuter_len_36.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Jeu_de_cartomancie_-_jeu_de_cartes,_estampe_-_btv1b10543188k_(71_of_72).jpg"
     }
   ],
-  "credit": "Jeu de cartomancie, Bibliothèque nationale de France (Gallica). Public domain."
+  "credit": "Petit Lenormand by W. Reuter, Darmstadt, Bibliothèque nationale de France (Gallica). Public domain."
 }

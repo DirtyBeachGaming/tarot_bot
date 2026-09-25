@@ -144,26 +144,24 @@ def hanafuda():
 
 
 def lenormand():
-    """Jeu de cartomancie (Petit Lenormand), via Gallica/BnF. Public domain.
-    Fronts are the odd-numbered images; card 32 (Moon) is missing from the scan."""
-    p = "Jeu de cartomancie - jeu de cartes, estampe - btv1b105431980 ({:02d} of 70).jpg"
-    out = {}
-    for n in range(1, 37):
-        if n == 32:
-            continue
-        out[f"len_{n:02d}"] = p.format(2 * n - 1 if n < 32 else 2 * n - 3)
-    return out
+    """Petit Lenormand by W. Reuter, Darmstadt, 19th c. (BnF/Gallica). Public domain.
+    All 36 cards; card n is image 2n-1 (each front is followed by its back)."""
+    p = "Jeu de cartomancie - jeu de cartes, estampe - btv1b10543188k ({:02d} of 72).jpg"
+    return {f"len_{n:02d}": p.format(2 * n - 1) for n in range(1, 37)}
 
 
 # width / height of each scan set, so cards aren't letterboxed
 ASPECT = {"marseille": 0.525, "piemontese": 0.568, "minchiate": 0.597, "bergamasche": 0.545,
           "bresciane": 0.498, "romagnole": 0.534, "playing_cards": 0.667, "hanafuda": 0.61,
-          "lenormand": 0.634}
+          "lenormand": 0.614, "piacentine": 0.645, "bolognese": 0.466, "trevisane": 0.494}
 
 CREDIT = {
     "rws1909": "Waite-Smith Tarot, A. E. Waite & Pamela Colman Smith, 1909. Public domain.",
     "napoletane": "Carte Napoletane scans by Trocche100 (it.wikipedia). Public domain.",
-    "lenormand": "Jeu de cartomancie, Bibliothèque nationale de France (Gallica). Public domain.",
+    "lenormand": "Petit Lenormand by W. Reuter, Darmstadt, Bibliothèque nationale de France (Gallica). Public domain.",
+    "piacentine": "Piacentine-type deck by Fabbrica Nazionale, Bologna, Bibliothèque nationale de France (Gallica). Public domain.",
+    "bolognese": "Tarocchino di Bologna, Bibliothèque nationale de France (Gallica). Public domain.",
+    "trevisane": "Venetian (Trevisane) pattern, Bibliothèque nationale de France (Gallica). Public domain.",
     "marseille": "Tarot de Marseille by Lequart (Paris), Bibliothèque nationale de France (Gallica). Public domain.",
     "piemontese": "Piedmontese tarot, Solesio, 1865. Public domain.",
     "minchiate": "Minchiate, Florence, 1860–1890. Public domain.",
@@ -175,7 +173,60 @@ CREDIT = {
     "hanafuda": "Hanafuda by Louie Mantia and すけじょ, CC BY-SA 4.0 (Wikimedia Commons).",
 }
 
+def piacentine():
+    """Piacentine-type pattern by Fabbrica Nazionale, Bologna, 19th c. (BnF/Gallica). Public domain.
+    Fronts are the odd-numbered images."""
+    p = "Jeu de cartes à enseignes italiennes - estampe - btv1b10535064z ({:02d} of 80).jpg"
+    # suit: (Re, Fante, Cavallo, Ace, first pip image) — pips 2..7 follow every other image
+    layout = {"denari": (1, 3, 5, 7, 9), "bastoni": (21, 25, 23, 27, 29),
+              "spade": (41, 43, 45, 47, 49), "coppe": (61, 63, 65, 67, 69)}
+    out = {}
+    for suit, (re, fante, cavallo, ace, first) in layout.items():
+        out[f"{suit}_10"], out[f"{suit}_08"], out[f"{suit}_09"] = p.format(re), p.format(fante), p.format(cavallo)
+        out[f"{suit}_01"] = p.format(ace)
+        for n in range(2, 8):
+            out[f"{suit}_{n:02d}"] = p.format(first + 2 * (n - 2))
+    return out
+
+
+def bolognese():
+    """Tarocchino de Bologne (BnF/Gallica). Public domain. Fronts are odd-numbered;
+    the Ace of Coins is the tax-stamp card, as on real Bolognese packs."""
+    p = "Tarocchino de Bologne - jeu de cartes, estampe - btv1b105138709 ({:03d} of 126).jpg"
+    trumps = {"moro_1": 1, "moro_2": 3, "moro_3": 5, "moro_4": 7, "amore": 9, "carro": 11,
+              "temperanza": 13, "giustizia": 15, "forza": 17, "ruota": 19, "tempo": 21, "traditore": 23,
+              "morte": 25, "diavolo": 27, "saetta": 29, "stella": 31, "angelo": 33, "sole": 35,
+              "luna": 37, "mondo": 39, "bagatto": 41, "matto": 43}
+    out = {f"t_{k}": p.format(v) for k, v in trumps.items()}
+    # suit: (Ace, Re, Regina, Cavallo, Fante, image of the 6) — 6..10 follow every other image
+    layout = {"denari": (45, 47, 49, 51, 53, 55), "coppe": (65, 67, 69, 71, 73, 75),
+              "bastoni": (85, 87, 89, 91, 93, 95), "spade": (105, 107, 109, 111, 113, 115)}
+    for suit, (ace, re, regina, cavallo, fante, six) in layout.items():
+        out[f"{suit}_01"], out[f"{suit}_14"], out[f"{suit}_13"] = p.format(ace), p.format(re), p.format(regina)
+        out[f"{suit}_12"], out[f"{suit}_11"] = p.format(cavallo), p.format(fante)
+        for n in range(6, 11):
+            out[f"{suit}_{n:02d}"] = p.format(six + 2 * (n - 6))
+    return out
+
+
+def trevisane():
+    """Venetian (Trevisane) pattern, double-headed, 19th c. (BnF/Gallica). Public domain.
+    Each suit is a block of 26 images: Re, Cavallo, Fante, Asso, 2..10, each followed by its back."""
+    p = "Jeu de cartes au portrait vénitien à deux têtes - jeu de cartes, estampe - btv1b10520246r ({:03d} of 104).jpg"
+    out = {}
+    for suit, b in {"coppe": 1, "bastoni": 27, "denari": 53, "spade": 79}.items():
+        out[f"{suit}_10"], out[f"{suit}_09"], out[f"{suit}_08"] = p.format(b), p.format(b + 2), p.format(b + 4)
+        for n in range(1, 8):
+            out[f"{suit}_{n:02d}"] = p.format(b + 6 + 2 * (n - 1))
+    return out
+
+
+RENAMED = {"lenormand": "reuter"}
+
 SETS = {
+    "trevisane": trevisane,
+    "piacentine": piacentine,
+    "bolognese": bolognese,
     "lenormand": lenormand,
     "marseille": marseille, "piemontese": piemontese, "minchiate": minchiate,
     "bergamasche": bergamasche, "bresciane": bresciane, "romagnole": romagnole,
@@ -191,6 +242,8 @@ if __name__ == "__main__":
         for c in deck["cards"]:
             if c["id"] in files:
                 c["source_url"] = commons_url(files[c["id"]])
+                if deck_id in RENAMED:  # scan set was swapped: new file names force a fresh download
+                    c["image"] = f"cards/{deck_id}/{RENAMED[deck_id]}_{c['id']}.jpg"
                 hit += 1
         deck["credit"] = CREDIT.get(deck_id, "")
         if deck_id in ASPECT:
