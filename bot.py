@@ -363,25 +363,42 @@ async def astrodice_cmd(interaction: discord.Interaction, question: str | None =
 
 # ---------- commands: lookup & personal ----------
 
+def search_all_decks(text: str, prefer: list[Deck], limit: int = 25) -> list[tuple[Deck, "Card"]]:
+    """Card search across every deck. Preferred decks come first, then the rest;
+    within each group, names that start with the text beat names that just contain it."""
+    order = prefer + [d for d in sorted(DECKS.values(), key=_deck_sort_key) if d not in prefer]
+    starts, contains = [], []
+    for dk in order:
+        for c in dk.search(text, 200):
+            names = [n.lower().removeprefix("the ") for n in (c.name, c.name_en) if n]
+            (starts if any(n.startswith(text.lower().strip()) for n in names) else contains).append((dk, c))
+    return (starts + contains)[:limit]
+
+
 def _resolve_card(value: str, interaction: discord.Interaction, deck_value: str | None):
-    """Autocomplete sends 'deck:card_id'; typed text falls back to a name search."""
+    """Autocomplete sends 'deck:card_id'; typed text searches the chosen deck, else every deck."""
     if ":" in value:
         deck_id, card_id = value.split(":", 1)
         if deck_id in DECKS and (c := DECKS[deck_id].get(card_id)):
             return DECKS[deck_id], c
-    dk = pick_deck(deck_value, interaction.user.id)
-    found = dk.search(value, 1)
-    return (dk, found[0]) if found else (dk, None)
+    chosen = find_deck(deck_value)
+    if chosen:
+        found = chosen.search(value, 1)
+        return (chosen, found[0]) if found else (chosen, None)
+    hits = search_all_decks(value, [pick_deck(None, interaction.user.id)], 1)
+    return hits[0] if hits else (pick_deck(None, interaction.user.id), None)
 
 
 @bot.tree.command(name="card", description="Look up a card's meaning")
-@app_commands.describe(deck="Which deck (pick this first to search its cards)", name="Card name",
+@app_commands.describe(name="Card name — searches every deck (pick a deck to narrow it down)",
+                       deck="Optional: only search this deck",
                        reversed="Show the card reversed")
 @app_commands.autocomplete(deck=deck_autocomplete)
 async def card_cmd(interaction: discord.Interaction, name: str, reversed: bool = False, deck: str | None = None):
     dk, card = _resolve_card(name, interaction, deck)
     if not card:
-        await interaction.response.send_message(f"No card called “{name}” in {dk.short_name}.", ephemeral=True)
+        where = f" in {dk.short_name}" if find_deck(deck) else ""
+        await interaction.response.send_message(f"No card called “{name}”{where}.", ephemeral=True)
         return
     await interaction.response.defer()
     d = Draw(card, reversed and dk.reversals and card.reversible)
@@ -408,8 +425,17 @@ async def card_cmd(interaction: discord.Interaction, name: str, reversed: bool =
 
 @card_cmd.autocomplete("name")
 async def card_autocomplete(interaction: discord.Interaction, current: str):
-    dk = deck_from_namespace(interaction)
-    return [app_commands.Choice(name=c.display_name[:100], value=f"{dk.id}:{c.id}") for c in dk.search(current)]
+    deck_value = getattr(interaction.namespace, "deck", None)
+    chosen = find_deck(deck_value) if isinstance(deck_value, str) else None
+    if chosen:  # a deck was picked: search just that deck
+        return [app_commands.Choice(name=c.display_name[:100], value=f"{chosen.id}:{c.id}")
+                for c in chosen.search(current)]
+    mine = pick_deck(None, interaction.user.id)
+    if not current.strip():  # nothing typed yet: show your own deck's cards
+        return [app_commands.Choice(name=f"{c.display_name} · {mine.short_name}"[:100], value=f"{mine.id}:{c.id}")
+                for c in mine.search("")]
+    return [app_commands.Choice(name=f"{c.display_name} · {dk.short_name}"[:100], value=f"{dk.id}:{c.id}")
+            for dk, c in search_all_decks(current, [mine])]
 
 
 @bot.tree.command(name="mydeck", description="Set the deck you read with by default")
