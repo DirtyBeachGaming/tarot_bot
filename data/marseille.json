@@ -4,7 +4,7 @@
   "short_name": "Marseille",
   "family": "Tarot",
   "description": "The classic French tarot pattern. French names, Waite-Smith meanings matched by card.",
-  "card_aspect": 0.53,
+  "card_aspect": 0.525,
   "color": 11570478,
   "spreads": [
     "single",
@@ -66,7 +66,7 @@
         "reversed": "Carelessness or fear of the leap. Look before you jump, or notice what is holding you back."
       },
       "image": "cards/marseille/major_mat.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/TT_Tarot.png"
     },
     {
       "id": "major_01",
@@ -94,7 +94,7 @@
         "reversed": "Power misdirected or unused. Beware of deception, including self-deception."
       },
       "image": "cards/marseille/major_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/T1_Tarot.png"
     },
     {
       "id": "major_02",
@@ -122,7 +122,7 @@
         "reversed": "Ignoring your intuition, or hidden agendas coming to the surface."
       },
       "image": "cards/marseille/major_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/T2_Tarot.png"
     },
     {
       "id": "major_03",
@@ -150,7 +150,7 @@
         "reversed": "Neglect of self or over-giving to others. Creative energy feels stuck."
       },
       "image": "cards/marseille/major_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/T3_Tarot.png"
     },
     {
       "id": "major_04",
@@ -178,7 +178,7 @@
         "reversed": "Control turned tyrannical, or a lack of discipline where it's needed."
       },
       "image": "cards/marseille/major_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/T4_Tarot.png"
     },
     {
       "id": "major_05",
@@ -206,7 +206,7 @@
         "reversed": "Breaking from convention. Question the doctrine and find your own way."
       },
       "image": "cards/marseille/major_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/T5_Tarot.png"
     },
     {
       "id": "major_06",
@@ -234,7 +234,7 @@
         "reversed": "Conflict in a relationship or within yourself. Values and actions are out of step."
       },
       "image": "cards/marseille/major_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/T6_Tarot.png"
     },
     {
       "id": "major_07",
@@ -262,7 +262,7 @@
         "reversed": "Losing control of the reins. Momentum without direction."
       },
       "image": "cards/marseille/major_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/T7_Tarot.png"
     },
     {
       "id": "major_08",
@@ -290,7 +290,7 @@
         "reversed": "Injustice, bias, or dodging responsibility. Something needs to be made right."
       },
       "image": "cards/marseille/major_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/T8_Tarot.png"
     },
     {
       "id": "major_09",
@@ -318,7 +318,7 @@
         "reversed": "Retreat has become isolation. Time to return to others."
       },
       "image": "cards/marseille/major_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/T9_Tarot.png"
     },
     {
       "id": "major_10",
@@ -346,7 +346,7 @@
         "reversed": "A downturn or clinging to what's passing. What goes down comes back up."
       },
       "image": "cards/marseille/major_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/T10_Tarot.png"
     },
     {
       "id": "major_11",
@@ -374,7 +374,7 @@
         "reversed": "Doubt or being overwhelmed by impulses. Reconnect with your inner steadiness."
       },
       "image": "cards/marseille/major_11.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/T11_Tarot.png"
     },
     {
       "id": "major_12",
@@ -402,7 +402,7 @@
         "reversed": "Delay without purpose, or refusing to let go."
       },
       "image": "cards/marseille/major_12.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/T12_Tarot.png"
     },
     {
       "id": "major_13",
@@ -430,7 +430,7 @@
         "reversed": "Holding onto what's already over. Change is delayed but not avoided."
       },
       "image": "cards/marseille/major_13.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/T13_Tarot.png"
     },
     {
       "id": "major_14",
@@ -458,7 +458,7 @@
         "reversed": "Too much of something. Restore balance before continuing."
       },
       "image": "cards/marseille/major_14.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/T14_Tarot.png"
     },
     {
       "id": "major_15",
@@ -486,7 +486,7 @@
         "reversed": "Breaking free from what bound you. Facing the shadow."
       },
       "image": "cards/marseille/major_15.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/T15_Tarot.png"
     },
     {
       "id": "major_16",
@@ -514,7 +514,7 @@
         "reversed": "Avoiding a necessary collapse, or an upheaval felt internally."
       },
       "image": "cards/marseille/major_16.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/T16_Tarot.png"
     },
     {
       "id": "major_17",
@@ -542,7 +542,7 @@
         "reversed": "Hope feels distant. Reconnect with what inspires you."
       },
       "image": "cards/marseille/major_17.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/T17_Tarot.png"
     },
     {
       "id": "major_18",
@@ -570,7 +570,7 @@
         "reversed": "Illusions dissolve and fears lose their grip."
       },
       "image": "cards/marseille/major_18.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/T18_Tarot.png"
     },
     {
       "id": "major_19",
@@ -598,7 +598,7 @@
         "reversed": "Joy is present but muted. The sun is behind a cloud, not gone."
       },
       "image": "cards/marseille/major_19.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/T19_Tarot.png"
     },
     {
       "id": "major_20",
@@ -626,7 +626,7 @@
         "reversed": "Refusing the call or judging yourself too harshly."
       },
       "image": "cards/marseille/major_20.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/T20_Tarot.png"
     },
     {
       "id": "major_21",
@@ -654,7 +654,7 @@
         "reversed": "Almost there. Tie up loose ends before moving on."
       },
       "image": "cards/marseille/major_21.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/T21_Tarot.png"
     },
     {
       "id": "batons_01",
@@ -680,7 +680,7 @@
         "reversed": "The spark is there but won't catch. Energy blocked or misdirected."
       },
       "image": "cards/marseille/batons_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/1B_Tarot.png"
     },
     {
       "id": "batons_02",
@@ -706,7 +706,7 @@
         "reversed": "Playing it safe or hesitating to leave comfort."
       },
       "image": "cards/marseille/batons_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/2B_Tarot.png"
     },
     {
       "id": "batons_03",
@@ -733,7 +733,7 @@
         "reversed": "Plans stall. Expect delays and reassess."
       },
       "image": "cards/marseille/batons_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/3B_Tarot.png"
     },
     {
       "id": "batons_04",
@@ -760,7 +760,7 @@
         "reversed": "Harmony disrupted or a celebration postponed."
       },
       "image": "cards/marseille/batons_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/4B_Tarot.png"
     },
     {
       "id": "batons_05",
@@ -786,7 +786,7 @@
         "reversed": "Conflict winds down, or tension is suppressed."
       },
       "image": "cards/marseille/batons_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/5B_Tarot.png"
     },
     {
       "id": "batons_06",
@@ -813,7 +813,7 @@
         "reversed": "Success feels hollow, or recognition is withheld."
       },
       "image": "cards/marseille/batons_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/6B_Tarot.png"
     },
     {
       "id": "batons_07",
@@ -839,7 +839,7 @@
         "reversed": "Worn down by opposition. Choose your battles."
       },
       "image": "cards/marseille/batons_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/7B_Tarot.png"
     },
     {
       "id": "batons_08",
@@ -866,7 +866,7 @@
         "reversed": "Momentum stalls or rushes out of control."
       },
       "image": "cards/marseille/batons_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/8B_Tarot.png"
     },
     {
       "id": "batons_09",
@@ -892,7 +892,7 @@
         "reversed": "Defensiveness has become exhaustion. Rest."
       },
       "image": "cards/marseille/batons_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/9B_Tarot.png"
     },
     {
       "id": "batons_10",
@@ -918,7 +918,7 @@
         "reversed": "Putting down what isn't yours to carry."
       },
       "image": "cards/marseille/batons_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/10B_Tarot.png"
     },
     {
       "id": "batons_11",
@@ -944,7 +944,7 @@
         "reversed": "Enthusiasm without follow-through."
       },
       "image": "cards/marseille/batons_11.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/JB_Tarot.png"
     },
     {
       "id": "batons_12",
@@ -971,7 +971,7 @@
         "reversed": "Recklessness or restlessness burning out."
       },
       "image": "cards/marseille/batons_12.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/HB_Tarot.png"
     },
     {
       "id": "batons_13",
@@ -998,7 +998,7 @@
         "reversed": "Confidence turned to insecurity or possessiveness."
       },
       "image": "cards/marseille/batons_13.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/QB_Tarot.png"
     },
     {
       "id": "batons_14",
@@ -1025,7 +1025,7 @@
         "reversed": "Leadership becomes domineering or rash."
       },
       "image": "cards/marseille/batons_14.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/KB_Tarot.png"
     },
     {
       "id": "coupes_01",
@@ -1051,7 +1051,7 @@
         "reversed": "Emotions held back or a love left unexpressed."
       },
       "image": "cards/marseille/coupes_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/1C_Tarot.png"
     },
     {
       "id": "coupes_02",
@@ -1077,7 +1077,7 @@
         "reversed": "Disharmony or a partnership out of balance."
       },
       "image": "cards/marseille/coupes_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/2C_Tarot.png"
     },
     {
       "id": "coupes_03",
@@ -1104,7 +1104,7 @@
         "reversed": "Too much of a good thing, or feeling left out."
       },
       "image": "cards/marseille/coupes_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/3C_Tarot.png"
     },
     {
       "id": "coupes_04",
@@ -1130,7 +1130,7 @@
         "reversed": "Waking from apathy. Seizing an opportunity."
       },
       "image": "cards/marseille/coupes_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/4C_Tarot.png"
     },
     {
       "id": "coupes_05",
@@ -1157,7 +1157,7 @@
         "reversed": "Turning toward what remains. Healing begins."
       },
       "image": "cards/marseille/coupes_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/5C_Tarot.png"
     },
     {
       "id": "coupes_06",
@@ -1183,7 +1183,7 @@
         "reversed": "Living in the past instead of the present."
       },
       "image": "cards/marseille/coupes_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/6C_Tarot.png"
     },
     {
       "id": "coupes_07",
@@ -1210,7 +1210,7 @@
         "reversed": "Fantasies fade and a real choice emerges."
       },
       "image": "cards/marseille/coupes_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/7C_Tarot.png"
     },
     {
       "id": "coupes_08",
@@ -1236,7 +1236,7 @@
         "reversed": "Afraid to leave, or leaving without purpose."
       },
       "image": "cards/marseille/coupes_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/8C_Tarot.png"
     },
     {
       "id": "coupes_09",
@@ -1262,7 +1262,7 @@
         "reversed": "Material satisfaction that doesn't reach the heart."
       },
       "image": "cards/marseille/coupes_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/9C_Tarot.png"
     },
     {
       "id": "coupes_10",
@@ -1288,7 +1288,7 @@
         "reversed": "Discord in the family or unmet ideals."
       },
       "image": "cards/marseille/coupes_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/10C_Tarot.png"
     },
     {
       "id": "coupes_11",
@@ -1314,7 +1314,7 @@
         "reversed": "Moodiness or ignoring your creative voice."
       },
       "image": "cards/marseille/coupes_11.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/JC_Tarot.png"
     },
     {
       "id": "coupes_12",
@@ -1340,7 +1340,7 @@
         "reversed": "Charm without substance. Promises unkept."
       },
       "image": "cards/marseille/coupes_12.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/HC_Tarot.png"
     },
     {
       "id": "coupes_13",
@@ -1366,7 +1366,7 @@
         "reversed": "Drowning in others' feelings. Set boundaries."
       },
       "image": "cards/marseille/coupes_13.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/QC_Tarot.png"
     },
     {
       "id": "coupes_14",
@@ -1393,7 +1393,7 @@
         "reversed": "Suppressed emotion or emotional manipulation."
       },
       "image": "cards/marseille/coupes_14.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/KC_Tarot.png"
     },
     {
       "id": "epees_01",
@@ -1419,7 +1419,7 @@
         "reversed": "Clouded thinking or harsh words."
       },
       "image": "cards/marseille/epees_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/1S_Tarot.png"
     },
     {
       "id": "epees_02",
@@ -1445,7 +1445,7 @@
         "reversed": "The blindfold comes off. Time to decide."
       },
       "image": "cards/marseille/epees_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/2S_Tarot.png"
     },
     {
       "id": "epees_03",
@@ -1471,7 +1471,7 @@
         "reversed": "The wound begins to heal. Letting go of sorrow."
       },
       "image": "cards/marseille/epees_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/3S_Tarot.png"
     },
     {
       "id": "epees_04",
@@ -1497,7 +1497,7 @@
         "reversed": "Refusing rest until burnout forces it."
       },
       "image": "cards/marseille/epees_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/4S_Tarot.png"
     },
     {
       "id": "epees_05",
@@ -1523,7 +1523,7 @@
         "reversed": "Ending the conflict. Moving past resentment."
       },
       "image": "cards/marseille/epees_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/5S_Tarot.png"
     },
     {
       "id": "epees_06",
@@ -1549,7 +1549,7 @@
         "reversed": "Carrying baggage along, or unable to leave."
       },
       "image": "cards/marseille/epees_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/6S_Tarot.png"
     },
     {
       "id": "epees_07",
@@ -1576,7 +1576,7 @@
         "reversed": "Secrets come out. Coming clean."
       },
       "image": "cards/marseille/epees_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/7S_Tarot.png"
     },
     {
       "id": "epees_08",
@@ -1602,7 +1602,7 @@
         "reversed": "Stepping free of self-imposed limits."
       },
       "image": "cards/marseille/epees_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/8S_Tarot.png"
     },
     {
       "id": "epees_09",
@@ -1629,7 +1629,7 @@
         "reversed": "The worst of the worry passes. Share it."
       },
       "image": "cards/marseille/epees_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/9S_Tarot.png"
     },
     {
       "id": "epees_10",
@@ -1655,7 +1655,7 @@
         "reversed": "Rising from the lowest point."
       },
       "image": "cards/marseille/epees_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/10S_Tarot.png"
     },
     {
       "id": "epees_11",
@@ -1682,7 +1682,7 @@
         "reversed": "Talk without action, or spreading rumours."
       },
       "image": "cards/marseille/epees_11.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/JS_Tarot.png"
     },
     {
       "id": "epees_12",
@@ -1709,7 +1709,7 @@
         "reversed": "Impulsive or combative in ways that backfire."
       },
       "image": "cards/marseille/epees_12.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/HS_Tarot.png"
     },
     {
       "id": "epees_13",
@@ -1735,7 +1735,7 @@
         "reversed": "Cruelty in place of clarity."
       },
       "image": "cards/marseille/epees_13.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/QS_Tarot.png"
     },
     {
       "id": "epees_14",
@@ -1761,7 +1761,7 @@
         "reversed": "Cold, manipulative logic."
       },
       "image": "cards/marseille/epees_14.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/KS_Tarot.png"
     },
     {
       "id": "deniers_01",
@@ -1787,7 +1787,7 @@
         "reversed": "An opportunity slips through your fingers."
       },
       "image": "cards/marseille/deniers_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/1P_Tarot.png"
     },
     {
       "id": "deniers_02",
@@ -1813,7 +1813,7 @@
         "reversed": "Dropping the ball. Too much at once."
       },
       "image": "cards/marseille/deniers_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/2P_Tarot.png"
     },
     {
       "id": "deniers_03",
@@ -1839,7 +1839,7 @@
         "reversed": "Disharmony on the team or careless work."
       },
       "image": "cards/marseille/deniers_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3P_Tarot.png"
     },
     {
       "id": "deniers_04",
@@ -1866,7 +1866,7 @@
         "reversed": "Loosening your grip, or clinging too hard."
       },
       "image": "cards/marseille/deniers_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/4P_Tarot.png"
     },
     {
       "id": "deniers_05",
@@ -1892,7 +1892,7 @@
         "reversed": "Recovering from hard times."
       },
       "image": "cards/marseille/deniers_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/5P_Tarot.png"
     },
     {
       "id": "deniers_06",
@@ -1918,7 +1918,7 @@
         "reversed": "Generosity with an agenda, or imbalance of power."
       },
       "image": "cards/marseille/deniers_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/6P_Tarot.png"
     },
     {
       "id": "deniers_07",
@@ -1944,7 +1944,7 @@
         "reversed": "Frustration with slow results."
       },
       "image": "cards/marseille/deniers_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/7P_Tarot.png"
     },
     {
       "id": "deniers_08",
@@ -1970,7 +1970,7 @@
         "reversed": "Work without meaning, or cutting corners."
       },
       "image": "cards/marseille/deniers_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/8P_Tarot.png"
     },
     {
       "id": "deniers_09",
@@ -1996,7 +1996,7 @@
         "reversed": "Wealth without fulfilment."
       },
       "image": "cards/marseille/deniers_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/9P_Tarot.png"
     },
     {
       "id": "deniers_10",
@@ -2022,7 +2022,7 @@
         "reversed": "Disputes over money or legacy."
       },
       "image": "cards/marseille/deniers_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/10P_Tarot.png"
     },
     {
       "id": "deniers_11",
@@ -2048,7 +2048,7 @@
         "reversed": "Daydreaming without doing."
       },
       "image": "cards/marseille/deniers_11.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/JP_Tarot.png"
     },
     {
       "id": "deniers_12",
@@ -2075,7 +2075,7 @@
         "reversed": "Stuck in a rut."
       },
       "image": "cards/marseille/deniers_12.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/HP_Tarot.png"
     },
     {
       "id": "deniers_13",
@@ -2101,7 +2101,7 @@
         "reversed": "Neglecting yourself while caring for everything else."
       },
       "image": "cards/marseille/deniers_13.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/QP_Tarot.png"
     },
     {
       "id": "deniers_14",
@@ -2128,7 +2128,8 @@
         "reversed": "Obsessed with wealth and status."
       },
       "image": "cards/marseille/deniers_14.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/KP_Tarot.png"
     }
-  ]
+  ],
+  "credit": "Tarot de Marseille by Lequart (Paris), Bibliothèque nationale de France (Gallica). Public domain."
 }

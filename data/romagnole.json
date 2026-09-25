@@ -4,7 +4,7 @@
   "short_name": "Romagnole",
   "family": "Italian regional",
   "description": "From Romagna. 40 cards. Meanings follow Italian cartomancy (shared with the Napoletane).",
-  "card_aspect": 0.56,
+  "card_aspect": 0.534,
   "reversals": true,
   "spreads": [
     "single",
@@ -60,7 +60,7 @@
         "reversed": "Money is slow to arrive, or an opportunity is undervalued."
       },
       "image": "cards/romagnole/denari_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/As_monet_z_wzoru_rzymskiego.png"
     },
     {
       "id": "denari_02",
@@ -86,7 +86,7 @@
         "reversed": "One side gets the better of the bargain."
       },
       "image": "cards/romagnole/denari_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Dwie_monety_z_wzoru_rzymskiego.png"
     },
     {
       "id": "denari_03",
@@ -112,7 +112,7 @@
         "reversed": "Returns are smaller than hoped."
       },
       "image": "cards/romagnole/denari_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Trzy_monety_z_wzoru_rzymskiego.png"
     },
     {
       "id": "denari_04",
@@ -138,7 +138,7 @@
         "reversed": "Holding money so tightly it can't work for you."
       },
       "image": "cards/romagnole/denari_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Cztery_monety_z_wzoru_rzymskiego.png"
     },
     {
       "id": "denari_05",
@@ -164,7 +164,7 @@
         "reversed": "The worst of the expense has passed."
       },
       "image": "cards/romagnole/denari_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Pi%C4%99%C4%87_monet_z_wzoru_rzymskiego.png"
     },
     {
       "id": "denari_06",
@@ -190,7 +190,7 @@
         "reversed": "A favour that comes with a price."
       },
       "image": "cards/romagnole/denari_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Sze%C5%9B%C4%87_monet_z_wzoru_rzymskiego.png"
     },
     {
       "id": "denari_07",
@@ -216,7 +216,7 @@
         "reversed": "Luck is there but slips through greedy fingers."
       },
       "image": "cards/romagnole/denari_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Siedem_monet_z_wzoru_rzymskiego.png"
     },
     {
       "id": "denari_08",
@@ -242,7 +242,7 @@
         "reversed": "Unreliable messages or careless spending."
       },
       "image": "cards/romagnole/denari_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Pa%C5%BA_monet_z_wzoru_rzymskiego.png"
     },
     {
       "id": "denari_09",
@@ -268,7 +268,7 @@
         "reversed": "The deal stalls on the road."
       },
       "image": "cards/romagnole/denari_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Je%C5%BAdziec_monet_z_wzoru_rzymskiego.png"
     },
     {
       "id": "denari_10",
@@ -321,7 +321,7 @@
         "reversed": "Coldness at home, or feelings held back."
       },
       "image": "cards/romagnole/coppe_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/As_puszek_z_wzoru_rzymskiego.png"
     },
     {
       "id": "coppe_02",
@@ -347,7 +347,7 @@
         "reversed": "A rift between two people."
       },
       "image": "cards/romagnole/coppe_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Dwie_puszki_z_wzoru_rzymskiego.png"
     },
     {
       "id": "coppe_03",
@@ -373,7 +373,7 @@
         "reversed": "Too much wine and loose talk."
       },
       "image": "cards/romagnole/coppe_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Trzy_puszki_z_wzoru_rzymskiego.png"
     },
     {
       "id": "coppe_04",
@@ -399,7 +399,7 @@
         "reversed": "Comfort has turned into boredom."
       },
       "image": "cards/romagnole/coppe_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Cztery_puszki_z_wzoru_rzymskiego.png"
     },
     {
       "id": "coppe_05",
@@ -425,7 +425,7 @@
         "reversed": "Consolation comes and the heart starts to mend."
       },
       "image": "cards/romagnole/coppe_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Pi%C4%99%C4%87_puszek_z_wzoru_rzymskiego.png"
     },
     {
       "id": "coppe_06",
@@ -451,7 +451,7 @@
         "reversed": "Living in yesterday."
       },
       "image": "cards/romagnole/coppe_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sze%C5%9B%C4%87_puszek_z_wzoru_rzymskiego.png"
     },
     {
       "id": "coppe_07",
@@ -477,7 +477,7 @@
         "reversed": "Desire clouds judgment. Beware jealousy."
       },
       "image": "cards/romagnole/coppe_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Siedem_puszek_z_wzoru_rzymskiego.png"
     },
     {
       "id": "coppe_08",
@@ -503,7 +503,7 @@
         "reversed": "Charm that doesn't last."
       },
       "image": "cards/romagnole/coppe_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Pa%C5%BA_puszek_z_wzoru_rzymskiego.png"
     },
     {
       "id": "coppe_09",
@@ -529,7 +529,7 @@
         "reversed": "Someone rides away, or a promise isn't kept."
       },
       "image": "cards/romagnole/coppe_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Je%C5%BAdziec_puszek_z_wzoru_rzymskiego.png"
     },
     {
       "id": "coppe_10",
@@ -555,7 +555,7 @@
         "reversed": "Affection turned possessive or moody."
       },
       "image": "cards/romagnole/coppe_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Kr%C3%B3l_puszek_z_wzoru_rzymskiego.png"
     },
     {
       "id": "spade_01",
@@ -582,7 +582,7 @@
         "reversed": "A blow or hard news. Words that wound."
       },
       "image": "cards/romagnole/spade_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/As_mieczy_z_wzoru_rzymskiego.png"
     },
     {
       "id": "spade_02",
@@ -608,7 +608,7 @@
         "reversed": "The standoff eases into a truce."
       },
       "image": "cards/romagnole/spade_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Dwa_miecze_z_wzoru_rzymskiego.png"
     },
     {
       "id": "spade_03",
@@ -634,7 +634,7 @@
         "reversed": "The sting fades and forgiveness becomes possible."
       },
       "image": "cards/romagnole/spade_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Trzy_miecze_z_wzoru_rzymskiego.png"
     },
     {
       "id": "spade_04",
@@ -660,7 +660,7 @@
         "reversed": "Unable to rest; the strain lingers."
       },
       "image": "cards/romagnole/spade_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Cztery_miecze_z_wzoru_rzymskiego.png"
     },
     {
       "id": "spade_05",
@@ -686,7 +686,7 @@
         "reversed": "Making peace after the quarrel."
       },
       "image": "cards/romagnole/spade_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Pi%C4%99%C4%87_mieczy_z_wzoru_rzymskiego.png"
     },
     {
       "id": "spade_06",
@@ -711,7 +711,7 @@
         "reversed": "Trying to leave but held back."
       },
       "image": "cards/romagnole/spade_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Sze%C5%9B%C4%87_mieczy_z_wzoru_rzymskiego.png"
     },
     {
       "id": "spade_07",
@@ -736,7 +736,7 @@
         "reversed": "The deception is exposed."
       },
       "image": "cards/romagnole/spade_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Siedem_mieczy_z_wzoru_rzymskiego.png"
     },
     {
       "id": "spade_08",
@@ -762,7 +762,7 @@
         "reversed": "Malicious talk. Don't take the bait."
       },
       "image": "cards/romagnole/spade_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Pa%C5%BA_mieczy_z_wzoru_rzymskiego.png"
     },
     {
       "id": "spade_09",
@@ -788,7 +788,7 @@
         "reversed": "Haste causes harm. Slow down."
       },
       "image": "cards/romagnole/spade_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Je%C5%BAdziec_mieczy_z_wzoru_rzymskiego.png"
     },
     {
       "id": "spade_10",
@@ -814,7 +814,7 @@
         "reversed": "Authority that is harsh or unjust."
       },
       "image": "cards/romagnole/spade_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Kr%C3%B3l_mieczy_z_wzoru_rzymskiego.png"
     },
     {
       "id": "bastoni_01",
@@ -840,7 +840,7 @@
         "reversed": "Plans that won't take root."
       },
       "image": "cards/romagnole/bastoni_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/As_maczug_z_wzoru_rzymskiego.png"
     },
     {
       "id": "bastoni_02",
@@ -866,7 +866,7 @@
         "reversed": "Hesitation wastes the moment."
       },
       "image": "cards/romagnole/bastoni_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Dwie_maczugi_z_wzoru_rzymskiego.png"
     },
     {
       "id": "bastoni_03",
@@ -892,7 +892,7 @@
         "reversed": "Delays in plans or deliveries."
       },
       "image": "cards/romagnole/bastoni_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Trzy_maczugi_z_wzoru_rzymskiego.png"
     },
     {
       "id": "bastoni_04",
@@ -918,7 +918,7 @@
         "reversed": "Things feel unsettled."
       },
       "image": "cards/romagnole/bastoni_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Cztery_maczugi_z_wzoru_rzymskiego.png"
     },
     {
       "id": "bastoni_05",
@@ -944,7 +944,7 @@
         "reversed": "The dispute resolves or is avoided."
       },
       "image": "cards/romagnole/bastoni_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Pi%C4%99%C4%87_maczug_z_wzoru_rzymskiego.png"
     },
     {
       "id": "bastoni_06",
@@ -970,7 +970,7 @@
         "reversed": "Success delayed, or spoiled by pride."
       },
       "image": "cards/romagnole/bastoni_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Sze%C5%9B%C4%87_maczug_z_wzoru_rzymskiego.png"
     },
     {
       "id": "bastoni_07",
@@ -996,7 +996,7 @@
         "reversed": "Worn out. Know when to yield."
       },
       "image": "cards/romagnole/bastoni_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Siedem_maczug_z_wzoru_rzymskiego.png"
     },
     {
       "id": "bastoni_08",
@@ -1022,7 +1022,7 @@
         "reversed": "Messages delayed, tasks left undone."
       },
       "image": "cards/romagnole/bastoni_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Pa%C5%BA_maczug_z_wzoru_rzymskiego.png"
     },
     {
       "id": "bastoni_09",
@@ -1048,7 +1048,7 @@
         "reversed": "A trip postponed, or a move that goes wrong."
       },
       "image": "cards/romagnole/bastoni_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Je%C5%BAdziec_maczug_z_wzoru_rzymskiego.png"
     },
     {
       "id": "bastoni_10",
@@ -1076,5 +1076,6 @@
       "image": "cards/romagnole/bastoni_10.jpg",
       "source_url": ""
     }
-  ]
+  ],
+  "credit": "Roman/Romagna pattern cards, CC0 (Wikimedia Commons)."
 }

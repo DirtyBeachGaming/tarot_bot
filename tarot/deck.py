@@ -68,6 +68,7 @@ class Deck:
         self.short_name: str = data.get("short_name", self.name)
         self.family: str = data.get("family", "Other")
         self.description: str = data.get("description", "")
+        self.credit: str = data.get("credit", "")
         self.aspect: float = data.get("card_aspect", 0.58)   # width / height
         self.color: int = data.get("color", 0x6A4C93)
         self.suits: dict = data.get("suits", {})

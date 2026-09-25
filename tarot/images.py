@@ -19,6 +19,22 @@ BG = (24, 20, 31)
 BADGE = (212, 175, 55)
 
 
+def shrink_image(data: bytes, max_h: int = 1000) -> bytes:
+    """Re-encode a downloaded scan as a JPEG no taller than max_h (keeps the repo small)."""
+    img = Image.open(io.BytesIO(data))
+    if img.mode in ("RGBA", "LA", "P"):
+        img = img.convert("RGBA")
+        bg = Image.new("RGB", img.size, (255, 255, 255))
+        bg.paste(img, mask=img.split()[-1])
+        img = bg
+    img = img.convert("RGB")
+    if img.height > max_h:
+        img = img.resize((round(img.width * max_h / img.height), max_h), Image.LANCZOS)
+    out = io.BytesIO()
+    img.save(out, "JPEG", quality=85, optimize=True)
+    return out.getvalue()
+
+
 async def ensure_image(card: Card, session: aiohttp.ClientSession) -> Path | None:
     """Return the local image path, downloading and caching it on first use."""
     path = card.image_path
@@ -31,7 +47,7 @@ async def ensure_image(card: Card, session: aiohttp.ClientSession) -> Path | Non
             r.raise_for_status()
             data = await r.read()
         path.parent.mkdir(parents=True, exist_ok=True)
-        path.write_bytes(data)
+        path.write_bytes(shrink_image(data))
         log.info("Cached %s", path.name)
         return path
     except Exception as e:  # network trouble shouldn't kill a reading
@@ -42,12 +58,24 @@ async def ensure_image(card: Card, session: aiohttp.ClientSession) -> Path | Non
 def _card_img(draw: Draw, size: tuple[int, int]) -> Image.Image:
     path = draw.card.image_path
     if path.exists():
-        img = Image.open(path).convert("RGB").resize(size, Image.LANCZOS)
+        img = _fit_image(Image.open(path).convert("RGB"), size)
     else:  # no scan: draw a simple cream card with number, name and insert
         img = _text_card(draw.card, size)
     if draw.reversed:
         img = img.rotate(180)
     return img
+
+
+def _fit_image(img: Image.Image, size: tuple[int, int]) -> Image.Image:
+    """Scale a scan to fit the card slot without stretching (small margins if shapes differ)."""
+    w, h = size
+    if abs(img.width / img.height - w / h) < 0.02:
+        return img.resize(size, Image.LANCZOS)
+    scale = min(w / img.width, h / img.height)
+    inner = img.resize((max(1, round(img.width * scale)), max(1, round(img.height * scale))), Image.LANCZOS)
+    canvas = Image.new("RGB", size, BG)
+    canvas.paste(inner, ((w - inner.width) // 2, (h - inner.height) // 2))
+    return canvas
 
 
 def _text_card(card: Card, size: tuple[int, int]) -> Image.Image:

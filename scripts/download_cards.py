@@ -14,6 +14,8 @@ import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT))
+from tarot.images import shrink_image  # noqa: E402  (re-encodes scans as compact JPEGs)
 # Wikimedia's policy asks for a descriptive User-Agent with a contact URL;
 # generic ones get throttled much harder.
 UA = "TarotDiscordBot/1.0 (https://github.com/DirtyBeachGaming/tarot_bot) python-urllib"
@@ -47,9 +49,7 @@ def download_deck(deck: dict) -> int:
         for attempt in range(1, MAX_TRIES + 1):
             try:
                 data = fetch(card["source_url"])
-                if not data.startswith(b"\xff\xd8"):
-                    raise ValueError("not a JPEG")
-                dest.write_bytes(data)
+                dest.write_bytes(shrink_image(data))
                 print(f"  ✓ [{i}/{len(todo)}] {card['name']}")
                 break
             except urllib.error.HTTPError as e:

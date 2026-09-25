@@ -4,7 +4,7 @@
   "short_name": "Bresciane",
   "family": "Italian regional",
   "description": "From Brescia, in Lombardy. 40 cards. Meanings follow Italian cartomancy (shared with the Napoletane). Double-headed, so read without reversals.",
-  "card_aspect": 0.55,
+  "card_aspect": 0.498,
   "reversals": false,
   "spreads": [
     "single",
@@ -60,7 +60,7 @@
         "reversed": "Money is slow to arrive, or an opportunity is undervalued."
       },
       "image": "cards/bresciane/denari_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Asso-Denari.svg/960px-Asso-Denari.svg.png"
     },
     {
       "id": "denari_02",
@@ -86,7 +86,7 @@
         "reversed": "One side gets the better of the bargain."
       },
       "image": "cards/bresciane/denari_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/02-Denari.svg/960px-02-Denari.svg.png"
     },
     {
       "id": "denari_03",
@@ -112,7 +112,7 @@
         "reversed": "Returns are smaller than hoped."
       },
       "image": "cards/bresciane/denari_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/03-Denari.svg/960px-03-Denari.svg.png"
     },
     {
       "id": "denari_04",
@@ -138,7 +138,7 @@
         "reversed": "Holding money so tightly it can't work for you."
       },
       "image": "cards/bresciane/denari_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/04-Denari.svg/960px-04-Denari.svg.png"
     },
     {
       "id": "denari_05",
@@ -164,7 +164,7 @@
         "reversed": "The worst of the expense has passed."
       },
       "image": "cards/bresciane/denari_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/05-Denari.svg/960px-05-Denari.svg.png"
     },
     {
       "id": "denari_06",
@@ -190,7 +190,7 @@
         "reversed": "A favour that comes with a price."
       },
       "image": "cards/bresciane/denari_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/06-Denari.svg/960px-06-Denari.svg.png"
     },
     {
       "id": "denari_07",
@@ -216,7 +216,7 @@
         "reversed": "Luck is there but slips through greedy fingers."
       },
       "image": "cards/bresciane/denari_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/07-Denari.svg/960px-07-Denari.svg.png"
     },
     {
       "id": "denari_08",
@@ -242,7 +242,7 @@
         "reversed": "Unreliable messages or careless spending."
       },
       "image": "cards/bresciane/denari_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fante-Denari.svg/960px-Fante-Denari.svg.png"
     },
     {
       "id": "denari_09",
@@ -268,7 +268,7 @@
         "reversed": "The deal stalls on the road."
       },
       "image": "cards/bresciane/denari_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Cavallo-Denari.svg/960px-Cavallo-Denari.svg.png"
     },
     {
       "id": "denari_10",
@@ -294,7 +294,7 @@
         "reversed": "Wealth used to control, or a stingy authority."
       },
       "image": "cards/bresciane/denari_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Re-Denari.svg/960px-Re-Denari.svg.png"
     },
     {
       "id": "coppe_01",
@@ -321,7 +321,7 @@
         "reversed": "Coldness at home, or feelings held back."
       },
       "image": "cards/bresciane/coppe_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Asso-Coppe.svg/960px-Asso-Coppe.svg.png"
     },
     {
       "id": "coppe_02",
@@ -347,7 +347,7 @@
         "reversed": "A rift between two people."
       },
       "image": "cards/bresciane/coppe_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/02-Coppe.svg/960px-02-Coppe.svg.png"
     },
     {
       "id": "coppe_03",
@@ -373,7 +373,7 @@
         "reversed": "Too much wine and loose talk."
       },
       "image": "cards/bresciane/coppe_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/03-Coppe.svg/960px-03-Coppe.svg.png"
     },
     {
       "id": "coppe_04",
@@ -399,7 +399,7 @@
         "reversed": "Comfort has turned into boredom."
       },
       "image": "cards/bresciane/coppe_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/04-Coppe.svg/960px-04-Coppe.svg.png"
     },
     {
       "id": "coppe_05",
@@ -425,7 +425,7 @@
         "reversed": "Consolation comes and the heart starts to mend."
       },
       "image": "cards/bresciane/coppe_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/05-Coppe.svg/960px-05-Coppe.svg.png"
     },
     {
       "id": "coppe_06",
@@ -451,7 +451,7 @@
         "reversed": "Living in yesterday."
       },
       "image": "cards/bresciane/coppe_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/06-Coppe.svg/960px-06-Coppe.svg.png"
     },
     {
       "id": "coppe_07",
@@ -477,7 +477,7 @@
         "reversed": "Desire clouds judgment. Beware jealousy."
       },
       "image": "cards/bresciane/coppe_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/07-Coppe.svg/960px-07-Coppe.svg.png"
     },
     {
       "id": "coppe_08",
@@ -503,7 +503,7 @@
         "reversed": "Charm that doesn't last."
       },
       "image": "cards/bresciane/coppe_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Fante-Coppe.svg/960px-Fante-Coppe.svg.png"
     },
     {
       "id": "coppe_09",
@@ -529,7 +529,7 @@
         "reversed": "Someone rides away, or a promise isn't kept."
       },
       "image": "cards/bresciane/coppe_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Cavallo-Coppe.svg/960px-Cavallo-Coppe.svg.png"
     },
     {
       "id": "coppe_10",
@@ -555,7 +555,7 @@
         "reversed": "Affection turned possessive or moody."
       },
       "image": "cards/bresciane/coppe_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Re-Coppe.svg/960px-Re-Coppe.svg.png"
     },
     {
       "id": "spade_01",
@@ -582,7 +582,7 @@
         "reversed": "A blow or hard news. Words that wound."
       },
       "image": "cards/bresciane/spade_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Asso-Spade.svg/960px-Asso-Spade.svg.png"
     },
     {
       "id": "spade_02",
@@ -608,7 +608,7 @@
         "reversed": "The standoff eases into a truce."
       },
       "image": "cards/bresciane/spade_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/02-Spade.svg/960px-02-Spade.svg.png"
     },
     {
       "id": "spade_03",
@@ -634,7 +634,7 @@
         "reversed": "The sting fades and forgiveness becomes possible."
       },
       "image": "cards/bresciane/spade_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/03-Spade.svg/960px-03-Spade.svg.png"
     },
     {
       "id": "spade_04",
@@ -660,7 +660,7 @@
         "reversed": "Unable to rest; the strain lingers."
       },
       "image": "cards/bresciane/spade_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/04-Spade.svg/960px-04-Spade.svg.png"
     },
     {
       "id": "spade_05",
@@ -686,7 +686,7 @@
         "reversed": "Making peace after the quarrel."
       },
       "image": "cards/bresciane/spade_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/05-Spade.svg/960px-05-Spade.svg.png"
     },
     {
       "id": "spade_06",
@@ -711,7 +711,7 @@
         "reversed": "Trying to leave but held back."
       },
       "image": "cards/bresciane/spade_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/06-Spade.svg/960px-06-Spade.svg.png"
     },
     {
       "id": "spade_07",
@@ -736,7 +736,7 @@
         "reversed": "The deception is exposed."
       },
       "image": "cards/bresciane/spade_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/07-Spade.svg/960px-07-Spade.svg.png"
     },
     {
       "id": "spade_08",
@@ -762,7 +762,7 @@
         "reversed": "Malicious talk. Don't take the bait."
       },
       "image": "cards/bresciane/spade_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Fante-Spade.svg/960px-Fante-Spade.svg.png"
     },
     {
       "id": "spade_09",
@@ -788,7 +788,7 @@
         "reversed": "Haste causes harm. Slow down."
       },
       "image": "cards/bresciane/spade_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Cavallo-Spade.svg/960px-Cavallo-Spade.svg.png"
     },
     {
       "id": "spade_10",
@@ -814,7 +814,7 @@
         "reversed": "Authority that is harsh or unjust."
       },
       "image": "cards/bresciane/spade_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Re-Spade.svg/960px-Re-Spade.svg.png"
     },
     {
       "id": "bastoni_01",
@@ -840,7 +840,7 @@
         "reversed": "Plans that won't take root."
       },
       "image": "cards/bresciane/bastoni_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Asso-Bastoni.svg/960px-Asso-Bastoni.svg.png"
     },
     {
       "id": "bastoni_02",
@@ -866,7 +866,7 @@
         "reversed": "Hesitation wastes the moment."
       },
       "image": "cards/bresciane/bastoni_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/02-Bastoni.svg/960px-02-Bastoni.svg.png"
     },
     {
       "id": "bastoni_03",
@@ -892,7 +892,7 @@
         "reversed": "Delays in plans or deliveries."
       },
       "image": "cards/bresciane/bastoni_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/03-Bastoni.svg/960px-03-Bastoni.svg.png"
     },
     {
       "id": "bastoni_04",
@@ -918,7 +918,7 @@
         "reversed": "Things feel unsettled."
       },
       "image": "cards/bresciane/bastoni_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/04-Bastoni.svg/960px-04-Bastoni.svg.png"
     },
     {
       "id": "bastoni_05",
@@ -944,7 +944,7 @@
         "reversed": "The dispute resolves or is avoided."
       },
       "image": "cards/bresciane/bastoni_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/05-Bastoni.svg/960px-05-Bastoni.svg.png"
     },
     {
       "id": "bastoni_06",
@@ -970,7 +970,7 @@
         "reversed": "Success delayed, or spoiled by pride."
       },
       "image": "cards/bresciane/bastoni_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/06-Bastoni.svg/960px-06-Bastoni.svg.png"
     },
     {
       "id": "bastoni_07",
@@ -996,7 +996,7 @@
         "reversed": "Worn out. Know when to yield."
       },
       "image": "cards/bresciane/bastoni_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/07-Bastoni.svg/960px-07-Bastoni.svg.png"
     },
     {
       "id": "bastoni_08",
@@ -1022,7 +1022,7 @@
         "reversed": "Messages delayed, tasks left undone."
       },
       "image": "cards/bresciane/bastoni_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Fante-Bastoni.svg/960px-Fante-Bastoni.svg.png"
     },
     {
       "id": "bastoni_09",
@@ -1048,7 +1048,7 @@
         "reversed": "A trip postponed, or a move that goes wrong."
       },
       "image": "cards/bresciane/bastoni_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cavallo-Bastoni.svg/960px-Cavallo-Bastoni.svg.png"
     },
     {
       "id": "bastoni_10",
@@ -1074,7 +1074,8 @@
         "reversed": "Stubbornness, or a heavy hand."
       },
       "image": "cards/bresciane/bastoni_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Re-Bastoni.svg/960px-Re-Bastoni.svg.png"
     }
-  ]
+  ],
+  "credit": "Brescia deck by ZZandro, CC BY-SA 4.0 (Wikimedia Commons)."
 }

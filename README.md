@@ -15,6 +15,7 @@ A Discord bot for card readings. It has 29 decks plus the I Ching, astrology dic
 | `/iching [question]` | Casts a hexagram with three coins, including changing lines and the hexagram it's becoming |
 | `/astrodice [question]` | Rolls a planet, a sign and a house |
 | `/pendulum question` | A yes-or-no answer (doesn't use your daily reading) |
+| `/credits` | Where each deck's card art comes from |
 | `/resetlimit member:<…>` | Admins only: gives a member their daily reading back |
 
 Each card has a 30% chance of coming up reversed. You can change this with `REVERSAL_CHANCE` in `.env`.
@@ -103,7 +104,7 @@ Every deck is a JSON file in `data/`, and they all use the same card format. The
 
 **Austrian Tarock** is a game deck with no fortune-telling tradition, so its meanings are an original system written for this bot. The tarocks run as a journey through 19th-century town life, from I · Pagat (the underdog) to XXI · Mond and the Sküs.
 
-Decks without scans yet (Lenormand, Tarock) show drawn placeholder cards. Add image URLs to `SOURCES` in the deck's build script, re-run it, then run `scripts/download_cards.py`.
+**Card scans.** Twelve decks use real scans from Wikimedia Commons: Waite-Smith, Marseille, Napoletane, Piemontese, Minchiate, Bergamasche, Bresciane, Romagnole (38 of 40), Baraja (Fournier 1878), Lenormand (35 of 36; the Moon is missing), Playing Cards and Hanafuda. The others show cards drawn by the bot. `scripts/apply_scans.py` holds the scan list. Run it after any `build_*.py` script, then run `scripts/download_cards.py` to fetch the images. Scans are saved as compact JPEGs (about 1000px tall) so the repo stays small. Credits are in `/credits`, and some sets are CC BY-SA, which requires that credit.
 
 ## Credits
 

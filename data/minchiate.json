@@ -4,7 +4,7 @@
   "short_name": "Minchiate",
   "family": "Italian tarot",
   "description": "The Florentine Minchiate, 97 cards with 41 trumps: the virtues, the four elements and the twelve signs of the zodiac join the familiar tarot figures.",
-  "card_aspect": 0.54,
+  "card_aspect": 0.597,
   "color": 15103744,
   "spreads": [
     "single",
@@ -66,7 +66,7 @@
         "reversed": "Carelessness or fear of the leap. Look before you jump, or notice what is holding you back."
       },
       "image": "cards/minchiate/t_00.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_Il_Matto_-.jpg"
     },
     {
       "id": "t_01",
@@ -94,7 +94,7 @@
         "reversed": "Power misdirected or unused. Beware of deception, including self-deception."
       },
       "image": "cards/minchiate/t_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_01_-_Papa_uno.jpg"
     },
     {
       "id": "t_02",
@@ -122,7 +122,7 @@
         "reversed": "Ignoring your intuition, or hidden agendas coming to the surface."
       },
       "image": "cards/minchiate/t_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_02_-_Papa_due.jpg"
     },
     {
       "id": "t_03",
@@ -150,7 +150,7 @@
         "reversed": "Neglect of self or over-giving to others. Creative energy feels stuck."
       },
       "image": "cards/minchiate/t_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_03_-_Papa_tre.jpg"
     },
     {
       "id": "t_04",
@@ -178,7 +178,7 @@
         "reversed": "Control turned tyrannical, or a lack of discipline where it's needed."
       },
       "image": "cards/minchiate/t_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_04_-_Papa_quattro.jpg"
     },
     {
       "id": "t_05",
@@ -206,7 +206,7 @@
         "reversed": "Conflict in a relationship or within yourself. Values and actions are out of step."
       },
       "image": "cards/minchiate/t_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_05_-_Papa_cinque.jpg"
     },
     {
       "id": "t_06",
@@ -234,7 +234,7 @@
         "reversed": "Too much of something. Restore balance before continuing."
       },
       "image": "cards/minchiate/t_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_06_-_La_Temperanza.jpg"
     },
     {
       "id": "t_07",
@@ -262,7 +262,7 @@
         "reversed": "Doubt or being overwhelmed by impulses. Reconnect with your inner steadiness."
       },
       "image": "cards/minchiate/t_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_07_-_La_Forza.jpg"
     },
     {
       "id": "t_08",
@@ -290,7 +290,7 @@
         "reversed": "Injustice, bias, or dodging responsibility. Something needs to be made right."
       },
       "image": "cards/minchiate/t_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_08_-_La_Giustizia.jpg"
     },
     {
       "id": "t_09",
@@ -318,7 +318,7 @@
         "reversed": "A downturn or clinging to what's passing. What goes down comes back up."
       },
       "image": "cards/minchiate/t_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_09_-_La_Ruota_della_Fortuna.jpg"
     },
     {
       "id": "t_10",
@@ -346,7 +346,7 @@
         "reversed": "Losing control of the reins. Momentum without direction."
       },
       "image": "cards/minchiate/t_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_10_-_Il_Carro.jpg"
     },
     {
       "id": "t_11",
@@ -374,7 +374,7 @@
         "reversed": "Retreat has become isolation. Time to return to others."
       },
       "image": "cards/minchiate/t_11.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_11_-_Il_Gobbo.jpg"
     },
     {
       "id": "t_12",
@@ -402,7 +402,7 @@
         "reversed": "Delay without purpose, or refusing to let go."
       },
       "image": "cards/minchiate/t_12.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_12_-_L'Impiccato.jpg"
     },
     {
       "id": "t_13",
@@ -430,7 +430,7 @@
         "reversed": "Holding onto what's already over. Change is delayed but not avoided."
       },
       "image": "cards/minchiate/t_13.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_13_-_La_Morte.jpg"
     },
     {
       "id": "t_14",
@@ -458,7 +458,7 @@
         "reversed": "Breaking free from what bound you. Facing the shadow."
       },
       "image": "cards/minchiate/t_14.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_14_-_Il_Diavolo.jpg"
     },
     {
       "id": "t_15",
@@ -486,7 +486,7 @@
         "reversed": "Avoiding a necessary collapse, or an upheaval felt internally."
       },
       "image": "cards/minchiate/t_15.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_15_-_La_Casa_del_Diavolo.jpg"
     },
     {
       "id": "t_16",
@@ -512,7 +512,7 @@
         "reversed": "Hope has thinned out, or rests on the wrong thing."
       },
       "image": "cards/minchiate/t_16.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_16_-_La_Speranza.jpg"
     },
     {
       "id": "t_17",
@@ -538,7 +538,7 @@
         "reversed": "Either too careless or too cautious to act."
       },
       "image": "cards/minchiate/t_17.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_17_-_La_Prudenza.jpg"
     },
     {
       "id": "t_18",
@@ -564,7 +564,7 @@
         "reversed": "Doubt creeps in, or trust is broken."
       },
       "image": "cards/minchiate/t_18.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_18_-_La_Fede.jpg"
     },
     {
       "id": "t_19",
@@ -590,7 +590,7 @@
         "reversed": "Giving with conditions, or not giving at all."
       },
       "image": "cards/minchiate/t_19.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_19_-_La_Carit%C3%A0.jpg"
     },
     {
       "id": "t_20",
@@ -616,7 +616,7 @@
         "reversed": "Fire out of control: anger or burnout."
       },
       "image": "cards/minchiate/t_20.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_20_-_Il_Fuoco.jpg"
     },
     {
       "id": "t_21",
@@ -642,7 +642,7 @@
         "reversed": "Emotions flood in or go stagnant."
       },
       "image": "cards/minchiate/t_21.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_21_-_L'Acqua.jpg"
     },
     {
       "id": "t_22",
@@ -668,7 +668,7 @@
         "reversed": "Stuck in the mud; too rigid to move."
       },
       "image": "cards/minchiate/t_22.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_22_-_La_Terra.jpg"
     },
     {
       "id": "t_23",
@@ -694,7 +694,7 @@
         "reversed": "Thoughts scatter; too much talk, too little said."
       },
       "image": "cards/minchiate/t_23.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_23_-_L'Aria.jpg"
     },
     {
       "id": "t_24",
@@ -720,7 +720,7 @@
         "reversed": "Things tip out of balance, or you can't decide."
       },
       "image": "cards/minchiate/t_24.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_24_-_La_Bilancia.jpg"
     },
     {
       "id": "t_25",
@@ -746,7 +746,7 @@
         "reversed": "Too critical; lost in details."
       },
       "image": "cards/minchiate/t_25.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_25_-_La_Vergine.jpg"
     },
     {
       "id": "t_26",
@@ -772,7 +772,7 @@
         "reversed": "Stings of jealousy or a wish for revenge."
       },
       "image": "cards/minchiate/t_26.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_26_-_Il_Scorpione.jpg"
     },
     {
       "id": "t_27",
@@ -798,7 +798,7 @@
         "reversed": "Rushing in headfirst."
       },
       "image": "cards/minchiate/t_27.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_27_-_L'Ariete.jpg"
     },
     {
       "id": "t_28",
@@ -824,7 +824,7 @@
         "reversed": "Ambition turned cold or rigid."
       },
       "image": "cards/minchiate/t_28.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_28_-_Il_Capricorno.jpg"
     },
     {
       "id": "t_29",
@@ -850,7 +850,7 @@
         "reversed": "Scattered arrows; promises too big."
       },
       "image": "cards/minchiate/t_29.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_29_-_Il_Sagittario.jpg"
     },
     {
       "id": "t_30",
@@ -876,7 +876,7 @@
         "reversed": "Retreating into the shell; clinging."
       },
       "image": "cards/minchiate/t_30.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_30_-_Il_Cancro.jpg"
     },
     {
       "id": "t_31",
@@ -902,7 +902,7 @@
         "reversed": "Drifting away from what's real."
       },
       "image": "cards/minchiate/t_31.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_31_-_I_Pesci.jpg"
     },
     {
       "id": "t_32",
@@ -928,7 +928,7 @@
         "reversed": "Too detached, or contrary just to be different."
       },
       "image": "cards/minchiate/t_32.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_32_-_L'Acquario.jpg"
     },
     {
       "id": "t_33",
@@ -954,7 +954,7 @@
         "reversed": "Pride tips into vanity."
       },
       "image": "cards/minchiate/t_33.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_33_-_Il_Leone.jpg"
     },
     {
       "id": "t_34",
@@ -980,7 +980,7 @@
         "reversed": "Won't budge; wants more than enough."
       },
       "image": "cards/minchiate/t_34.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_34_-_Il_Toro.jpg"
     },
     {
       "id": "t_35",
@@ -1006,7 +1006,7 @@
         "reversed": "Mixed messages; can't pick a side."
       },
       "image": "cards/minchiate/t_35.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_35_-_I_Gemelli.jpg"
     },
     {
       "id": "t_36",
@@ -1034,7 +1034,7 @@
         "reversed": "Hope feels distant. Reconnect with what inspires you."
       },
       "image": "cards/minchiate/t_36.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_36_-_La_Stella.jpg"
     },
     {
       "id": "t_37",
@@ -1062,7 +1062,7 @@
         "reversed": "Illusions dissolve and fears lose their grip."
       },
       "image": "cards/minchiate/t_37.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_37_-_La_Luna.jpg"
     },
     {
       "id": "t_38",
@@ -1090,7 +1090,7 @@
         "reversed": "Joy is present but muted. The sun is behind a cloud, not gone."
       },
       "image": "cards/minchiate/t_38.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_38_-_Il_Sole.jpg"
     },
     {
       "id": "t_39",
@@ -1118,7 +1118,7 @@
         "reversed": "Almost there. Tie up loose ends before moving on."
       },
       "image": "cards/minchiate/t_39.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_39_-_Il_Mondo.jpg"
     },
     {
       "id": "t_40",
@@ -1146,7 +1146,7 @@
         "reversed": "Refusing the call or judging yourself too harshly."
       },
       "image": "cards/minchiate/t_40.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_40_-_Le_Trombe.jpg"
     },
     {
       "id": "bastoni_01",
@@ -1172,7 +1172,7 @@
         "reversed": "The spark is there but won't catch. Energy blocked or misdirected."
       },
       "image": "cards/minchiate/bastoni_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Minchiate_card_deck_-_Florence_-_1860-1890_-_Batons_-_01.jpg"
     },
     {
       "id": "bastoni_02",
@@ -1198,7 +1198,7 @@
         "reversed": "Playing it safe or hesitating to leave comfort."
       },
       "image": "cards/minchiate/bastoni_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Minchiate_card_deck_-_Florence_-_1860-1890_-_Batons_-_02.jpg"
     },
     {
       "id": "bastoni_03",
@@ -1225,7 +1225,7 @@
         "reversed": "Plans stall. Expect delays and reassess."
       },
       "image": "cards/minchiate/bastoni_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Minchiate_card_deck_-_Florence_-_1860-1890_-_Batons_-_03.jpg"
     },
     {
       "id": "bastoni_04",
@@ -1252,7 +1252,7 @@
         "reversed": "Harmony disrupted or a celebration postponed."
       },
       "image": "cards/minchiate/bastoni_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Minchiate_card_deck_-_Florence_-_1860-1890_-_Batons_-_04.jpg"
     },
     {
       "id": "bastoni_05",
@@ -1278,7 +1278,7 @@
         "reversed": "Conflict winds down, or tension is suppressed."
       },
       "image": "cards/minchiate/bastoni_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Minchiate_card_deck_-_Florence_-_1860-1890_-_Batons_-_05.jpg"
     },
     {
       "id": "bastoni_06",
@@ -1305,7 +1305,7 @@
         "reversed": "Success feels hollow, or recognition is withheld."
       },
       "image": "cards/minchiate/bastoni_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Minchiate_card_deck_-_Florence_-_1860-1890_-_Batons_-_06.jpg"
     },
     {
       "id": "bastoni_07",
@@ -1331,7 +1331,7 @@
         "reversed": "Worn down by opposition. Choose your battles."
       },
       "image": "cards/minchiate/bastoni_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Minchiate_card_deck_-_Florence_-_1860-1890_-_Batons_-_07.jpg"
     },
     {
       "id": "bastoni_08",
@@ -1358,7 +1358,7 @@
         "reversed": "Momentum stalls or rushes out of control."
       },
       "image": "cards/minchiate/bastoni_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Minchiate_card_deck_-_Florence_-_1860-1890_-_Batons_-_08.jpg"
     },
     {
       "id": "bastoni_09",
@@ -1384,7 +1384,7 @@
         "reversed": "Defensiveness has become exhaustion. Rest."
       },
       "image": "cards/minchiate/bastoni_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Minchiate_card_deck_-_Florence_-_1860-1890_-_Batons_-_09.jpg"
     },
     {
       "id": "bastoni_10",
@@ -1410,7 +1410,7 @@
         "reversed": "Putting down what isn't yours to carry."
       },
       "image": "cards/minchiate/bastoni_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Minchiate_card_deck_-_Florence_-_1860-1890_-_Batons_-_10.jpg"
     },
     {
       "id": "bastoni_11",
@@ -1436,7 +1436,7 @@
         "reversed": "Enthusiasm without follow-through."
       },
       "image": "cards/minchiate/bastoni_11.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Minchiate_card_deck_-_Florence_-_1860-1890_-_Batons_-_11_-_Jack.jpg"
     },
     {
       "id": "bastoni_12",
@@ -1463,7 +1463,7 @@
         "reversed": "Recklessness or restlessness burning out."
       },
       "image": "cards/minchiate/bastoni_12.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Minchiate_card_deck_-_Florence_-_1860-1890_-_Batons_-_12_-_Knight.jpg"
     },
     {
       "id": "bastoni_13",
@@ -1490,7 +1490,7 @@
         "reversed": "Confidence turned to insecurity or possessiveness."
       },
       "image": "cards/minchiate/bastoni_13.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Minchiate_card_deck_-_Florence_-_1860-1890_-_Batons_-_13_-_Queen.jpg"
     },
     {
       "id": "bastoni_14",
@@ -1517,7 +1517,7 @@
         "reversed": "Leadership becomes domineering or rash."
       },
       "image": "cards/minchiate/bastoni_14.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Minchiate_card_deck_-_Florence_-_1860-1890_-_Batons_-_14_-_King.jpg"
     },
     {
       "id": "coppe_01",
@@ -1543,7 +1543,7 @@
         "reversed": "Emotions held back or a love left unexpressed."
       },
       "image": "cards/minchiate/coppe_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Minchiate_card_deck_-_Florence_-_1860-1890_-_Cups_-_01.jpg"
     },
     {
       "id": "coppe_02",
@@ -1569,7 +1569,7 @@
         "reversed": "Disharmony or a partnership out of balance."
       },
       "image": "cards/minchiate/coppe_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Minchiate_card_deck_-_Florence_-_1860-1890_-_Cups_-_02.jpg"
     },
     {
       "id": "coppe_03",
@@ -1596,7 +1596,7 @@
         "reversed": "Too much of a good thing, or feeling left out."
       },
       "image": "cards/minchiate/coppe_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Minchiate_card_deck_-_Florence_-_1860-1890_-_Cups_-_03.jpg"
     },
     {
       "id": "coppe_04",
@@ -1622,7 +1622,7 @@
         "reversed": "Waking from apathy. Seizing an opportunity."
       },
       "image": "cards/minchiate/coppe_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Minchiate_card_deck_-_Florence_-_1860-1890_-_Cups_-_04.jpg"
     },
     {
       "id": "coppe_05",
@@ -1649,7 +1649,7 @@
         "reversed": "Turning toward what remains. Healing begins."
       },
       "image": "cards/minchiate/coppe_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Minchiate_card_deck_-_Florence_-_1860-1890_-_Cups_-_05.jpg"
     },
     {
       "id": "coppe_06",
@@ -1675,7 +1675,7 @@
         "reversed": "Living in the past instead of the present."
       },
       "image": "cards/minchiate/coppe_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Minchiate_card_deck_-_Florence_-_1860-1890_-_Cups_-_06.jpg"
     },
     {
       "id": "coppe_07",
@@ -1702,7 +1702,7 @@
         "reversed": "Fantasies fade and a real choice emerges."
       },
       "image": "cards/minchiate/coppe_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Minchiate_card_deck_-_Florence_-_1860-1890_-_Cups_-_07.jpg"
     },
     {
       "id": "coppe_08",
@@ -1728,7 +1728,7 @@
         "reversed": "Afraid to leave, or leaving without purpose."
       },
       "image": "cards/minchiate/coppe_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Minchiate_card_deck_-_Florence_-_1860-1890_-_Cups_-_08.jpg"
     },
     {
       "id": "coppe_09",
@@ -1754,7 +1754,7 @@
         "reversed": "Material satisfaction that doesn't reach the heart."
       },
       "image": "cards/minchiate/coppe_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Minchiate_card_deck_-_Florence_-_1860-1890_-_Cups_-_09.jpg"
     },
     {
       "id": "coppe_10",
@@ -1780,7 +1780,7 @@
         "reversed": "Discord in the family or unmet ideals."
       },
       "image": "cards/minchiate/coppe_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Minchiate_card_deck_-_Florence_-_1860-1890_-_Cups_-_10.jpg"
     },
     {
       "id": "coppe_11",
@@ -1806,7 +1806,7 @@
         "reversed": "Moodiness or ignoring your creative voice."
       },
       "image": "cards/minchiate/coppe_11.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Minchiate_card_deck_-_Florence_-_1860-1890_-_Cups_-_11_-_Jack.jpg"
     },
     {
       "id": "coppe_12",
@@ -1832,7 +1832,7 @@
         "reversed": "Charm without substance. Promises unkept."
       },
       "image": "cards/minchiate/coppe_12.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Minchiate_card_deck_-_Florence_-_1860-1890_-_Cups_-_12_-_Knight.jpg"
     },
     {
       "id": "coppe_13",
@@ -1858,7 +1858,7 @@
         "reversed": "Drowning in others' feelings. Set boundaries."
       },
       "image": "cards/minchiate/coppe_13.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Minchiate_card_deck_-_Florence_-_1860-1890_-_Cups_-_13_-_Queen.jpg"
     },
     {
       "id": "coppe_14",
@@ -1885,7 +1885,7 @@
         "reversed": "Suppressed emotion or emotional manipulation."
       },
       "image": "cards/minchiate/coppe_14.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Minchiate_card_deck_-_Florence_-_1860-1890_-_Cups_-_14_-_King.jpg"
     },
     {
       "id": "spade_01",
@@ -1911,7 +1911,7 @@
         "reversed": "Clouded thinking or harsh words."
       },
       "image": "cards/minchiate/spade_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Minchiate_card_deck_-_Florence_-_1860-1890_-_Swords_-_01.jpg"
     },
     {
       "id": "spade_02",
@@ -1937,7 +1937,7 @@
         "reversed": "The blindfold comes off. Time to decide."
       },
       "image": "cards/minchiate/spade_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Minchiate_card_deck_-_Florence_-_1860-1890_-_Swords_-_02.jpg"
     },
     {
       "id": "spade_03",
@@ -1963,7 +1963,7 @@
         "reversed": "The wound begins to heal. Letting go of sorrow."
       },
       "image": "cards/minchiate/spade_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Minchiate_card_deck_-_Florence_-_1860-1890_-_Swords_-_03.jpg"
     },
     {
       "id": "spade_04",
@@ -1989,7 +1989,7 @@
         "reversed": "Refusing rest until burnout forces it."
       },
       "image": "cards/minchiate/spade_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Minchiate_card_deck_-_Florence_-_1860-1890_-_Swords_-_04.jpg"
     },
     {
       "id": "spade_05",
@@ -2015,7 +2015,7 @@
         "reversed": "Ending the conflict. Moving past resentment."
       },
       "image": "cards/minchiate/spade_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Minchiate_card_deck_-_Florence_-_1860-1890_-_Swords_-_05.jpg"
     },
     {
       "id": "spade_06",
@@ -2041,7 +2041,7 @@
         "reversed": "Carrying baggage along, or unable to leave."
       },
       "image": "cards/minchiate/spade_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Minchiate_card_deck_-_Florence_-_1860-1890_-_Swords_-_06.jpg"
     },
     {
       "id": "spade_07",
@@ -2068,7 +2068,7 @@
         "reversed": "Secrets come out. Coming clean."
       },
       "image": "cards/minchiate/spade_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Minchiate_card_deck_-_Florence_-_1860-1890_-_Swords_-_07.jpg"
     },
     {
       "id": "spade_08",
@@ -2094,7 +2094,7 @@
         "reversed": "Stepping free of self-imposed limits."
       },
       "image": "cards/minchiate/spade_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Minchiate_card_deck_-_Florence_-_1860-1890_-_Swords_-_08.jpg"
     },
     {
       "id": "spade_09",
@@ -2121,7 +2121,7 @@
         "reversed": "The worst of the worry passes. Share it."
       },
       "image": "cards/minchiate/spade_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Minchiate_card_deck_-_Florence_-_1860-1890_-_Swords_-_09.jpg"
     },
     {
       "id": "spade_10",
@@ -2147,7 +2147,7 @@
         "reversed": "Rising from the lowest point."
       },
       "image": "cards/minchiate/spade_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Minchiate_card_deck_-_Florence_-_1860-1890_-_Swords_-_10.jpg"
     },
     {
       "id": "spade_11",
@@ -2174,7 +2174,7 @@
         "reversed": "Talk without action, or spreading rumours."
       },
       "image": "cards/minchiate/spade_11.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Minchiate_card_deck_-_Florence_-_1860-1890_-_Swords_-_11_-_Jack.jpg"
     },
     {
       "id": "spade_12",
@@ -2201,7 +2201,7 @@
         "reversed": "Impulsive or combative in ways that backfire."
       },
       "image": "cards/minchiate/spade_12.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Minchiate_card_deck_-_Florence_-_1860-1890_-_Swords_-_12_-_Knight.jpg"
     },
     {
       "id": "spade_13",
@@ -2227,7 +2227,7 @@
         "reversed": "Cruelty in place of clarity."
       },
       "image": "cards/minchiate/spade_13.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Minchiate_card_deck_-_Florence_-_1860-1890_-_Swords_-_13_-_Queen.jpg"
     },
     {
       "id": "spade_14",
@@ -2253,7 +2253,7 @@
         "reversed": "Cold, manipulative logic."
       },
       "image": "cards/minchiate/spade_14.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Minchiate_card_deck_-_Florence_-_1860-1890_-_Swords_-_14_-_King.jpg"
     },
     {
       "id": "denari_01",
@@ -2279,7 +2279,7 @@
         "reversed": "An opportunity slips through your fingers."
       },
       "image": "cards/minchiate/denari_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Minchiate_card_deck_-_Florence_-_1860-1890_-_Coins_-_01.jpg"
     },
     {
       "id": "denari_02",
@@ -2305,7 +2305,7 @@
         "reversed": "Dropping the ball. Too much at once."
       },
       "image": "cards/minchiate/denari_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Minchiate_card_deck_-_Florence_-_1860-1890_-_Coins_-_02.jpg"
     },
     {
       "id": "denari_03",
@@ -2331,7 +2331,7 @@
         "reversed": "Disharmony on the team or careless work."
       },
       "image": "cards/minchiate/denari_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Minchiate_card_deck_-_Florence_-_1860-1890_-_Coins_-_03.jpg"
     },
     {
       "id": "denari_04",
@@ -2358,7 +2358,7 @@
         "reversed": "Loosening your grip, or clinging too hard."
       },
       "image": "cards/minchiate/denari_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Minchiate_card_deck_-_Florence_-_1860-1890_-_Coins_-_04.jpg"
     },
     {
       "id": "denari_05",
@@ -2384,7 +2384,7 @@
         "reversed": "Recovering from hard times."
       },
       "image": "cards/minchiate/denari_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Minchiate_card_deck_-_Florence_-_1860-1890_-_Coins_-_05.jpg"
     },
     {
       "id": "denari_06",
@@ -2410,7 +2410,7 @@
         "reversed": "Generosity with an agenda, or imbalance of power."
       },
       "image": "cards/minchiate/denari_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Minchiate_card_deck_-_Florence_-_1860-1890_-_Coins_-_06.jpg"
     },
     {
       "id": "denari_07",
@@ -2436,7 +2436,7 @@
         "reversed": "Frustration with slow results."
       },
       "image": "cards/minchiate/denari_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Minchiate_card_deck_-_Florence_-_1860-1890_-_Coins_-_07.jpg"
     },
     {
       "id": "denari_08",
@@ -2462,7 +2462,7 @@
         "reversed": "Work without meaning, or cutting corners."
       },
       "image": "cards/minchiate/denari_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Minchiate_card_deck_-_Florence_-_1860-1890_-_Coins_-_08.jpg"
     },
     {
       "id": "denari_09",
@@ -2488,7 +2488,7 @@
         "reversed": "Wealth without fulfilment."
       },
       "image": "cards/minchiate/denari_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Minchiate_card_deck_-_Florence_-_1860-1890_-_Coins_-_09.jpg"
     },
     {
       "id": "denari_10",
@@ -2514,7 +2514,7 @@
         "reversed": "Disputes over money or legacy."
       },
       "image": "cards/minchiate/denari_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Minchiate_card_deck_-_Florence_-_1860-1890_-_Coins_-_10.jpg"
     },
     {
       "id": "denari_11",
@@ -2540,7 +2540,7 @@
         "reversed": "Daydreaming without doing."
       },
       "image": "cards/minchiate/denari_11.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Minchiate_card_deck_-_Florence_-_1860-1890_-_Coins_-_11_-_Jack.jpg"
     },
     {
       "id": "denari_12",
@@ -2567,7 +2567,7 @@
         "reversed": "Stuck in a rut."
       },
       "image": "cards/minchiate/denari_12.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Minchiate_card_deck_-_Florence_-_1860-1890_-_Coins_-_12_-_Knight.jpg"
     },
     {
       "id": "denari_13",
@@ -2593,7 +2593,7 @@
         "reversed": "Neglecting yourself while caring for everything else."
       },
       "image": "cards/minchiate/denari_13.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Minchiate_card_deck_-_Florence_-_1860-1890_-_Coins_-_13_-_Queen.jpg"
     },
     {
       "id": "denari_14",
@@ -2620,7 +2620,8 @@
         "reversed": "Obsessed with wealth and status."
       },
       "image": "cards/minchiate/denari_14.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Minchiate_card_deck_-_Florence_-_1860-1890_-_Coins_-_14_-_King.jpg"
     }
-  ]
+  ],
+  "credit": "Minchiate, Florence, 1860–1890. Public domain."
 }

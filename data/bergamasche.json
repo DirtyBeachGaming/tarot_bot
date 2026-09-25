@@ -4,7 +4,7 @@
   "short_name": "Bergamasche",
   "family": "Italian regional",
   "description": "From Bergamo, in Lombardy. 40 cards. Meanings follow Italian cartomancy (shared with the Napoletane). Double-headed, so read without reversals.",
-  "card_aspect": 0.55,
+  "card_aspect": 0.545,
   "reversals": false,
   "spreads": [
     "single",
@@ -60,7 +60,7 @@
         "reversed": "Money is slow to arrive, or an opportunity is undervalued."
       },
       "image": "cards/bergamasche/denari_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bergamo_Deck_-_Coins_-_Ace.jpg"
     },
     {
       "id": "denari_02",
@@ -86,7 +86,7 @@
         "reversed": "One side gets the better of the bargain."
       },
       "image": "cards/bergamasche/denari_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Bergamo_Deck_-_Coins_-_02.jpg"
     },
     {
       "id": "denari_03",
@@ -112,7 +112,7 @@
         "reversed": "Returns are smaller than hoped."
       },
       "image": "cards/bergamasche/denari_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bergamo_Deck_-_Coins_-_03.jpg"
     },
     {
       "id": "denari_04",
@@ -138,7 +138,7 @@
         "reversed": "Holding money so tightly it can't work for you."
       },
       "image": "cards/bergamasche/denari_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Bergamo_Deck_-_Coins_-_04.jpg"
     },
     {
       "id": "denari_05",
@@ -164,7 +164,7 @@
         "reversed": "The worst of the expense has passed."
       },
       "image": "cards/bergamasche/denari_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bergamo_Deck_-_Coins_-_05.jpg"
     },
     {
       "id": "denari_06",
@@ -190,7 +190,7 @@
         "reversed": "A favour that comes with a price."
       },
       "image": "cards/bergamasche/denari_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bergamo_Deck_-_Coins_-_06.jpg"
     },
     {
       "id": "denari_07",
@@ -216,7 +216,7 @@
         "reversed": "Luck is there but slips through greedy fingers."
       },
       "image": "cards/bergamasche/denari_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bergamo_Deck_-_Coins_-_07.jpg"
     },
     {
       "id": "denari_08",
@@ -242,7 +242,7 @@
         "reversed": "Unreliable messages or careless spending."
       },
       "image": "cards/bergamasche/denari_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bergamo_Deck_-_Coins_-_Jack.jpg"
     },
     {
       "id": "denari_09",
@@ -268,7 +268,7 @@
         "reversed": "The deal stalls on the road."
       },
       "image": "cards/bergamasche/denari_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bergamo_Deck_-_Coins_-_Knight.jpg"
     },
     {
       "id": "denari_10",
@@ -294,7 +294,7 @@
         "reversed": "Wealth used to control, or a stingy authority."
       },
       "image": "cards/bergamasche/denari_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bergamo_Deck_-_Coins_-_King.jpg"
     },
     {
       "id": "coppe_01",
@@ -321,7 +321,7 @@
         "reversed": "Coldness at home, or feelings held back."
       },
       "image": "cards/bergamasche/coppe_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bergamo_Deck_-_Cups_-_Ace.jpg"
     },
     {
       "id": "coppe_02",
@@ -347,7 +347,7 @@
         "reversed": "A rift between two people."
       },
       "image": "cards/bergamasche/coppe_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Bergamo_Deck_-_Cups_-_02.jpg"
     },
     {
       "id": "coppe_03",
@@ -373,7 +373,7 @@
         "reversed": "Too much wine and loose talk."
       },
       "image": "cards/bergamasche/coppe_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bergamo_Deck_-_Cups_-_03.jpg"
     },
     {
       "id": "coppe_04",
@@ -399,7 +399,7 @@
         "reversed": "Comfort has turned into boredom."
       },
       "image": "cards/bergamasche/coppe_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bergamo_Deck_-_Cups_-_04.jpg"
     },
     {
       "id": "coppe_05",
@@ -425,7 +425,7 @@
         "reversed": "Consolation comes and the heart starts to mend."
       },
       "image": "cards/bergamasche/coppe_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bergamo_Deck_-_Cups_-_05.jpg"
     },
     {
       "id": "coppe_06",
@@ -451,7 +451,7 @@
         "reversed": "Living in yesterday."
       },
       "image": "cards/bergamasche/coppe_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bergamo_Deck_-_Cups_-_06.jpg"
     },
     {
       "id": "coppe_07",
@@ -477,7 +477,7 @@
         "reversed": "Desire clouds judgment. Beware jealousy."
       },
       "image": "cards/bergamasche/coppe_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bergamo_Deck_-_Cups_-_07.jpg"
     },
     {
       "id": "coppe_08",
@@ -503,7 +503,7 @@
         "reversed": "Charm that doesn't last."
       },
       "image": "cards/bergamasche/coppe_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bergamo_Deck_-_Cups_-_Jack.jpg"
     },
     {
       "id": "coppe_09",
@@ -529,7 +529,7 @@
         "reversed": "Someone rides away, or a promise isn't kept."
       },
       "image": "cards/bergamasche/coppe_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Bergamo_Deck_-_Cups_-_Knight.jpg"
     },
     {
       "id": "coppe_10",
@@ -555,7 +555,7 @@
         "reversed": "Affection turned possessive or moody."
       },
       "image": "cards/bergamasche/coppe_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bergamo_Deck_-_Cups_-_King.jpg"
     },
     {
       "id": "spade_01",
@@ -582,7 +582,7 @@
         "reversed": "A blow or hard news. Words that wound."
       },
       "image": "cards/bergamasche/spade_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bergamo_Deck_-_Swords_-_Ace.jpg"
     },
     {
       "id": "spade_02",
@@ -608,7 +608,7 @@
         "reversed": "The standoff eases into a truce."
       },
       "image": "cards/bergamasche/spade_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bergamo_Deck_-_Swords_-_02.jpg"
     },
     {
       "id": "spade_03",
@@ -634,7 +634,7 @@
         "reversed": "The sting fades and forgiveness becomes possible."
       },
       "image": "cards/bergamasche/spade_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Bergamo_Deck_-_Swords_-_03.jpg"
     },
     {
       "id": "spade_04",
@@ -660,7 +660,7 @@
         "reversed": "Unable to rest; the strain lingers."
       },
       "image": "cards/bergamasche/spade_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bergamo_Deck_-_Swords_-_04.jpg"
     },
     {
       "id": "spade_05",
@@ -686,7 +686,7 @@
         "reversed": "Making peace after the quarrel."
       },
       "image": "cards/bergamasche/spade_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Bergamo_Deck_-_Swords_-_05.jpg"
     },
     {
       "id": "spade_06",
@@ -711,7 +711,7 @@
         "reversed": "Trying to leave but held back."
       },
       "image": "cards/bergamasche/spade_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bergamo_Deck_-_Swords_-_06.jpg"
     },
     {
       "id": "spade_07",
@@ -736,7 +736,7 @@
         "reversed": "The deception is exposed."
       },
       "image": "cards/bergamasche/spade_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bergamo_Deck_-_Swords_-_07.jpg"
     },
     {
       "id": "spade_08",
@@ -762,7 +762,7 @@
         "reversed": "Malicious talk. Don't take the bait."
       },
       "image": "cards/bergamasche/spade_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bergamo_Deck_-_Swords_-_Jack.jpg"
     },
     {
       "id": "spade_09",
@@ -788,7 +788,7 @@
         "reversed": "Haste causes harm. Slow down."
       },
       "image": "cards/bergamasche/spade_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bergamo_Deck_-_Swords_-_Knight.jpg"
     },
     {
       "id": "spade_10",
@@ -814,7 +814,7 @@
         "reversed": "Authority that is harsh or unjust."
       },
       "image": "cards/bergamasche/spade_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Bergamo_Deck_-_Swords_-_King.jpg"
     },
     {
       "id": "bastoni_01",
@@ -840,7 +840,7 @@
         "reversed": "Plans that won't take root."
       },
       "image": "cards/bergamasche/bastoni_01.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Bergamo_Deck_-_Wands_-_Ace.jpg"
     },
     {
       "id": "bastoni_02",
@@ -866,7 +866,7 @@
         "reversed": "Hesitation wastes the moment."
       },
       "image": "cards/bergamasche/bastoni_02.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bergamo_Deck_-_Wands_-_02.jpg"
     },
     {
       "id": "bastoni_03",
@@ -892,7 +892,7 @@
         "reversed": "Delays in plans or deliveries."
       },
       "image": "cards/bergamasche/bastoni_03.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bergamo_Deck_-_Wands_-_03.jpg"
     },
     {
       "id": "bastoni_04",
@@ -918,7 +918,7 @@
         "reversed": "Things feel unsettled."
       },
       "image": "cards/bergamasche/bastoni_04.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Bergamo_Deck_-_Wands_-_04.jpg"
     },
     {
       "id": "bastoni_05",
@@ -944,7 +944,7 @@
         "reversed": "The dispute resolves or is avoided."
       },
       "image": "cards/bergamasche/bastoni_05.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bergamo_Deck_-_Wands_-_05.jpg"
     },
     {
       "id": "bastoni_06",
@@ -970,7 +970,7 @@
         "reversed": "Success delayed, or spoiled by pride."
       },
       "image": "cards/bergamasche/bastoni_06.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bergamo_Deck_-_Wands_-_06.jpg"
     },
     {
       "id": "bastoni_07",
@@ -996,7 +996,7 @@
         "reversed": "Worn out. Know when to yield."
       },
       "image": "cards/bergamasche/bastoni_07.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bergamo_Deck_-_Wands_-_07.jpg"
     },
     {
       "id": "bastoni_08",
@@ -1022,7 +1022,7 @@
         "reversed": "Messages delayed, tasks left undone."
       },
       "image": "cards/bergamasche/bastoni_08.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Bergamo_Deck_-_Wands_-_Jack.jpg"
     },
     {
       "id": "bastoni_09",
@@ -1048,7 +1048,7 @@
         "reversed": "A trip postponed, or a move that goes wrong."
       },
       "image": "cards/bergamasche/bastoni_09.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Bergamo_Deck_-_Wands_-_Knight.jpg"
     },
     {
       "id": "bastoni_10",
@@ -1074,7 +1074,8 @@
         "reversed": "Stubbornness, or a heavy hand."
       },
       "image": "cards/bergamasche/bastoni_10.jpg",
-      "source_url": ""
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bergamo_Deck_-_Wands_-_King.jpg"
     }
-  ]
+  ],
+  "credit": "Bergamo deck by Poulpy, CC BY-SA 3.0 (Wikimedia Commons)."
 }

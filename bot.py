@@ -465,6 +465,14 @@ async def decks_cmd(interaction: discord.Interaction):
     await interaction.response.send_message(embed=embed, ephemeral=True)
 
 
+@bot.tree.command(name="credits", description="Where the card art comes from")
+async def credits_cmd(interaction: discord.Interaction):
+    lines = [f"**{dk.name}**: {dk.credit}" for dk in sorted(DECKS.values(), key=lambda d: d.name) if dk.credit]
+    lines.append("\nOther decks use cards drawn by the bot. Meanings: see /decks.")
+    embed = discord.Embed(title="Card art credits", description="\n".join(lines)[:4096], color=DECKS[DEFAULT_DECK].color)
+    await interaction.response.send_message(embed=embed, ephemeral=True)
+
+
 @bot.tree.command(name="resetlimit", description="(Admins) Give a member their daily reading back")
 @app_commands.default_permissions(manage_guild=True)
 @app_commands.describe(member="Whose limit to reset")
